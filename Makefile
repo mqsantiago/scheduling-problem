@@ -6,3 +6,6 @@ run:
 
 test:
 	python3 src/test.py
+
+run_mrcpsp:
+	python3 src/mrcpsp.py
