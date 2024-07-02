@@ -156,8 +156,52 @@ def generate_activity_neighbour(solution):
     return neighbour
 
 
-def cost(solution):
-    return len(solution)
+def cost(activities, show=False):
+    schedule = [-1] * len(params.SUCCESSORS)
+
+    total = 0
+
+    start_time = 0
+
+    task = activities[0]
+    duration = params.DURATIONS[task - 1][0]
+    finish_time = start_time + duration
+
+    schedule[task - 1] = start_time
+
+    if finish_time > total:
+        total = finish_time
+
+    for i in range(1, len(activities)):
+
+        task = activities[i]
+        predecessors = params.PREDECESSORS[task - 1]
+
+        previous_task = activities[i - 1]
+
+        parallel = True
+        if previous_task in predecessors:
+            parallel = False
+
+        if not parallel or not is_enough_resources(schedule):
+            start_time += params.DURATIONS[previous_task - 1][0]
+
+        duration = params.DURATIONS[task - 1][0]
+        finish_time = start_time + duration
+
+        schedule[task - 1] = start_time
+
+        if finish_time > total:
+            total = finish_time
+
+    if show:
+        print(schedule)
+
+    return total
+
+
+def is_enough_resources(schedule):
+    return True
 
 
 def acceptance_threshold(temperature, delta):
@@ -165,7 +209,8 @@ def acceptance_threshold(temperature, delta):
 
 
 def sa_procedure():
-    # cp = calculate_critical_path()
+    cp = calculate_critical_path()
+    print(cp)
     x0 = generate_activity_initial_solution()
     cost_x0 = cost(x0)
     x_best = list(x0)
@@ -190,15 +235,15 @@ def sa_procedure():
                 cost_x_neighbour = cost(x_neighbour)
                 delta = cost_x_neighbour - cost_current
                 if delta < 0:
-                    x_current = x_neighbour
+                    x_current = list(x_neighbour)
                     cost_current = cost_x_neighbour
 
                     if cost_x_neighbour < cost_best:
-                        x_best = x_neighbour
+                        x_best = list(x_neighbour)
                         cost_best = cost_x_neighbour
 
-                        # if cost_best == cp:
-                        #     return x_best
+                        if cost_best <= cp:
+                            return x_best
                 elif acceptance_threshold(t, delta):
                     x_current = x_neighbour
                     cost_current = cost_x_neighbour
@@ -209,8 +254,11 @@ def sa_procedure():
 
 help_start_time = time.time()
 sa_solution = sa_procedure()
+# sa_solution = generate_activity_initial_solution()
 help_end_time = time.time()
 
 print(f"Best Solution so far: {sa_solution}")
+
+print(cost(sa_solution, True))
 
 print(f"Execution time: {help_end_time - help_start_time} seconds")

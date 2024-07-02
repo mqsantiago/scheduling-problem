@@ -177,7 +177,7 @@ CANDIDATE_PARENTS = [
     [29, 30, 31],
 ]
 
-PREDECESSORS = [
+PREDECESSORS_SIMPLE = [
     [],
     [1],
     [1],
@@ -212,6 +212,99 @@ PREDECESSORS = [
     [29, 30, 31],
 ]
 
+PREDECESSORS = [
+    [], # 1
+    [1], # 2
+    [1], # 3
+    [1], # 4
+    [1, 4], # 5
+    [1, 2], # 6
+    [1, 4], # 7
+    [1, 2, 4, 6, 7], # 8
+    [1, 4, 7], # 9
+    [1, 2, 4, 5, 6, 7, 8, 9], # 10
+    [1, 4], # 11
+    [1, 3], # 12
+    [1, 4, 11], # 13
+    [1, 3], # 14
+    [1, 2, 4, 6, 7, 9], # 15
+    [1, 2, 3], # 16
+    [1, 2, 3, 6, 14], # 17
+    [1, 3, 12, 14], # 18
+    [1, 2, 4, 6, 7, 9, 11, 13, 15], # 19
+    [1, 4, 11], # 20
+    [1, 2, 3, 4, 5, 6, 7, 9, 12, 14, 15, 18], # 21
+    [1, 3, 12], # 22
+    [1, 3, 4, 11, 12, 14, 20, 22], # 23
+    [1, 2, 3, 4, 6, 7, 8, 14, 17], # 24
+    [1, 3, 12, 14, 18], # 25
+    [1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 19, 20, 22, 23], # 26
+    [1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 19, 20, 22, 23, 26], # 27
+    [1, 3, 4, 11, 12, 13, 14, 18, 22], # 28
+    [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        26,
+        27,
+        28,
+    ], # 29
+    [1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 14, 17, 18, 22, 24, 28], # 30
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 18, 22, 25, 28], # 31
+    [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+    ], # 32
+]
+
 
 def predecessors_from_successors(all_successors):
     predecessors = [[] for _ in all_successors]
@@ -220,4 +313,16 @@ def predecessors_from_successors(all_successors):
         for successor in successors:
             predecessors[successor - 1].append(task + 1)
 
+    for i, i_p in enumerate(predecessors):
+        for j, j_p in enumerate(predecessors):
+            if i + 1 in j_p:
+                predecessors[j].extend(i_p)
+
+    for i, _ in enumerate(predecessors):
+        predecessors[i] = list(set(predecessors[i]))
+        predecessors[i].sort()
+
     return predecessors
+
+
+# print(predecessors_from_successors(SUCCESSORS))
