@@ -54,19 +54,17 @@ def last_scheduled_predecessor_index(task, schedule):
 def last_predecessor_index(task_index, solution):
     predecessors = params.PREDECESSORS[solution[task_index] - 1]
 
-    index = -1
-
     if len(predecessors) == 0:
-        return index
+        return -1
 
-    for i in range(0, task_index):
+    for i in range(task_index - 1, -1, -1):
         if solution[i] in predecessors:
-            index = i
+            return i
 
-    return index
+    return -1
 
 
-def first_sucessor_index(task_index, solution):
+def first_successor_index(task_index, solution):
     successors = params.SUCCESSORS[solution[task_index] - 1]
 
     index = -1
@@ -132,34 +130,36 @@ def shortest_process_time(options):
 
 
 def generate_activity_neighbour(solution):
-    neighbour = list(solution)
     task_index = random.randint(0, len(solution) - 1)
 
     last_predecessor = last_predecessor_index(task_index, solution)
-    first_sucessor = first_sucessor_index(task_index, solution)
+    first_successor = first_successor_index(task_index, solution)
 
-    if first_sucessor == -1:
-        first_sucessor = len(solution)
+    if first_successor == -1:
+        first_successor = len(solution)
 
-    selection = random.randint(last_predecessor + 1, first_sucessor - 1)
+    selection = random.randint(last_predecessor + 1, first_successor - 1)
 
-    start = task_index
-    end = selection
+    if selection == task_index:
+        return solution
 
-    if start > end:
-        start = selection
-        end = task_index
+    return cycle_swift(solution, task_index, selection)
 
-    neighbour[start + 1 : end + 1] = solution[start:end]
-    neighbour[start] = solution[end]
 
-    return neighbour
+def cycle_swift(s, pivot, edge):
+    n = list(s)
+
+    if pivot < edge:
+        n[pivot:edge] = s[pivot + 1 : edge + 1]
+    else:
+        n[edge + 1 : pivot + 1] = s[edge:pivot]
+
+    n[edge] = s[pivot]
+    return n
 
 
 def cost(activities, show=False):
-    schedule = [-1] * len(params.SUCCESSORS)
-
-    total = 0
+    schedule = [(-1, 0, 0)] * len(params.PREDECESSORS)
 
     start_time = 0
 
@@ -167,40 +167,121 @@ def cost(activities, show=False):
     duration = params.DURATIONS[task - 1][0]
     finish_time = start_time + duration
 
-    schedule[task - 1] = start_time
+    schedule[task - 1] = (task, start_time, finish_time)
 
-    if finish_time > total:
-        total = finish_time
+    total = finish_time
+
+    milestones = [start_time]
+
+    if start_time != finish_time:
+        milestones.append(finish_time)
 
     for i in range(1, len(activities)):
 
         task = activities[i]
-        predecessors = params.PREDECESSORS[task - 1]
 
-        previous_task = activities[i - 1]
+        last_predecessor = last_predecessor_index(i, activities)
 
-        parallel = True
-        if previous_task in predecessors:
-            parallel = False
+        last_predecessor_finish_time = schedule[activities[last_predecessor] - 1][2]
+        previous_task_start_time = schedule[activities[i - 1] - 1][1]
 
-        if not parallel or not is_enough_resources(schedule):
-            start_time += params.DURATIONS[previous_task - 1][0]
+        # Must be scheduled at least at start time from previous task
+        # Must be scheduled after last predecessor finish time
+        # Must be scheduled with enough resources
+
+        start = previous_task_start_time
+
+        if last_predecessor_finish_time > start:
+            start = last_predecessor_finish_time
+
+        milestone_start_index = find_index(milestones, start)
+        for j in range(milestone_start_index, len(milestones)):
+            milestone = milestones[j]
+            start = milestone
+            if is_enough_resources(schedule, task, milestone):
+                break
+
+        # start = milestones[milestone_start_index]
 
         duration = params.DURATIONS[task - 1][0]
-        finish_time = start_time + duration
+        finish = start + duration
 
-        schedule[task - 1] = start_time
+        schedule[task - 1] = (task, start, finish)  # type: ignore
 
-        if finish_time > total:
-            total = finish_time
+        si = find_index(milestones, start)
+
+        if milestones[si] != start:
+            milestones.insert(si + 1, start)
+
+        fi = find_index(milestones, finish)
+        if milestones[fi] != finish:
+            milestones.insert(fi + 1, finish)
+
+        if finish > total:
+            total = finish
 
     if show:
-        print(schedule)
+        print_schedule(schedule, activities)
 
     return total
 
 
-def is_enough_resources(schedule):
+def find_index(arr, value, first=True):
+    if first:
+        arr = list(enumerate(arr))
+
+    size = len(arr)
+
+    if size == 0:
+        return -1
+
+    if size == 1:
+        return arr[0][0]
+
+    middle = int(size / 2)
+
+    if arr[middle][1] == value:
+        return arr[middle][0]
+
+    if arr[middle][1] > value:
+        return find_index(arr[:middle], value, False)
+    return find_index(arr[middle:], value, False)
+
+
+def print_schedule(schedule, activities):
+    ordered_schedule = []
+
+    for i in activities:
+        ordered_schedule.append(schedule[i - 1])
+
+    print(ordered_schedule)
+    for item in ordered_schedule:
+        print(f"{item[0]}", end=" ")
+        max_size = item[1] if item[0] > 9 else item[1] + 1
+        for _ in range(max_size):
+            print(" ", end="")
+        for _ in range(item[2] - item[1]):
+            print("-", end="")
+        print("")
+    print("")
+
+
+def is_enough_resources(schedule, task, start_time):
+    resources = list(params.RESOURCE_LIMITS)
+
+    task_resources = params.RESOURCE_USAGE[task - 1][0]
+    for i, resource in enumerate(task_resources):
+        resources[i] -= resource
+
+    for scheduled_task in schedule:
+        t, start, end = scheduled_task
+        if start <= start_time < end:
+            scheduled_task_resources = params.RESOURCE_USAGE[t - 1][0]
+            for i, resource in enumerate(scheduled_task_resources):
+                resources[i] -= resource
+                if resources[i] < 0:
+                    return False
+
     return True
 
 
@@ -209,8 +290,8 @@ def acceptance_threshold(temperature, delta):
 
 
 def sa_procedure():
-    cp = calculate_critical_path()
-    print(cp)
+    # cp = calculate_critical_path()
+    # print(cp)
     x0 = generate_activity_initial_solution()
     cost_x0 = cost(x0)
     x_best = list(x0)
@@ -222,8 +303,8 @@ def sa_procedure():
     h = 1
     t0_max = 100
     alpha = 0.25
-    s = 5
-    c = 2
+    s = 5  # 5
+    c = 1  # 2
 
     for _ in range(c):
         t = t0_max
@@ -242,8 +323,8 @@ def sa_procedure():
                         x_best = list(x_neighbour)
                         cost_best = cost_x_neighbour
 
-                        if cost_best <= cp:
-                            return x_best
+                        # if cost_best <= cp:
+                        # return x_best
                 elif acceptance_threshold(t, delta):
                     x_current = x_neighbour
                     cost_current = cost_x_neighbour
@@ -254,7 +335,6 @@ def sa_procedure():
 
 help_start_time = time.time()
 sa_solution = sa_procedure()
-# sa_solution = generate_activity_initial_solution()
 help_end_time = time.time()
 
 print(f"Best Solution so far: {sa_solution}")

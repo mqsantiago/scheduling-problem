@@ -9,3 +9,6 @@ test:
 
 run_mrcpsp:
 	python3 src/mrcpsp.py
+
+profile_mrcpsp:
+	python3 -m kernprof -lv -p src/mrcpsp.py src/mrcpsp.py > profile/mrcpsp/profile_$$(date +%Y%m%d%H%M%S).txt
