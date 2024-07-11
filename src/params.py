@@ -1,6 +1,5 @@
-ERROR_PRECEDENCE_CYCLE = (
-    "WARNING: initial solution does not have all tasks, possible precedence cycle."
-)
+# Optimal solution is 22
+# Taken from j3060_1
 
 JOBS = 32
 HORIZON = 23

@@ -12,3 +12,7 @@ run_mrcpsp:
 
 profile_mrcpsp:
 	python3 -m kernprof -lv -p src/mrcpsp.py src/mrcpsp.py > profile/mrcpsp/profile_$$(date +%Y%m%d%H%M%S).txt
+
+
+sat:
+	./savilerow -sat -sat-family kissat -run-solver examples/mrcpsp-pb/mrcpsp-pb.eprime examples/mrcpsp-pb/j3060_1.param 
