@@ -111,7 +111,7 @@ RESOURCE_USAGE = [
     [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]],
 ]
 
-RESOURCE_LIMITS = [9, 55, 203, 171]
+RESOURCE_LIMITS = [30, 55, 203, 171]
 
 CANDIDATE_PARENTS = [
     [],
@@ -305,23 +305,144 @@ PREDECESSORS = [
 ]
 
 
-def predecessors_from_successors(all_successors):
-    predecessors = [[] for _ in all_successors]
+# def predecessors_from_successors(all_successors):
+#     predecessors = [[] for _ in all_successors]
 
-    for task, successors in enumerate(all_successors):
-        for successor in successors:
-            predecessors[successor - 1].append(task + 1)
+#     for task, successors in enumerate(all_successors):
+#         for successor in successors:
+#             predecessors[successor - 1].append(task + 1)
 
-    for i, i_p in enumerate(predecessors):
-        for j, j_p in enumerate(predecessors):
-            if i + 1 in j_p:
-                predecessors[j].extend(i_p)
+#     for i, i_p in enumerate(predecessors):
+#         for j, j_p in enumerate(predecessors):
+#             if i + 1 in j_p:
+#                 predecessors[j].extend(i_p)
 
-    for i, _ in enumerate(predecessors):
-        predecessors[i] = list(set(predecessors[i]))
-        predecessors[i].sort()
+#     for i, _ in enumerate(predecessors):
+#         predecessors[i] = list(set(predecessors[i]))
+#         predecessors[i].sort()
 
-    return predecessors
+#     return predecessors
 
 
-# print(predecessors_from_successors(SUCCESSORS))
+# # print(predecessors_from_successors(SUCCESSORS))
+
+
+# print(sum(i[0][2] for i in RESOURCE_USAGE))
+# print(sum(i[0][3] for i in RESOURCE_USAGE))
+
+
+# x = [
+#     0,
+#     0,
+#     0,
+#     0,
+#     1,
+#     5,
+#     1,
+#     9,
+#     6,
+#     14,
+#     1,
+#     3,
+#     8,
+#     4,
+#     8,
+#     12,
+#     8,
+#     6,
+#     11,
+#     9,
+#     12,
+#     6,
+#     14,
+#     14,
+#     7,
+#     15,
+#     18,
+#     9,
+#     21,
+#     20,
+#     16,
+#     22,
+# ]
+
+# m = [
+#     1,
+#     1,
+#     1,
+#     1,
+#     3,
+#     2,
+#     1,
+#     3,
+#     1,
+#     1,
+#     3,
+#     1,
+#     1,
+#     1,
+#     1,
+#     2,
+#     1,
+#     1,
+#     2,
+#     2,
+#     3,
+#     1,
+#     1,
+#     3,
+#     2,
+#     1,
+#     1,
+#     1,
+#     1,
+#     1,
+#     3,
+#     1,
+# ]
+
+# y = [(i + 1, m[i] - 1, v) for i, v in enumerate(x)]
+
+# y.sort(key=lambda a: a[2])
+
+# print([i[0] for i in y])
+# print([i[1] for i in y])
+# print([i[2] for i in y])
+
+
+# z = [
+#     (1, 0, 0, 0),
+#     (2, 0, 0, 2),
+#     (3, 0, 0, 2),
+#     (4, 0, 0, 1),
+#     (5, 2, 1, 9),
+#     (7, 0, 1, 6),
+#     (11, 2, 1, 8),
+#     (12, 0, 2, 5),
+#     (14, 0, 2, 4),
+#     (6, 1, 2, 5),
+#     (9, 0, 6, 8),
+#     (18, 0, 6, 7),
+#     (22, 0, 6, 9),
+#     (25, 1, 7, 16),
+#     (13, 0, 8, 9),
+#     (15, 0, 8, 11),
+#     (17, 0, 8, 14),
+#     (8, 2, 8, 13),
+#     (20, 1, 8, 13),
+#     (28, 0, 9, 16),
+#     (19, 1, 11, 15),
+#     (16, 1, 11, 17),
+#     (21, 2, 11, 20),
+#     (10, 0, 13, 15),
+#     (23, 0, 13, 14),
+#     (24, 2, 13, 19),
+#     (26, 0, 14, 17),
+#     (31, 2, 15, 21),
+#     (27, 0, 17, 20),
+#     (30, 0, 19, 21),
+#     (29, 0, 20, 21),
+#     (32, 0, 21, 21),
+# ]
+
+# print([i[2] for i in z])

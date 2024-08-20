@@ -1,0 +1,2565 @@
+Run 1:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+590.40user 3.74system 9:27.92elapsed 104%CPU (0avgtext+0avgdata 2872204maxresident)k
+0inputs+170520outputs (0major+1183948minor)pagefaults 0swaps
+
+==================================================
+Run 2:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+583.16user 3.82system 9:25.50elapsed 103%CPU (0avgtext+0avgdata 2866324maxresident)k
+0inputs+170488outputs (0major+1190530minor)pagefaults 0swaps
+
+==================================================
+Run 3:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+585.52user 3.31system 9:25.32elapsed 104%CPU (0avgtext+0avgdata 2878676maxresident)k
+0inputs+170472outputs (0major+1183685minor)pagefaults 0swaps
+
+==================================================
+Run 4:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+591.54user 3.50system 9:30.48elapsed 104%CPU (0avgtext+0avgdata 2861724maxresident)k
+0inputs+170528outputs (0major+1206267minor)pagefaults 0swaps
+
+==================================================
+Run 5:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+588.57user 3.42system 9:29.19elapsed 104%CPU (0avgtext+0avgdata 2868508maxresident)k
+0inputs+170488outputs (0major+1205855minor)pagefaults 0swaps
+
+==================================================
+Run 6:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+593.73user 3.36system 9:32.34elapsed 104%CPU (0avgtext+0avgdata 2876232maxresident)k
+0inputs+170472outputs (0major+1205265minor)pagefaults 0swaps
+
+==================================================
+Run 7:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+565.40user 3.38system 9:05.35elapsed 104%CPU (0avgtext+0avgdata 2882672maxresident)k
+0inputs+170408outputs (0major+1194029minor)pagefaults 0swaps
+
+==================================================
+Run 8:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+553.66user 3.22system 8:54.51elapsed 104%CPU (0avgtext+0avgdata 2887124maxresident)k
+0inputs+170328outputs (0major+1192002minor)pagefaults 0swaps
+
+==================================================
+Run 9:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+550.18user 3.10system 8:53.15elapsed 103%CPU (0avgtext+0avgdata 2872216maxresident)k
+0inputs+170384outputs (0major+1189479minor)pagefaults 0swaps
+
+==================================================
+Run 10:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+549.67user 3.26system 8:51.87elapsed 103%CPU (0avgtext+0avgdata 2870696maxresident)k
+0inputs+170328outputs (0major+1188348minor)pagefaults 0swaps
+
+==================================================
+Run 11:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+545.98user 3.12system 8:49.25elapsed 103%CPU (0avgtext+0avgdata 2881400maxresident)k
+0inputs+170392outputs (0major+1187384minor)pagefaults 0swaps
+
+==================================================
+Run 12:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+547.99user 3.13system 8:50.17elapsed 103%CPU (0avgtext+0avgdata 2868052maxresident)k
+0inputs+170344outputs (0major+1193317minor)pagefaults 0swaps
+
+==================================================
+Run 13:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+545.03user 3.22system 8:49.57elapsed 103%CPU (0avgtext+0avgdata 2869636maxresident)k
+0inputs+170376outputs (0major+1195225minor)pagefaults 0swaps
+
+==================================================
+Run 14:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+547.01user 3.30system 8:50.98elapsed 103%CPU (0avgtext+0avgdata 2876684maxresident)k
+0inputs+170408outputs (0major+1181495minor)pagefaults 0swaps
+
+==================================================
+Run 15:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+550.56user 3.25system 8:54.04elapsed 103%CPU (0avgtext+0avgdata 2875196maxresident)k
+0inputs+170376outputs (0major+1185800minor)pagefaults 0swaps
+
+==================================================
+Run 16:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+551.92user 3.05system 8:54.10elapsed 103%CPU (0avgtext+0avgdata 2873472maxresident)k
+0inputs+170384outputs (0major+1189709minor)pagefaults 0swaps
+
+==================================================
+Run 17:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+549.65user 3.08system 8:52.98elapsed 103%CPU (0avgtext+0avgdata 2866112maxresident)k
+0inputs+170376outputs (0major+1197776minor)pagefaults 0swaps
+
+==================================================
+Run 18:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+551.78user 3.22system 8:53.98elapsed 103%CPU (0avgtext+0avgdata 2867420maxresident)k
+0inputs+170392outputs (0major+1200052minor)pagefaults 0swaps
+
+==================================================
+Run 19:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+548.08user 3.10system 8:50.93elapsed 103%CPU (0avgtext+0avgdata 2879980maxresident)k
+0inputs+170360outputs (0major+1198677minor)pagefaults 0swaps
+
+==================================================
+Run 20:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+551.48user 3.22system 8:54.13elapsed 103%CPU (0avgtext+0avgdata 2888472maxresident)k
+0inputs+170376outputs (0major+1196370minor)pagefaults 0swaps
+
+==================================================
+Run 21:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+549.07user 3.25system 8:52.83elapsed 103%CPU (0avgtext+0avgdata 2873484maxresident)k
+0inputs+170408outputs (0major+1209220minor)pagefaults 0swaps
+
+==================================================
+Run 22:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+557.54user 3.12system 8:59.63elapsed 103%CPU (0avgtext+0avgdata 2872648maxresident)k
+0inputs+170400outputs (0major+1192384minor)pagefaults 0swaps
+
+==================================================
+Run 23:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+550.52user 3.12system 8:54.43elapsed 103%CPU (0avgtext+0avgdata 2870712maxresident)k
+0inputs+170328outputs (0major+1202803minor)pagefaults 0swaps
+
+==================================================
+Run 24:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+550.12user 3.31system 8:52.34elapsed 103%CPU (0avgtext+0avgdata 2885140maxresident)k
+0inputs+170008outputs (0major+1188940minor)pagefaults 0swaps
+
+==================================================
+Run 25:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+546.48user 3.13system 8:49.98elapsed 103%CPU (0avgtext+0avgdata 2882792maxresident)k
+0inputs+170392outputs (0major+1190231minor)pagefaults 0swaps
+
+==================================================
+Run 26:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+549.72user 3.28system 8:52.34elapsed 103%CPU (0avgtext+0avgdata 2874464maxresident)k
+0inputs+170376outputs (0major+1197846minor)pagefaults 0swaps
+
+==================================================
+Run 27:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+551.90user 3.21system 8:54.26elapsed 103%CPU (0avgtext+0avgdata 2878016maxresident)k
+0inputs+170384outputs (0major+1202879minor)pagefaults 0swaps
+
+==================================================
+Run 28:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+547.48user 3.03system 8:49.54elapsed 103%CPU (0avgtext+0avgdata 2877288maxresident)k
+0inputs+170360outputs (0major+1194282minor)pagefaults 0swaps
+
+==================================================
+Run 29:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+544.46user 3.18system 8:49.11elapsed 103%CPU (0avgtext+0avgdata 2875172maxresident)k
+0inputs+170360outputs (0major+1195777minor)pagefaults 0swaps
+
+==================================================
+Run 30:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+547.07user 3.05system 8:49.89elapsed 103%CPU (0avgtext+0avgdata 2880216maxresident)k
+0inputs+170328outputs (0major+1181992minor)pagefaults 0swaps
+
+==================================================
+Run 31:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+549.32user 2.96system 8:51.52elapsed 103%CPU (0avgtext+0avgdata 2874524maxresident)k
+0inputs+170376outputs (0major+1203252minor)pagefaults 0swaps
+
+==================================================
+Run 32:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+550.28user 3.19system 8:53.02elapsed 103%CPU (0avgtext+0avgdata 2869288maxresident)k
+0inputs+170344outputs (0major+1196312minor)pagefaults 0swaps
+
+==================================================
+Run 33:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+547.94user 3.41system 8:51.08elapsed 103%CPU (0avgtext+0avgdata 2878460maxresident)k
+0inputs+170360outputs (0major+1186279minor)pagefaults 0swaps
+
+==================================================
+Run 34:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+548.06user 3.24system 8:51.14elapsed 103%CPU (0avgtext+0avgdata 2875784maxresident)k
+0inputs+170376outputs (0major+1189752minor)pagefaults 0swaps
+
+==================================================
+Run 35:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+552.10user 3.19system 8:54.58elapsed 103%CPU (0avgtext+0avgdata 2878228maxresident)k
+0inputs+170376outputs (0major+1189103minor)pagefaults 0swaps
+
+==================================================
+Run 36:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+548.44user 3.19system 8:51.16elapsed 103%CPU (0avgtext+0avgdata 2884720maxresident)k
+0inputs+170360outputs (0major+1188116minor)pagefaults 0swaps
+
+==================================================
+Run 37:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+549.98user 3.09system 8:52.86elapsed 103%CPU (0avgtext+0avgdata 2880492maxresident)k
+0inputs+170360outputs (0major+1191811minor)pagefaults 0swaps
+
+==================================================
+Run 38:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+547.13user 3.14system 8:51.41elapsed 103%CPU (0avgtext+0avgdata 2875500maxresident)k
+0inputs+170392outputs (0major+1179727minor)pagefaults 0swaps
+
+==================================================
+Run 39:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+547.04user 3.28system 8:49.40elapsed 103%CPU (0avgtext+0avgdata 2872088maxresident)k
+0inputs+170360outputs (0major+1206719minor)pagefaults 0swaps
+
+==================================================
+Run 40:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+551.57user 3.32system 8:54.41elapsed 103%CPU (0avgtext+0avgdata 2867660maxresident)k
+0inputs+170384outputs (0major+1193916minor)pagefaults 0swaps
+
+==================================================
+Run 41:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+556.68user 2.88system 8:59.71elapsed 103%CPU (0avgtext+0avgdata 2875264maxresident)k
+0inputs+170376outputs (0major+1182789minor)pagefaults 0swaps
+
+==================================================
+Run 42:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+546.41user 3.18system 8:49.58elapsed 103%CPU (0avgtext+0avgdata 2871080maxresident)k
+0inputs+170384outputs (0major+1199018minor)pagefaults 0swaps
+
+==================================================
+Run 43:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+549.58user 3.14system 8:52.36elapsed 103%CPU (0avgtext+0avgdata 2890108maxresident)k
+0inputs+170312outputs (0major+1192176minor)pagefaults 0swaps
+
+==================================================
+Run 44:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+548.02user 3.40system 8:49.33elapsed 104%CPU (0avgtext+0avgdata 2880060maxresident)k
+0inputs+170360outputs (0major+1197360minor)pagefaults 0swaps
+
+==================================================
+Run 45:
+Created output file for domain filtering ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.minion
+Created output SAT file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.dimacs
+In dichotomic search, lower: 22 upper: 246
+While optimising, found value: 246
+In dichotomic search, lower: 22 upper: 245 midpoint: 134
+While optimising, found value: 134
+In dichotomic search, lower: 22 upper: 133 midpoint: 78
+While optimising, found value: 78
+In dichotomic search, lower: 22 upper: 77 midpoint: 50
+While optimising, found value: 50
+In dichotomic search, lower: 22 upper: 49 midpoint: 36
+While optimising, found value: 36
+In dichotomic search, lower: 22 upper: 35 midpoint: 29
+While optimising, found value: 29
+In dichotomic search, lower: 22 upper: 28 midpoint: 25
+While optimising, found value: 25
+In dichotomic search, lower: 22 upper: 24 midpoint: 23
+While optimising, found value: 23
+In dichotomic search, lower: 22 upper: 22 midpoint: 22
+While optimising, found value: 22
+Created solution file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.solution
+Created information file ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param.info
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+546.30user 3.12system 8:49.67elapsed 103%CPU (0avgtext+0avgdata 2876668maxresident)k
+0inputs+170272outputs (0major+1183319minor)pagefaults 0swaps
+
+==================================================

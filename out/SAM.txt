@@ -1,0 +1,49 @@
+Run 1:
+3.41user 0.02system 0:01.41elapsed 243%CPU (0avgtext+0avgdata 25512maxresident)k
+0inputs+0outputs (4major+3454minor)pagefaults 0swaps
+
+==================================================
+Run 2:
+3.37user 0.03system 0:01.36elapsed 249%CPU (0avgtext+0avgdata 25568maxresident)k
+0inputs+0outputs (2major+3475minor)pagefaults 0swaps
+
+==================================================
+Run 3:
+3.30user 0.03system 0:01.40elapsed 238%CPU (0avgtext+0avgdata 25504maxresident)k
+0inputs+0outputs (0major+3453minor)pagefaults 0swaps
+
+==================================================
+Run 4:
+3.48user 0.01system 0:01.30elapsed 267%CPU (0avgtext+0avgdata 25692maxresident)k
+0inputs+0outputs (1major+3458minor)pagefaults 0swaps
+
+==================================================
+Run 5:
+3.55user 0.01system 0:01.33elapsed 267%CPU (0avgtext+0avgdata 25312maxresident)k
+0inputs+0outputs (1major+3456minor)pagefaults 0swaps
+
+==================================================
+Run 6:
+3.32user 0.03system 0:01.34elapsed 249%CPU (0avgtext+0avgdata 25692maxresident)k
+0inputs+0outputs (1major+3452minor)pagefaults 0swaps
+
+==================================================
+Run 7:
+3.43user 0.01system 0:01.32elapsed 260%CPU (0avgtext+0avgdata 25688maxresident)k
+0inputs+0outputs (0major+3456minor)pagefaults 0swaps
+
+==================================================
+Run 8:
+3.40user 0.01system 0:01.37elapsed 249%CPU (0avgtext+0avgdata 25692maxresident)k
+0inputs+0outputs (0major+3451minor)pagefaults 0swaps
+
+==================================================
+Run 9:
+3.42user 0.07system 0:01.36elapsed 257%CPU (0avgtext+0avgdata 25568maxresident)k
+0inputs+0outputs (0major+3454minor)pagefaults 0swaps
+
+==================================================
+Run 10:
+3.31user 0.02system 0:01.33elapsed 249%CPU (0avgtext+0avgdata 25816maxresident)k
+0inputs+0outputs (1major+3460minor)pagefaults 0swaps
+

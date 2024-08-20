@@ -7,12 +7,12 @@ run:
 test:
 	python3 src/test.py
 
-run_mrcpsp:
-	python3 src/mrcpsp.py
+run_main:
+	python3 src/main.py
 
-profile_mrcpsp:
-	python3 -m kernprof -lv -p src/mrcpsp.py src/mrcpsp.py > profile/mrcpsp/profile_$$(date +%Y%m%d%H%M%S).txt
+profile_main:
+	python3 -m kernprof -lv -p src/main.py src/main.py > profile/main/profile_$$(date +%Y%m%d%H%M%S).txt
 
 
 sat:
-	./savilerow -sat -sat-family kissat -run-solver examples/mrcpsp-pb/mrcpsp-pb.eprime examples/mrcpsp-pb/j3060_1.param 
+	./savilerow -sat -sat-family kissat -run-solver examples/main-pb/main-pb.eprime examples/main-pb/j3060_1.param 
