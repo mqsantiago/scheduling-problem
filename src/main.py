@@ -9,6 +9,15 @@ from dotenv import load_dotenv
 load_dotenv()
 
 INSTANCE_NAME = os.getenv("PROBLEM_INSTANCE")
+CHAINS = int(os.getenv("CHAINS", "3"))
+STEPS = int(os.getenv("STEPS", "5"))
+NEIGHBOURS_INITIAL_N = int(os.getenv("NEIGHBOURS_INITIAL_N", "1000"))
+NEIGHBOURS_INCREASE_COEFFICIENT = int(os.getenv("NEIGHBOURS_INCREASE_COEFFICIENT", "1"))
+TEMPERATURE_MAX = int(os.getenv("TEMPERATURE_MAX", "100"))
+TEMPERATURE_INCREASE_COEFFICIENT = float(
+    os.getenv("TEMPERATURE_INCREASE_COEFFICIENT", "0.25")
+)
+
 
 current_instance = importlib.import_module(f"instances.{INSTANCE_NAME}")
 
@@ -89,7 +98,6 @@ def generate_activity_initial_solution():
                     options.append(i + 1)
 
     while not nonrenewable_resources_constraints_met(activities, modes):
-        print("Mode neigh")
         modes = generate_mode_neighbour(activities, modes)
 
     return activities, modes
@@ -351,19 +359,10 @@ def sa_procedure():
     current_modes = list(initial_modes)
     current_cost = initial_cost
 
-    n_neighbours = 1_000  # or 10_000
-    h = 1
-    temperature_max = 100
-    alpha = 0.25
-    steps = 5  # 5
-    chains = 3  # 2
-
-    print(best_cost)
-
-    for _ in range(chains):
-        current_temperature = temperature_max
-        for step in range(1, steps + 1):
-            n = n_neighbours * (1 + h * step)
+    for _ in range(CHAINS):
+        current_temperature = TEMPERATURE_MAX
+        for step in range(1, STEPS + 1):
+            n = NEIGHBOURS_INITIAL_N * (1 + NEIGHBOURS_INCREASE_COEFFICIENT * step)
             for _ in range(n):
                 neighbour_activities = list(current_activities)
                 neighbour_modes = list(current_modes)
@@ -388,31 +387,26 @@ def sa_procedure():
                         best_activities = list(neighbour_activities)
                         best_modes = list(neighbour_modes)
                         best_cost = neighbour_cost
-                        print(best_cost)
 
                 elif acceptance_threshold(current_temperature, delta):
                     current_activities = list(neighbour_activities)
                     current_modes = list(neighbour_modes)
                     current_cost = neighbour_cost
-            current_temperature = (alpha**step) * temperature_max
+            current_temperature = (
+                TEMPERATURE_INCREASE_COEFFICIENT**step
+            ) * TEMPERATURE_MAX
 
     return best_activities, best_modes
 
 
 def main():
-    # help_start_time = time.process_time()
-    # _, _ = sa_procedure()
     sa_solution, sa_modes = sa_procedure()
-    # help_end_time = time.process_time()
 
     print(f"Best Solution so far: \n{sa_solution} \n{sa_modes}")
+    print(f"Project Length: {cost(sa_solution, sa_modes)}")
 
-    print(cost(sa_solution, sa_modes))
-    print(
-        f"Non-renewable resources constrains met: {nonrenewable_resources_constraints_met(sa_solution, sa_modes)}"
-    )
-
-    # print(f"Execution time: {help_end_time - help_start_time} seconds")
+    resource_met = nonrenewable_resources_constraints_met(sa_solution, sa_modes)
+    print(f"Non-renewable resources constrains met: {resource_met}")
 
 
 main()
