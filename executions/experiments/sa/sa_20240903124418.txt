@@ -1,0 +1,229 @@
+Chains: 2
+Steps: 5
+Neighbours Initial N: 1000
+Neighbours Increase Coefficient: 1
+Temperature Max: 100
+Temperature Increase Coefficient: 0.25
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3011_9
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.32user 0.03system 0:00.21elapsed 1081%CPU (0avgtext+0avgdata 38240maxresident)k
+0inputs+16outputs (0major+5323minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.14user 0.02system 0:00.16elapsed 1347%CPU (0avgtext+0avgdata 38348maxresident)k
+0inputs+0outputs (0major+5241minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.14user 0.03system 0:00.15elapsed 1369%CPU (0avgtext+0avgdata 38348maxresident)k
+0inputs+0outputs (0major+5238minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.18user 0.02system 0:00.26elapsed 841%CPU (0avgtext+0avgdata 37792maxresident)k
+0inputs+0outputs (0major+5235minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.22user 0.03system 0:00.20elapsed 1111%CPU (0avgtext+0avgdata 38352maxresident)k
+0inputs+0outputs (0major+5234minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.17user 0.03system 0:00.28elapsed 775%CPU (0avgtext+0avgdata 38344maxresident)k
+0inputs+0outputs (0major+5235minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.01user 0.03system 0:00.28elapsed 729%CPU (0avgtext+0avgdata 37912maxresident)k
+0inputs+0outputs (0major+5237minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.15user 0.03system 0:00.24elapsed 883%CPU (0avgtext+0avgdata 38004maxresident)k
+0inputs+0outputs (0major+5230minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.17user 0.03system 0:00.26elapsed 834%CPU (0avgtext+0avgdata 38224maxresident)k
+0inputs+0outputs (0major+5236minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.12user 0.03system 0:00.27elapsed 773%CPU (0avgtext+0avgdata 38096maxresident)k
+0inputs+0outputs (0major+5231minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3012_4
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.22user 0.03system 0:00.20elapsed 1130%CPU (0avgtext+0avgdata 38220maxresident)k
+0inputs+0outputs (0major+5232minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.13user 0.03system 0:00.22elapsed 985%CPU (0avgtext+0avgdata 38192maxresident)k
+0inputs+0outputs (0major+5234minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 15, in <module>
+    CHAINS = int(sys.argv[3])
+IndexError: list index out of range
+Command exited with non-zero status 1
+2.17user 0.03system 0:00.22elapsed 1000%CPU (0avgtext+0avgdata 38164maxresident)k
+0inputs+0outputs (0major+5226minor)pagefaults 0swaps
+
+
+==================================================
+

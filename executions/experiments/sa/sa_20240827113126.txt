@@ -1,0 +1,1408 @@
+Instance: j3060_1
+Chains: 5
+Steps: 3
+Neighbours Initial N: 1000
+Neighbours Increase Coefficient: 1
+Temperature Max: 100
+Temperature Increase Coefficient: 0.25
+
+Run 1:
+
+Best Solution so far: 
+[1, 2, 3, 4, 5, 12, 6, 14, 16, 22, 7, 18, 25, 11, 20, 9, 8, 15, 13, 23, 17, 28, 19, 26, 21, 27, 24, 10, 29, 30, 31, 32] 
+[2, 2, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2]
+Project Length: 31
+Non-renewable resources constrains met: True
+
+31.03user 0.03system 0:28.86elapsed 107%CPU (0avgtext+0avgdata 27216maxresident)k
+0inputs+0outputs (0major+3926minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Best Solution so far: 
+[1, 4, 2, 3, 6, 11, 7, 12, 14, 8, 9, 13, 20, 18, 16, 17, 5, 15, 21, 22, 24, 28, 19, 25, 23, 26, 10, 27, 29, 31, 30, 32] 
+[1, 0, 0, 1, 0, 1, 0, 0, 0, 2, 0, 1, 2, 2, 2, 2, 0, 0, 0, 0, 2, 0, 0, 1, 2, 0, 1, 0, 0, 0, 0, 1]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.13user 0.04system 0:26.19elapsed 107%CPU (0avgtext+0avgdata 27132maxresident)k
+0inputs+0outputs (0major+3925minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Best Solution so far: 
+[1, 4, 2, 3, 16, 5, 12, 7, 6, 11, 14, 17, 9, 8, 20, 18, 15, 13, 22, 25, 23, 19, 21, 10, 28, 26, 27, 24, 29, 30, 31, 32] 
+[2, 1, 0, 1, 1, 2, 0, 0, 0, 0, 0, 1, 0, 0, 1, 2, 0, 1, 2, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+28.35user 0.04system 0:26.20elapsed 108%CPU (0avgtext+0avgdata 27016maxresident)k
+0inputs+0outputs (0major+3920minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Best Solution so far: 
+[1, 3, 2, 4, 7, 11, 12, 6, 14, 22, 20, 13, 17, 9, 15, 8, 5, 18, 23, 19, 16, 25, 21, 28, 24, 26, 27, 10, 29, 30, 31, 32] 
+[0, 0, 2, 0, 2, 1, 2, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 2, 1, 1, 2, 2, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+28.40user 0.03system 0:26.22elapsed 108%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3920minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Best Solution so far: 
+[1, 3, 4, 2, 6, 12, 14, 7, 22, 18, 11, 17, 20, 8, 23, 25, 5, 9, 16, 15, 13, 19, 28, 26, 21, 10, 24, 27, 30, 31, 29, 32] 
+[2, 1, 0, 0, 2, 0, 0, 0, 0, 2, 1, 2, 0, 1, 0, 2, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 1, 0, 2, 0, 1]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+28.38user 0.04system 0:26.27elapsed 108%CPU (0avgtext+0avgdata 27184maxresident)k
+0inputs+0outputs (0major+3923minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Best Solution so far: 
+[1, 3, 4, 2, 11, 7, 12, 9, 6, 14, 18, 20, 16, 17, 5, 22, 8, 15, 13, 10, 25, 24, 21, 19, 28, 23, 26, 27, 30, 29, 31, 32] 
+[1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 2, 0, 1, 1, 0, 2, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 2, 0, 2, 1]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.37user 0.04system 0:26.23elapsed 108%CPU (0avgtext+0avgdata 27092maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Best Solution so far: 
+[1, 4, 3, 7, 2, 14, 11, 12, 22, 6, 20, 8, 17, 16, 5, 9, 13, 15, 18, 19, 24, 23, 28, 25, 26, 21, 30, 27, 10, 29, 31, 32] 
+[0, 0, 0, 0, 0, 0, 2, 0, 1, 1, 0, 2, 0, 1, 2, 0, 2, 0, 0, 1, 2, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 2]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.46user 0.03system 0:26.27elapsed 108%CPU (0avgtext+0avgdata 27348maxresident)k
+0inputs+0outputs (0major+3926minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Best Solution so far: 
+[1, 3, 14, 4, 12, 22, 7, 11, 2, 5, 18, 9, 13, 6, 8, 28, 16, 17, 20, 15, 10, 19, 25, 21, 23, 24, 26, 27, 31, 29, 30, 32] 
+[1, 0, 2, 0, 0, 1, 1, 0, 1, 2, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 2, 1, 2, 2, 0, 1, 0, 0, 0, 0, 0, 2]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+28.44user 0.04system 0:26.25elapsed 108%CPU (0avgtext+0avgdata 27272maxresident)k
+0inputs+0outputs (0major+3922minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Best Solution so far: 
+[1, 4, 3, 7, 2, 11, 20, 14, 16, 6, 12, 8, 22, 17, 13, 18, 9, 24, 15, 5, 28, 23, 21, 19, 10, 25, 30, 26, 27, 31, 29, 32] 
+[2, 0, 0, 0, 0, 1, 2, 0, 0, 1, 0, 2, 0, 0, 2, 0, 2, 0, 0, 0, 0, 2, 0, 1, 2, 0, 1, 0, 0, 2, 0, 1]
+Project Length: 36
+Non-renewable resources constrains met: True
+
+28.55user 0.03system 0:26.36elapsed 108%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3927minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+Best Solution so far: 
+[1, 3, 2, 12, 4, 11, 6, 13, 7, 14, 20, 22, 17, 9, 15, 16, 8, 5, 18, 21, 23, 28, 19, 10, 24, 25, 26, 30, 27, 31, 29, 32] 
+[1, 0, 0, 2, 0, 1, 2, 0, 0, 2, 0, 0, 2, 0, 0, 0, 2, 1, 0, 1, 1, 0, 1, 2, 1, 1, 0, 1, 1, 1, 0, 1]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+28.37user 0.03system 0:26.24elapsed 108%CPU (0avgtext+0avgdata 27020maxresident)k
+0inputs+0outputs (0major+3919minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 11:
+
+Best Solution so far: 
+[1, 4, 5, 7, 3, 11, 2, 12, 20, 9, 6, 13, 15, 14, 22, 16, 8, 17, 18, 25, 19, 21, 24, 28, 30, 10, 23, 26, 27, 31, 29, 32] 
+[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 1, 0, 2, 0, 0, 2, 2, 2, 1, 1, 2, 1, 0, 0, 0, 0, 0, 0]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.37user 0.03system 0:26.19elapsed 108%CPU (0avgtext+0avgdata 27136maxresident)k
+0inputs+0outputs (0major+3922minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 12:
+
+Best Solution so far: 
+[1, 2, 3, 4, 12, 6, 14, 11, 13, 5, 22, 7, 9, 8, 18, 20, 25, 15, 19, 16, 23, 17, 21, 28, 10, 26, 27, 24, 30, 31, 29, 32] 
+[2, 0, 1, 2, 0, 2, 2, 0, 0, 2, 0, 0, 0, 0, 0, 2, 2, 2, 1, 1, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 0, 1]
+Project Length: 36
+Non-renewable resources constrains met: True
+
+28.47user 0.04system 0:26.28elapsed 108%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3921minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 13:
+
+Best Solution so far: 
+[1, 3, 2, 4, 7, 11, 12, 20, 5, 13, 16, 6, 9, 22, 14, 8, 18, 15, 23, 21, 19, 28, 17, 25, 24, 26, 10, 27, 31, 30, 29, 32] 
+[2, 1, 1, 0, 0, 1, 0, 2, 2, 0, 2, 0, 0, 0, 2, 0, 0, 0, 1, 1, 0, 2, 0, 2, 2, 0, 1, 1, 1, 0, 0, 1]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+28.36user 0.04system 0:26.17elapsed 108%CPU (0avgtext+0avgdata 27304maxresident)k
+0inputs+0outputs (0major+3934minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 14:
+
+Best Solution so far: 
+[1, 4, 7, 3, 2, 11, 12, 14, 6, 13, 18, 9, 8, 5, 17, 25, 20, 15, 16, 22, 19, 23, 28, 21, 26, 10, 24, 30, 27, 29, 31, 32] 
+[1, 0, 0, 0, 0, 2, 0, 2, 0, 0, 2, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 2, 0, 0, 1, 0, 1, 0, 0, 1, 2]
+Project Length: 36
+Non-renewable resources constrains met: True
+
+28.30user 0.03system 0:26.16elapsed 108%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3922minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 15:
+
+Best Solution so far: 
+[1, 3, 4, 11, 7, 2, 14, 12, 20, 9, 5, 22, 18, 6, 8, 15, 17, 13, 25, 16, 10, 19, 23, 21, 28, 26, 24, 30, 27, 29, 31, 32] 
+[1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 2, 1, 0, 0, 1, 0, 0, 2, 0]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.32user 0.04system 0:26.13elapsed 108%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 16:
+
+Best Solution so far: 
+[1, 4, 3, 2, 7, 11, 5, 9, 14, 6, 13, 15, 8, 12, 22, 18, 17, 20, 23, 19, 24, 26, 10, 28, 21, 25, 30, 16, 27, 29, 31, 32] 
+[1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 2, 1, 2, 0, 0, 1, 0, 0, 0, 1, 2, 2, 2, 0, 1, 2, 0, 0, 0, 0, 0, 0]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+28.39user 0.02system 0:26.19elapsed 108%CPU (0avgtext+0avgdata 27312maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 17:
+
+Best Solution so far: 
+[1, 4, 7, 2, 11, 3, 6, 12, 14, 17, 20, 5, 18, 9, 8, 22, 24, 13, 15, 16, 25, 23, 28, 19, 10, 21, 26, 30, 27, 31, 29, 32] 
+[2, 0, 1, 0, 2, 0, 1, 0, 0, 1, 1, 2, 1, 0, 1, 0, 2, 0, 0, 0, 1, 2, 1, 1, 1, 0, 0, 1, 1, 0, 0, 2]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+28.37user 0.03system 0:26.19elapsed 108%CPU (0avgtext+0avgdata 27276maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 18:
+
+Best Solution so far: 
+[1, 3, 2, 4, 12, 7, 5, 16, 14, 11, 6, 20, 9, 8, 17, 15, 18, 22, 23, 13, 10, 19, 21, 28, 25, 26, 24, 27, 31, 30, 29, 32] 
+[0, 1, 2, 1, 0, 0, 1, 1, 0, 0, 1, 2, 0, 0, 2, 0, 2, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1]
+Project Length: 31
+Non-renewable resources constrains met: True
+
+28.41user 0.03system 0:26.23elapsed 108%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3925minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 19:
+
+Best Solution so far: 
+[1, 4, 5, 3, 12, 14, 7, 2, 11, 9, 13, 20, 18, 6, 16, 22, 17, 15, 28, 8, 25, 19, 21, 10, 24, 30, 23, 26, 27, 31, 29, 32] 
+[2, 0, 1, 0, 0, 0, 0, 1, 1, 2, 1, 1, 0, 0, 0, 0, 0, 0, 2, 1, 2, 1, 2, 1, 1, 2, 0, 0, 0, 1, 0, 0]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+28.37user 0.04system 0:26.22elapsed 108%CPU (0avgtext+0avgdata 27020maxresident)k
+0inputs+0outputs (0major+3922minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 20:
+
+Best Solution so far: 
+[1, 4, 3, 7, 12, 2, 9, 11, 14, 6, 18, 22, 8, 13, 5, 16, 25, 17, 15, 20, 19, 28, 21, 10, 23, 24, 26, 31, 27, 30, 29, 32] 
+[2, 0, 1, 0, 0, 2, 2, 1, 2, 0, 0, 0, 2, 2, 1, 2, 0, 1, 0, 1, 0, 2, 2, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+28.37user 0.03system 0:26.19elapsed 108%CPU (0avgtext+0avgdata 27156maxresident)k
+0inputs+0outputs (0major+3940minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 21:
+
+Best Solution so far: 
+[1, 4, 3, 14, 12, 7, 2, 6, 5, 9, 11, 17, 8, 22, 13, 20, 18, 15, 25, 28, 19, 21, 23, 10, 24, 16, 26, 30, 27, 29, 31, 32] 
+[2, 0, 0, 2, 0, 0, 0, 1, 1, 1, 1, 2, 2, 0, 1, 1, 1, 0, 2, 2, 0, 0, 1, 0, 2, 0, 1, 0, 0, 0, 0, 1]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+28.25user 0.02system 0:26.04elapsed 108%CPU (0avgtext+0avgdata 27148maxresident)k
+0inputs+0outputs (0major+3927minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 22:
+
+Best Solution so far: 
+[1, 3, 4, 5, 2, 12, 14, 6, 7, 18, 22, 17, 9, 11, 20, 8, 13, 15, 25, 24, 16, 19, 28, 23, 10, 26, 30, 27, 21, 29, 31, 32] 
+[1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 2, 2, 0, 0, 2, 2, 1, 1, 2, 1, 2, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 2]
+Project Length: 30
+Non-renewable resources constrains met: True
+
+28.52user 0.03system 0:26.33elapsed 108%CPU (0avgtext+0avgdata 27088maxresident)k
+0inputs+0outputs (0major+3923minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 23:
+
+Best Solution so far: 
+[1, 2, 3, 4, 5, 7, 14, 12, 6, 17, 18, 9, 22, 8, 11, 16, 13, 15, 20, 23, 19, 25, 21, 26, 28, 10, 31, 24, 30, 27, 29, 32] 
+[2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1, 1, 2, 1, 1, 0, 0, 1, 0, 2, 2, 2, 0, 0, 2, 1, 0, 0, 0, 2]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+28.16user 0.02system 0:25.94elapsed 108%CPU (0avgtext+0avgdata 27148maxresident)k
+0inputs+0outputs (0major+3920minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 24:
+
+Best Solution so far: 
+[1, 4, 3, 11, 14, 13, 2, 7, 20, 12, 22, 6, 5, 18, 9, 15, 17, 8, 25, 28, 23, 21, 10, 16, 24, 19, 26, 31, 30, 27, 29, 32] 
+[0, 0, 0, 0, 2, 1, 0, 1, 2, 1, 0, 1, 0, 0, 0, 0, 0, 1, 2, 2, 2, 1, 0, 2, 1, 0, 0, 1, 1, 0, 0, 2]
+Project Length: 31
+Non-renewable resources constrains met: True
+
+28.33user 0.03system 0:26.12elapsed 108%CPU (0avgtext+0avgdata 27240maxresident)k
+0inputs+0outputs (0major+3923minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 25:
+
+Best Solution so far: 
+[1, 3, 2, 4, 7, 12, 16, 6, 22, 14, 11, 8, 20, 5, 13, 9, 15, 17, 23, 18, 19, 28, 26, 10, 24, 21, 25, 30, 27, 29, 31, 32] 
+[2, 1, 1, 0, 1, 0, 0, 1, 0, 2, 0, 1, 0, 0, 0, 0, 0, 1, 2, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 2]
+Project Length: 31
+Non-renewable resources constrains met: True
+
+28.35user 0.02system 0:26.14elapsed 108%CPU (0avgtext+0avgdata 27212maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 26:
+
+Best Solution so far: 
+[1, 3, 2, 12, 4, 7, 6, 14, 16, 18, 11, 5, 17, 9, 20, 8, 22, 13, 15, 25, 21, 24, 10, 19, 23, 28, 26, 27, 30, 31, 29, 32] 
+[2, 0, 0, 1, 0, 2, 2, 1, 0, 0, 0, 2, 0, 0, 0, 2, 1, 0, 0, 0, 2, 1, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.68user 0.02system 0:26.48elapsed 108%CPU (0avgtext+0avgdata 27180maxresident)k
+0inputs+0outputs (0major+3923minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 27:
+
+Best Solution so far: 
+[1, 3, 4, 11, 2, 7, 14, 12, 22, 9, 5, 16, 18, 20, 13, 6, 17, 8, 15, 10, 21, 28, 24, 25, 19, 23, 26, 30, 31, 27, 29, 32] 
+[2, 0, 0, 0, 2, 1, 1, 1, 1, 1, 2, 2, 1, 1, 0, 1, 0, 0, 0, 2, 1, 1, 0, 2, 0, 0, 0, 1, 0, 0, 0, 0]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+28.37user 0.02system 0:26.16elapsed 108%CPU (0avgtext+0avgdata 27148maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 28:
+
+Best Solution so far: 
+[1, 4, 11, 3, 7, 20, 2, 16, 5, 14, 6, 12, 18, 22, 9, 13, 25, 8, 15, 10, 28, 23, 21, 17, 19, 26, 27, 31, 24, 30, 29, 32] 
+[0, 0, 1, 0, 2, 1, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 2, 0, 1, 2, 0, 0, 0, 0, 1, 0, 0, 2]
+Project Length: 31
+Non-renewable resources constrains met: True
+
+28.29user 0.02system 0:26.08elapsed 108%CPU (0avgtext+0avgdata 27148maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 29:
+
+Best Solution so far: 
+[1, 4, 2, 3, 7, 11, 14, 6, 9, 13, 15, 8, 12, 17, 22, 18, 20, 5, 19, 21, 23, 25, 16, 10, 28, 24, 30, 26, 27, 29, 31, 32] 
+[2, 0, 0, 0, 0, 0, 1, 1, 0, 1, 2, 2, 0, 1, 0, 2, 1, 2, 2, 1, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 2]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+28.65user 0.03system 0:26.51elapsed 108%CPU (0avgtext+0avgdata 27176maxresident)k
+0inputs+0outputs (0major+3918minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 30:
+
+Best Solution so far: 
+[1, 4, 3, 7, 12, 14, 2, 11, 22, 5, 20, 9, 6, 17, 16, 13, 18, 15, 8, 28, 19, 23, 24, 21, 25, 26, 10, 31, 27, 29, 30, 32] 
+[0, 0, 0, 0, 0, 2, 0, 0, 1, 1, 0, 0, 0, 2, 2, 0, 1, 0, 0, 1, 1, 0, 2, 2, 0, 1, 0, 2, 0, 0, 0, 0]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.46user 0.03system 0:26.31elapsed 108%CPU (0avgtext+0avgdata 27084maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 31:
+
+Best Solution so far: 
+[1, 4, 11, 3, 5, 2, 12, 7, 22, 16, 20, 13, 6, 14, 9, 18, 17, 25, 15, 8, 19, 23, 26, 24, 21, 28, 27, 30, 29, 10, 31, 32] 
+[1, 0, 0, 0, 2, 0, 0, 0, 2, 2, 1, 2, 0, 1, 0, 0, 0, 1, 0, 2, 0, 2, 0, 1, 0, 2, 0, 0, 0, 0, 1, 0]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+28.25user 0.02system 0:26.05elapsed 108%CPU (0avgtext+0avgdata 27020maxresident)k
+0inputs+0outputs (0major+3920minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 32:
+
+Best Solution so far: 
+[1, 2, 3, 4, 7, 12, 11, 22, 14, 13, 9, 6, 20, 8, 18, 15, 19, 5, 23, 28, 17, 26, 16, 24, 21, 10, 25, 30, 27, 29, 31, 32] 
+[0, 1, 0, 0, 0, 0, 0, 2, 0, 2, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 2, 1, 2, 1, 0, 0, 2]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+28.54user 0.03system 0:26.32elapsed 108%CPU (0avgtext+0avgdata 27272maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 33:
+
+Best Solution so far: 
+[1, 4, 3, 12, 5, 11, 14, 2, 6, 16, 7, 22, 20, 17, 18, 9, 8, 13, 15, 21, 24, 19, 23, 25, 28, 10, 31, 30, 26, 27, 29, 32] 
+[1, 2, 1, 1, 2, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 1, 2, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+Project Length: 36
+Non-renewable resources constrains met: True
+
+28.82user 0.03system 0:26.62elapsed 108%CPU (0avgtext+0avgdata 27216maxresident)k
+0inputs+0outputs (0major+3938minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 34:
+
+Best Solution so far: 
+[1, 3, 4, 14, 2, 5, 12, 11, 7, 22, 13, 20, 9, 6, 18, 8, 15, 17, 10, 25, 19, 16, 24, 23, 26, 21, 28, 27, 30, 31, 29, 32] 
+[0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 0, 1, 0, 2, 1, 0, 1, 0, 1, 0, 0, 0, 1]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+29.72user 0.02system 0:27.77elapsed 107%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3929minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 35:
+
+Best Solution so far: 
+[1, 3, 4, 12, 2, 7, 14, 5, 9, 6, 8, 11, 18, 15, 17, 20, 13, 22, 28, 23, 19, 24, 16, 25, 26, 30, 10, 27, 21, 31, 29, 32] 
+[1, 0, 0, 2, 2, 1, 2, 2, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 2, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0]
+Project Length: 36
+Non-renewable resources constrains met: True
+
+29.03user 0.02system 0:26.91elapsed 107%CPU (0avgtext+0avgdata 27276maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 36:
+
+Best Solution so far: 
+[1, 4, 7, 11, 5, 2, 20, 3, 13, 6, 12, 14, 18, 22, 8, 9, 15, 23, 17, 10, 25, 28, 16, 19, 21, 26, 24, 31, 27, 30, 29, 32] 
+[0, 0, 2, 0, 2, 1, 0, 1, 0, 0, 0, 1, 0, 0, 2, 1, 0, 1, 0, 2, 2, 0, 0, 1, 2, 0, 0, 1, 0, 0, 0, 1]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+28.99user 0.02system 0:26.90elapsed 107%CPU (0avgtext+0avgdata 27064maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 37:
+
+Best Solution so far: 
+[1, 3, 4, 2, 7, 12, 16, 6, 5, 22, 9, 11, 14, 15, 18, 20, 8, 10, 13, 17, 21, 23, 19, 25, 28, 24, 26, 31, 30, 27, 29, 32] 
+[1, 0, 0, 0, 0, 0, 2, 0, 2, 1, 0, 0, 0, 0, 2, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0]
+Project Length: 30
+Non-renewable resources constrains met: True
+
+29.46user 0.01system 0:27.26elapsed 108%CPU (0avgtext+0avgdata 27084maxresident)k
+0inputs+0outputs (0major+3938minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 38:
+
+Best Solution so far: 
+[1, 2, 4, 3, 7, 11, 12, 6, 14, 9, 22, 5, 13, 8, 17, 15, 20, 18, 25, 10, 28, 23, 16, 19, 24, 26, 30, 21, 31, 27, 29, 32] 
+[1, 0, 0, 1, 2, 1, 0, 1, 2, 0, 0, 0, 1, 0, 2, 0, 0, 2, 1, 1, 0, 2, 2, 1, 2, 0, 0, 0, 1, 0, 0, 2]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+29.36user 0.01system 0:27.22elapsed 107%CPU (0avgtext+0avgdata 27184maxresident)k
+0inputs+0outputs (0major+3921minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 39:
+
+Best Solution so far: 
+[1, 4, 11, 7, 2, 3, 12, 14, 13, 5, 6, 22, 20, 18, 16, 9, 8, 15, 23, 17, 25, 28, 19, 21, 10, 26, 24, 30, 27, 29, 31, 32] 
+[0, 0, 1, 2, 0, 0, 2, 1, 2, 2, 0, 0, 1, 2, 0, 0, 1, 0, 0, 1, 1, 0, 1, 2, 0, 0, 0, 1, 1, 0, 1, 0]
+Project Length: 36
+Non-renewable resources constrains met: True
+
+29.41user 0.01system 0:27.32elapsed 107%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3922minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 40:
+
+Best Solution so far: 
+[1, 4, 7, 5, 3, 11, 2, 14, 13, 12, 6, 9, 22, 20, 15, 8, 17, 18, 19, 23, 24, 25, 21, 16, 26, 28, 10, 27, 30, 31, 29, 32] 
+[0, 0, 0, 2, 0, 1, 2, 2, 1, 1, 1, 0, 0, 1, 0, 1, 1, 2, 0, 1, 2, 0, 0, 0, 0, 2, 2, 0, 0, 1, 0, 0]
+Project Length: 31
+Non-renewable resources constrains met: True
+
+29.05user 0.02system 0:26.98elapsed 107%CPU (0avgtext+0avgdata 27268maxresident)k
+0inputs+0outputs (0major+3927minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 41:
+
+Best Solution so far: 
+[1, 4, 3, 12, 2, 14, 11, 6, 7, 13, 18, 22, 5, 17, 16, 9, 15, 28, 8, 21, 19, 20, 25, 23, 24, 26, 27, 29, 30, 10, 31, 32] 
+[0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 2, 1, 2, 0, 0, 1, 1, 1, 1, 0, 1, 0, 2, 0, 0, 0, 0, 0, 1, 0]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.99user 0.03system 0:26.98elapsed 107%CPU (0avgtext+0avgdata 27140maxresident)k
+0inputs+0outputs (0major+3928minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 42:
+
+Best Solution so far: 
+[1, 4, 2, 3, 12, 14, 7, 6, 17, 11, 22, 5, 9, 20, 8, 13, 24, 10, 18, 15, 16, 28, 25, 23, 19, 21, 26, 27, 29, 31, 30, 32] 
+[0, 2, 1, 1, 1, 2, 0, 1, 1, 0, 1, 1, 1, 2, 0, 1, 1, 2, 0, 0, 0, 2, 2, 2, 0, 2, 0, 0, 0, 1, 0, 1]
+Project Length: 36
+Non-renewable resources constrains met: True
+
+28.86user 0.02system 0:26.77elapsed 107%CPU (0avgtext+0avgdata 27080maxresident)k
+0inputs+0outputs (0major+3922minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 43:
+
+Best Solution so far: 
+[1, 4, 11, 5, 2, 3, 7, 14, 20, 12, 13, 22, 6, 9, 8, 15, 18, 16, 28, 23, 17, 21, 19, 25, 26, 10, 27, 24, 29, 30, 31, 32] 
+[2, 0, 1, 1, 0, 0, 0, 2, 1, 0, 2, 1, 1, 0, 1, 2, 0, 2, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 2]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+29.10user 0.02system 0:27.01elapsed 107%CPU (0avgtext+0avgdata 27148maxresident)k
+0inputs+0outputs (0major+3925minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 44:
+
+Best Solution so far: 
+[1, 3, 2, 4, 12, 7, 11, 6, 14, 20, 8, 13, 18, 9, 22, 5, 17, 15, 16, 19, 28, 24, 25, 21, 23, 10, 26, 27, 31, 30, 29, 32] 
+[0, 0, 1, 2, 2, 0, 1, 1, 0, 2, 1, 1, 2, 2, 2, 1, 1, 0, 1, 1, 0, 1, 2, 0, 0, 2, 0, 1, 0, 0, 0, 2]
+Project Length: 37
+Non-renewable resources constrains met: True
+
+28.78user 0.02system 0:26.68elapsed 107%CPU (0avgtext+0avgdata 27212maxresident)k
+0inputs+0outputs (0major+3925minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 45:
+
+Best Solution so far: 
+[1, 3, 4, 2, 5, 12, 14, 11, 6, 13, 7, 18, 22, 20, 17, 9, 15, 16, 21, 8, 19, 10, 23, 28, 25, 26, 27, 24, 30, 31, 29, 32] 
+[1, 0, 1, 0, 2, 0, 2, 0, 0, 2, 0, 0, 0, 1, 2, 0, 0, 1, 1, 1, 1, 1, 0, 2, 2, 0, 1, 1, 0, 1, 0, 0]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.95user 0.02system 0:26.86elapsed 107%CPU (0avgtext+0avgdata 27276maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 46:
+
+Best Solution so far: 
+[1, 4, 7, 2, 3, 6, 16, 11, 14, 12, 5, 8, 9, 13, 20, 18, 15, 22, 19, 17, 23, 28, 21, 25, 26, 24, 27, 30, 10, 31, 29, 32] 
+[2, 0, 2, 2, 0, 0, 0, 1, 2, 0, 1, 1, 0, 2, 0, 2, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+29.38user 0.01system 0:27.27elapsed 107%CPU (0avgtext+0avgdata 27084maxresident)k
+0inputs+0outputs (0major+3923minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 47:
+
+Best Solution so far: 
+[1, 4, 3, 5, 2, 7, 11, 12, 14, 13, 9, 18, 6, 17, 20, 8, 16, 15, 25, 22, 24, 10, 19, 23, 28, 26, 21, 27, 31, 30, 29, 32] 
+[1, 0, 0, 0, 2, 0, 0, 0, 0, 2, 1, 1, 1, 2, 0, 2, 1, 0, 2, 0, 2, 1, 1, 0, 2, 0, 1, 1, 1, 0, 0, 1]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+28.98user 0.02system 0:26.84elapsed 108%CPU (0avgtext+0avgdata 27088maxresident)k
+0inputs+0outputs (0major+3927minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 48:
+
+Best Solution so far: 
+[1, 2, 4, 3, 7, 5, 12, 6, 11, 14, 9, 15, 8, 20, 16, 13, 22, 18, 19, 21, 23, 17, 26, 10, 25, 28, 24, 27, 29, 31, 30, 32] 
+[0, 0, 0, 1, 0, 1, 1, 0, 2, 2, 0, 0, 1, 1, 0, 1, 0, 0, 0, 2, 1, 1, 1, 0, 1, 2, 1, 0, 0, 1, 0, 2]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+29.76user 0.02system 0:27.66elapsed 107%CPU (0avgtext+0avgdata 26964maxresident)k
+0inputs+0outputs (0major+3937minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 49:
+
+Best Solution so far: 
+[1, 3, 4, 11, 2, 13, 5, 6, 7, 12, 14, 9, 17, 20, 22, 18, 8, 24, 23, 15, 28, 16, 10, 21, 19, 25, 26, 30, 27, 31, 29, 32] 
+[1, 1, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 1, 0, 0, 1, 1, 2, 0, 0, 0, 1, 0, 1, 0, 2]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+29.17user 0.03system 0:27.02elapsed 108%CPU (0avgtext+0avgdata 27276maxresident)k
+0inputs+0outputs (0major+3935minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 50:
+
+Best Solution so far: 
+[1, 4, 2, 3, 12, 11, 14, 7, 22, 20, 18, 6, 13, 9, 8, 16, 15, 5, 23, 28, 17, 25, 19, 26, 21, 24, 10, 27, 30, 31, 29, 32] 
+[2, 0, 2, 1, 0, 0, 1, 0, 0, 1, 2, 0, 2, 0, 0, 1, 0, 0, 0, 2, 1, 0, 1, 2, 0, 2, 1, 0, 0, 0, 0, 2]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+28.66user 0.02system 0:26.49elapsed 108%CPU (0avgtext+0avgdata 27272maxresident)k
+0inputs+0outputs (0major+3932minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 51:
+
+Best Solution so far: 
+[1, 2, 3, 4, 5, 11, 13, 6, 12, 7, 14, 22, 20, 23, 18, 17, 28, 16, 9, 15, 19, 8, 24, 26, 21, 25, 10, 30, 27, 31, 29, 32] 
+[0, 0, 1, 0, 2, 0, 1, 2, 0, 0, 2, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 2, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0]
+Project Length: 31
+Non-renewable resources constrains met: True
+
+28.65user 0.02system 0:26.50elapsed 108%CPU (0avgtext+0avgdata 27152maxresident)k
+0inputs+0outputs (0major+3926minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 52:
+
+Best Solution so far: 
+[1, 4, 3, 11, 2, 20, 12, 7, 14, 22, 6, 13, 9, 17, 16, 18, 23, 5, 25, 28, 15, 8, 19, 26, 21, 10, 27, 24, 29, 30, 31, 32] 
+[1, 0, 0, 1, 1, 1, 0, 0, 2, 0, 0, 1, 0, 2, 2, 0, 0, 2, 2, 1, 0, 2, 0, 0, 2, 0, 0, 1, 0, 0, 0, 1]
+Project Length: 30
+Non-renewable resources constrains met: True
+
+28.65user 0.02system 0:26.52elapsed 108%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3928minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 53:
+
+Best Solution so far: 
+[1, 3, 4, 7, 11, 2, 13, 12, 22, 6, 14, 20, 5, 18, 9, 25, 17, 8, 15, 19, 28, 24, 23, 16, 21, 26, 10, 30, 27, 31, 29, 32] 
+[1, 0, 0, 1, 1, 1, 1, 0, 2, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 2, 1, 0, 0, 0, 1]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+29.90user 0.01system 0:27.75elapsed 107%CPU (0avgtext+0avgdata 27000maxresident)k
+0inputs+0outputs (0major+3931minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 54:
+
+Best Solution so far: 
+[1, 4, 7, 11, 3, 14, 2, 6, 5, 13, 20, 12, 9, 22, 15, 16, 17, 18, 19, 25, 8, 23, 28, 26, 24, 30, 10, 21, 27, 31, 29, 32] 
+[0, 0, 0, 0, 0, 1, 0, 0, 2, 2, 1, 0, 0, 1, 2, 0, 2, 0, 1, 0, 2, 1, 1, 0, 0, 2, 0, 0, 0, 1, 0, 1]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.76user 0.01system 0:26.78elapsed 107%CPU (0avgtext+0avgdata 27148maxresident)k
+0inputs+0outputs (0major+3922minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 55:
+
+Best Solution so far: 
+[1, 3, 4, 11, 7, 2, 14, 13, 12, 20, 9, 6, 18, 5, 22, 15, 17, 8, 16, 24, 10, 28, 25, 21, 19, 23, 26, 31, 30, 27, 29, 32] 
+[1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 1, 2, 1, 0, 0, 0, 0, 1, 0, 0, 0, 2]
+Project Length: 28
+Non-renewable resources constrains met: True
+
+28.99user 0.03system 0:26.85elapsed 108%CPU (0avgtext+0avgdata 26940maxresident)k
+0inputs+0outputs (0major+3925minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 56:
+
+Best Solution so far: 
+[1, 3, 4, 2, 7, 12, 11, 6, 14, 8, 9, 5, 20, 17, 22, 23, 18, 13, 15, 28, 24, 19, 10, 25, 16, 26, 30, 27, 21, 29, 31, 32] 
+[0, 0, 0, 2, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 1, 0, 2, 1, 0, 0, 1, 1]
+Project Length: 31
+Non-renewable resources constrains met: True
+
+28.70user 0.03system 0:26.63elapsed 107%CPU (0avgtext+0avgdata 27140maxresident)k
+0inputs+0outputs (0major+3917minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 57:
+
+Best Solution so far: 
+[1, 3, 14, 2, 4, 12, 22, 18, 7, 11, 13, 6, 9, 15, 8, 20, 25, 16, 17, 28, 19, 5, 23, 24, 21, 26, 10, 27, 30, 29, 31, 32] 
+[2, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 2, 0, 2, 0, 1, 1, 0, 1, 2, 2, 1, 0, 1, 1, 0, 0, 1, 2]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+30.13user 0.02system 0:27.99elapsed 107%CPU (0avgtext+0avgdata 27276maxresident)k
+0inputs+0outputs (0major+3923minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 58:
+
+Best Solution so far: 
+[1, 2, 4, 7, 3, 6, 9, 5, 12, 11, 14, 13, 20, 22, 15, 18, 8, 23, 17, 25, 16, 24, 19, 28, 10, 30, 26, 27, 21, 31, 29, 32] 
+[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 2, 1, 1, 0, 1, 0, 2, 1, 0, 2, 1, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 1]
+Project Length: 36
+Non-renewable resources constrains met: True
+
+28.93user 0.02system 0:26.83elapsed 107%CPU (0avgtext+0avgdata 27272maxresident)k
+0inputs+0outputs (0major+3923minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 59:
+
+Best Solution so far: 
+[1, 4, 3, 7, 2, 6, 14, 12, 11, 18, 17, 5, 20, 8, 13, 9, 22, 10, 23, 28, 16, 24, 15, 21, 19, 26, 27, 25, 30, 31, 29, 32] 
+[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 2, 1, 2, 1, 2, 0, 0, 0, 1, 2, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 2]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+29.56user 0.02system 0:27.46elapsed 107%CPU (0avgtext+0avgdata 27152maxresident)k
+0inputs+0outputs (0major+3919minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 60:
+
+Best Solution so far: 
+[1, 4, 3, 12, 14, 7, 11, 2, 9, 6, 22, 20, 5, 23, 17, 13, 18, 16, 8, 15, 25, 21, 19, 28, 26, 24, 10, 27, 29, 31, 30, 32] 
+[2, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 2, 1, 1, 0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 1]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+28.92user 0.02system 0:26.83elapsed 107%CPU (0avgtext+0avgdata 27148maxresident)k
+0inputs+0outputs (0major+3928minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 61:
+
+Best Solution so far: 
+[1, 4, 11, 3, 7, 2, 12, 16, 22, 9, 13, 6, 14, 5, 15, 18, 25, 20, 8, 28, 19, 17, 10, 23, 21, 26, 24, 31, 27, 29, 30, 32] 
+[2, 0, 0, 0, 0, 0, 0, 2, 1, 0, 2, 0, 1, 2, 0, 0, 1, 1, 1, 2, 1, 1, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0]
+Project Length: 30
+Non-renewable resources constrains met: True
+
+29.06user 0.02system 0:26.97elapsed 107%CPU (0avgtext+0avgdata 26960maxresident)k
+0inputs+0outputs (0major+3930minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 62:
+
+Best Solution so far: 
+[1, 4, 3, 7, 2, 6, 14, 12, 11, 13, 9, 22, 5, 18, 17, 25, 8, 10, 15, 28, 24, 19, 21, 20, 23, 30, 31, 16, 26, 27, 29, 32] 
+[0, 0, 1, 2, 0, 0, 0, 0, 1, 2, 0, 0, 1, 0, 2, 2, 0, 0, 0, 1, 0, 0, 1, 0, 0, 2, 2, 0, 0, 0, 0, 1]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+29.29user 0.02system 0:27.22elapsed 107%CPU (0avgtext+0avgdata 27024maxresident)k
+0inputs+0outputs (0major+3922minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 63:
+
+Best Solution so far: 
+[1, 2, 4, 7, 3, 11, 6, 14, 5, 12, 22, 13, 18, 20, 9, 8, 15, 28, 19, 16, 23, 25, 21, 17, 26, 10, 24, 27, 29, 30, 31, 32] 
+[1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 1, 0, 2, 0, 2, 0, 2, 2, 2, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+Project Length: 26
+Non-renewable resources constrains met: True
+
+29.62user 0.03system 0:27.66elapsed 107%CPU (0avgtext+0avgdata 26816maxresident)k
+0inputs+0outputs (0major+3925minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 64:
+
+Best Solution so far: 
+[1, 3, 12, 4, 14, 22, 7, 18, 11, 2, 6, 5, 13, 17, 8, 9, 15, 19, 20, 21, 16, 10, 23, 28, 24, 25, 26, 27, 30, 29, 31, 32] 
+[2, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 1, 0, 0, 1, 1, 2, 1, 2, 0, 0, 0, 0, 0, 1]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+29.11user 0.02system 0:27.01elapsed 107%CPU (0avgtext+0avgdata 27080maxresident)k
+0inputs+0outputs (0major+3917minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 65:
+
+Best Solution so far: 
+[1, 4, 7, 11, 3, 14, 12, 2, 5, 6, 20, 13, 22, 8, 9, 15, 18, 16, 17, 28, 10, 23, 19, 24, 25, 26, 21, 27, 30, 31, 29, 32] 
+[2, 0, 2, 1, 0, 0, 0, 1, 2, 1, 1, 1, 0, 2, 0, 0, 1, 2, 2, 2, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.95user 0.01system 0:26.84elapsed 107%CPU (0avgtext+0avgdata 27068maxresident)k
+0inputs+0outputs (0major+3923minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 66:
+
+Best Solution so far: 
+[1, 2, 3, 4, 7, 12, 5, 6, 9, 14, 22, 11, 15, 17, 20, 13, 18, 16, 8, 21, 10, 25, 24, 19, 23, 28, 26, 30, 27, 31, 29, 32] 
+[0, 2, 1, 0, 0, 0, 0, 1, 2, 1, 2, 0, 0, 0, 0, 0, 0, 2, 2, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+29.03user 0.01system 0:27.15elapsed 106%CPU (0avgtext+0avgdata 27036maxresident)k
+0inputs+0outputs (0major+3934minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 67:
+
+Best Solution so far: 
+[1, 2, 4, 3, 7, 12, 22, 16, 11, 5, 14, 6, 9, 17, 18, 25, 13, 20, 8, 15, 21, 28, 23, 19, 26, 24, 10, 27, 29, 31, 30, 32] 
+[2, 1, 0, 0, 2, 0, 1, 2, 0, 2, 1, 1, 0, 0, 0, 0, 1, 0, 2, 0, 1, 2, 1, 1, 0, 2, 0, 0, 0, 1, 0, 1]
+Project Length: 30
+Non-renewable resources constrains met: True
+
+29.12user 0.01system 0:27.02elapsed 107%CPU (0avgtext+0avgdata 27276maxresident)k
+0inputs+0outputs (0major+3943minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 68:
+
+Best Solution so far: 
+[1, 3, 4, 11, 2, 12, 7, 20, 13, 16, 6, 14, 22, 23, 8, 9, 17, 18, 15, 24, 19, 28, 5, 25, 26, 21, 10, 27, 31, 30, 29, 32] 
+[2, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2, 0, 0, 0, 2, 0, 0, 0, 0, 2, 0, 2, 0, 1, 0, 2, 0, 1, 0, 0, 0, 1]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+29.28user 0.03system 0:27.14elapsed 108%CPU (0avgtext+0avgdata 27148maxresident)k
+0inputs+0outputs (0major+3921minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 69:
+
+Best Solution so far: 
+[1, 2, 3, 4, 14, 12, 18, 11, 7, 22, 6, 9, 8, 5, 20, 16, 15, 25, 23, 17, 13, 28, 21, 19, 26, 10, 24, 31, 27, 29, 30, 32] 
+[2, 1, 1, 0, 0, 0, 0, 2, 0, 2, 0, 0, 2, 1, 0, 0, 2, 2, 0, 2, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0, 0, 2]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+28.87user 0.02system 0:26.77elapsed 107%CPU (0avgtext+0avgdata 26968maxresident)k
+0inputs+0outputs (0major+3938minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 70:
+
+Best Solution so far: 
+[1, 4, 3, 2, 7, 6, 14, 12, 9, 8, 5, 11, 17, 16, 15, 22, 18, 13, 10, 20, 19, 25, 28, 23, 24, 21, 31, 30, 26, 27, 29, 32] 
+[0, 0, 0, 0, 0, 1, 0, 2, 1, 1, 1, 2, 0, 1, 0, 0, 0, 1, 2, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+28.83user 0.02system 0:26.72elapsed 108%CPU (0avgtext+0avgdata 26936maxresident)k
+0inputs+0outputs (0major+3920minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 71:
+
+Best Solution so far: 
+[1, 4, 5, 7, 3, 2, 12, 14, 9, 6, 18, 15, 17, 8, 22, 11, 13, 20, 25, 21, 16, 23, 19, 28, 26, 24, 10, 27, 30, 31, 29, 32] 
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 1, 2, 0, 1, 0, 0, 2, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 2]
+Project Length: 31
+Non-renewable resources constrains met: True
+
+28.83user 0.02system 0:26.74elapsed 107%CPU (0avgtext+0avgdata 27084maxresident)k
+0inputs+0outputs (0major+3935minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 72:
+
+Best Solution so far: 
+[1, 3, 12, 4, 2, 14, 16, 11, 22, 13, 6, 7, 17, 5, 8, 18, 20, 25, 9, 28, 15, 10, 23, 21, 24, 19, 30, 26, 27, 29, 31, 32] 
+[0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 1, 2, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 2, 2, 0, 0, 1, 0, 0, 0, 1, 0]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.89user 0.02system 0:26.80elapsed 107%CPU (0avgtext+0avgdata 27272maxresident)k
+0inputs+0outputs (0major+3925minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 73:
+
+Best Solution so far: 
+[1, 2, 3, 4, 14, 7, 11, 13, 9, 16, 6, 12, 5, 18, 17, 20, 22, 15, 23, 19, 8, 21, 28, 24, 10, 30, 26, 25, 27, 31, 29, 32] 
+[0, 2, 0, 0, 1, 0, 1, 2, 0, 1, 1, 0, 2, 1, 0, 1, 0, 1, 0, 1, 2, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 1]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+29.12user 0.02system 0:27.00elapsed 107%CPU (0avgtext+0avgdata 27084maxresident)k
+0inputs+0outputs (0major+3923minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 74:
+
+Best Solution so far: 
+[1, 4, 3, 2, 7, 12, 14, 5, 11, 20, 9, 18, 22, 6, 15, 13, 25, 17, 8, 16, 23, 19, 21, 28, 26, 10, 27, 24, 30, 31, 29, 32] 
+[0, 0, 1, 0, 0, 0, 1, 1, 1, 2, 0, 1, 2, 0, 0, 2, 1, 0, 2, 0, 1, 1, 2, 1, 0, 0, 0, 1, 0, 0, 0, 2]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+28.81user 0.01system 0:26.75elapsed 107%CPU (0avgtext+0avgdata 27336maxresident)k
+0inputs+0outputs (0major+3933minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 75:
+
+Best Solution so far: 
+[1, 4, 2, 7, 11, 3, 13, 6, 14, 20, 8, 9, 5, 16, 15, 12, 19, 17, 18, 10, 22, 25, 21, 23, 28, 24, 30, 26, 27, 29, 31, 32] 
+[2, 0, 0, 2, 0, 1, 0, 2, 1, 2, 0, 0, 0, 2, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+30.00user 0.02system 0:27.84elapsed 107%CPU (0avgtext+0avgdata 27272maxresident)k
+0inputs+0outputs (0major+3926minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 76:
+
+Best Solution so far: 
+[1, 2, 4, 3, 11, 12, 7, 16, 13, 20, 9, 22, 14, 5, 6, 8, 15, 18, 19, 17, 25, 23, 21, 10, 28, 24, 26, 31, 27, 30, 29, 32] 
+[1, 2, 0, 0, 0, 0, 0, 2, 1, 0, 0, 2, 0, 1, 0, 0, 0, 2, 1, 1, 0, 0, 2, 2, 2, 0, 0, 1, 0, 0, 0, 2]
+Project Length: 31
+Non-renewable resources constrains met: True
+
+29.87user 0.03system 0:27.77elapsed 107%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3921minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 77:
+
+Best Solution so far: 
+[1, 4, 2, 7, 3, 6, 11, 8, 20, 14, 13, 12, 5, 16, 9, 15, 18, 17, 22, 23, 21, 10, 25, 28, 19, 26, 24, 30, 27, 31, 29, 32] 
+[1, 0, 0, 0, 2, 1, 1, 2, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 2, 0, 2]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+29.85user 0.02system 0:27.76elapsed 107%CPU (0avgtext+0avgdata 27312maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 78:
+
+Best Solution so far: 
+[1, 4, 3, 14, 12, 2, 7, 22, 18, 6, 9, 25, 11, 8, 17, 13, 28, 15, 5, 20, 16, 24, 23, 10, 19, 30, 31, 21, 26, 27, 29, 32] 
+[2, 1, 0, 1, 0, 2, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 1, 2, 0, 1, 1, 1, 2, 0, 0, 0, 2]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+29.39user 0.02system 0:27.25elapsed 107%CPU (0avgtext+0avgdata 27148maxresident)k
+0inputs+0outputs (0major+3927minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 79:
+
+Best Solution so far: 
+[1, 4, 2, 3, 12, 7, 14, 11, 6, 13, 22, 17, 5, 20, 9, 18, 8, 16, 25, 23, 15, 10, 21, 28, 19, 24, 26, 27, 30, 31, 29, 32] 
+[1, 0, 2, 0, 0, 1, 2, 0, 0, 2, 1, 0, 2, 0, 1, 0, 2, 2, 0, 0, 0, 1, 2, 1, 1, 1, 0, 0, 0, 1, 0, 1]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+30.59user 0.02system 0:28.50elapsed 107%CPU (0avgtext+0avgdata 27012maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 80:
+
+Best Solution so far: 
+[1, 4, 2, 3, 12, 14, 7, 11, 20, 18, 13, 6, 5, 22, 8, 9, 15, 17, 23, 21, 16, 19, 24, 28, 25, 10, 26, 27, 29, 30, 31, 32] 
+[1, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 1, 2, 0, 2, 0, 0, 0, 1, 1, 0, 1, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+Project Length: 30
+Non-renewable resources constrains met: True
+
+29.22user 0.03system 0:27.09elapsed 107%CPU (0avgtext+0avgdata 27048maxresident)k
+0inputs+0outputs (0major+3920minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 81:
+
+Best Solution so far: 
+[1, 4, 3, 2, 7, 12, 11, 16, 14, 6, 17, 9, 20, 22, 5, 8, 13, 15, 23, 24, 18, 19, 10, 26, 25, 21, 28, 30, 31, 27, 29, 32] 
+[2, 1, 1, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 2, 1, 0, 2, 1, 0, 0, 1, 1, 1, 1, 2, 0, 1, 0, 0, 1]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+30.75user 0.02system 0:28.68elapsed 107%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3927minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 82:
+
+Best Solution so far: 
+[1, 2, 3, 4, 11, 13, 14, 16, 12, 20, 7, 9, 6, 5, 15, 8, 22, 23, 18, 17, 28, 10, 19, 25, 21, 26, 24, 27, 31, 30, 29, 32] 
+[0, 0, 0, 0, 0, 1, 2, 2, 0, 2, 0, 0, 1, 1, 2, 2, 0, 2, 0, 1, 1, 2, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+Project Length: 30
+Non-renewable resources constrains met: True
+
+29.90user 0.02system 0:27.77elapsed 107%CPU (0avgtext+0avgdata 27024maxresident)k
+0inputs+0outputs (0major+3939minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 83:
+
+Best Solution so far: 
+[1, 2, 4, 3, 12, 14, 7, 6, 16, 11, 13, 17, 22, 20, 5, 8, 18, 28, 9, 23, 15, 10, 25, 19, 26, 21, 27, 31, 24, 30, 29, 32] 
+[0, 0, 0, 1, 2, 0, 1, 2, 1, 2, 0, 2, 0, 1, 1, 1, 0, 2, 0, 0, 0, 1, 2, 0, 0, 2, 1, 0, 0, 0, 0, 2]
+Project Length: 36
+Non-renewable resources constrains met: True
+
+29.24user 0.02system 0:27.18elapsed 107%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3930minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 84:
+
+Best Solution so far: 
+[1, 3, 14, 2, 4, 7, 11, 5, 6, 12, 17, 20, 18, 9, 8, 15, 13, 19, 16, 22, 10, 28, 24, 23, 30, 25, 21, 26, 27, 29, 31, 32] 
+[2, 0, 1, 0, 0, 0, 1, 0, 1, 0, 2, 2, 0, 0, 1, 0, 0, 2, 1, 0, 0, 0, 1, 0, 0, 0, 2, 0, 1, 0, 1, 2]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+29.81user 0.02system 0:27.75elapsed 107%CPU (0avgtext+0avgdata 27084maxresident)k
+0inputs+0outputs (0major+3921minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 85:
+
+Best Solution so far: 
+[1, 3, 4, 2, 7, 14, 11, 12, 18, 13, 6, 9, 15, 16, 22, 5, 17, 8, 20, 25, 24, 28, 19, 21, 10, 23, 26, 27, 30, 29, 31, 32] 
+[1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0, 1, 2, 0, 2, 1, 2, 0, 0, 0, 0, 0, 0]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+29.00user 0.02system 0:26.85elapsed 108%CPU (0avgtext+0avgdata 27280maxresident)k
+0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 86:
+
+Best Solution so far: 
+[1, 2, 3, 12, 14, 4, 5, 7, 11, 13, 22, 9, 20, 6, 16, 18, 8, 25, 15, 28, 10, 21, 23, 19, 17, 26, 24, 31, 30, 27, 29, 32] 
+[2, 0, 0, 0, 1, 0, 0, 0, 1, 2, 2, 1, 0, 1, 1, 1, 2, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+28.71user 0.01system 0:26.59elapsed 108%CPU (0avgtext+0avgdata 27308maxresident)k
+0inputs+0outputs (0major+3925minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 87:
+
+Best Solution so far: 
+[1, 3, 4, 12, 2, 7, 11, 14, 9, 20, 22, 5, 6, 18, 16, 15, 17, 13, 8, 21, 28, 19, 25, 23, 26, 24, 30, 27, 10, 31, 29, 32] 
+[1, 0, 1, 1, 1, 0, 2, 2, 0, 1, 0, 1, 0, 0, 1, 0, 2, 1, 2, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2]
+Project Length: 31
+Non-renewable resources constrains met: True
+
+28.91user 0.01system 0:26.71elapsed 108%CPU (0avgtext+0avgdata 27020maxresident)k
+0inputs+0outputs (0major+3921minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 88:
+
+Best Solution so far: 
+[1, 4, 5, 3, 11, 7, 14, 13, 2, 12, 22, 6, 9, 20, 8, 15, 18, 17, 24, 28, 16, 23, 10, 25, 19, 26, 21, 31, 30, 27, 29, 32] 
+[1, 0, 2, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 2, 1, 0, 2, 0, 0, 1, 0, 2]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+29.61user 0.02system 0:27.48elapsed 107%CPU (0avgtext+0avgdata 27144maxresident)k
+0inputs+0outputs (0major+3920minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 89:
+
+Best Solution so far: 
+[1, 4, 7, 3, 11, 12, 2, 6, 5, 14, 20, 9, 13, 18, 15, 22, 8, 19, 10, 23, 16, 17, 21, 28, 26, 24, 27, 30, 25, 29, 31, 32] 
+[0, 0, 0, 1, 1, 0, 0, 0, 2, 0, 1, 0, 0, 1, 0, 1, 1, 0, 2, 1, 0, 0, 1, 1, 0, 0, 2, 2, 0, 0, 1, 0]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+29.87user 0.02system 0:27.75elapsed 107%CPU (0avgtext+0avgdata 27272maxresident)k
+0inputs+0outputs (0major+3926minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 90:
+
+Best Solution so far: 
+[1, 3, 2, 4, 11, 12, 7, 9, 6, 13, 8, 14, 20, 15, 17, 22, 18, 19, 16, 25, 28, 23, 5, 10, 21, 26, 31, 24, 27, 30, 29, 32] 
+[1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 1, 2, 1, 0, 1, 1, 2, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 2]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+28.80user 0.02system 0:26.63elapsed 108%CPU (0avgtext+0avgdata 27140maxresident)k
+0inputs+0outputs (0major+3928minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 91:
+
+Best Solution so far: 
+[1, 4, 3, 2, 6, 12, 14, 11, 7, 17, 13, 20, 18, 16, 22, 9, 5, 15, 8, 10, 24, 25, 28, 23, 21, 19, 26, 31, 27, 30, 29, 32] 
+[2, 1, 1, 0, 1, 1, 2, 1, 0, 1, 2, 1, 1, 0, 0, 0, 2, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+28.94user 0.01system 0:26.79elapsed 108%CPU (0avgtext+0avgdata 27152maxresident)k
+0inputs+0outputs (0major+3922minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 92:
+
+Best Solution so far: 
+[1, 3, 2, 14, 4, 16, 12, 22, 7, 18, 11, 5, 6, 25, 20, 13, 8, 17, 28, 9, 15, 10, 23, 21, 19, 26, 31, 24, 27, 30, 29, 32] 
+[1, 0, 0, 2, 1, 0, 0, 0, 2, 0, 1, 2, 1, 0, 1, 1, 2, 2, 2, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+28.80user 0.02system 0:26.67elapsed 108%CPU (0avgtext+0avgdata 26988maxresident)k
+0inputs+0outputs (0major+3935minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 93:
+
+Best Solution so far: 
+[1, 4, 2, 3, 11, 12, 7, 6, 16, 14, 20, 5, 18, 22, 9, 17, 25, 15, 8, 13, 19, 21, 10, 28, 24, 23, 26, 27, 29, 31, 30, 32] 
+[1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 1, 0, 2, 0, 2, 1, 2, 2, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 2]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+28.78user 0.02system 0:26.63elapsed 108%CPU (0avgtext+0avgdata 27276maxresident)k
+0inputs+0outputs (0major+3923minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 94:
+
+Best Solution so far: 
+[1, 2, 4, 3, 7, 6, 9, 14, 11, 12, 22, 18, 20, 5, 17, 13, 8, 15, 25, 21, 19, 23, 16, 28, 10, 26, 27, 31, 24, 29, 30, 32] 
+[1, 0, 0, 1, 0, 2, 2, 2, 1, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 2, 1, 0, 0, 2, 1, 0, 0, 2, 1, 0, 0, 0]
+Project Length: 33
+Non-renewable resources constrains met: True
+
+28.74user 0.02system 0:26.62elapsed 108%CPU (0avgtext+0avgdata 27152maxresident)k
+0inputs+0outputs (0major+3930minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 95:
+
+Best Solution so far: 
+[1, 3, 4, 14, 7, 2, 12, 22, 18, 6, 9, 11, 17, 16, 13, 5, 8, 15, 20, 28, 23, 21, 24, 19, 25, 10, 26, 30, 27, 29, 31, 32] 
+[1, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 1, 0, 2, 0, 2, 0, 0, 0, 2, 0, 0, 0, 2, 1, 0, 0, 1, 0, 0, 2]
+Project Length: 30
+Non-renewable resources constrains met: True
+
+29.06user 0.02system 0:26.93elapsed 107%CPU (0avgtext+0avgdata 27064maxresident)k
+0inputs+0outputs (0major+3922minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 96:
+
+Best Solution so far: 
+[1, 4, 2, 5, 3, 11, 13, 7, 12, 14, 6, 17, 18, 22, 25, 9, 8, 20, 16, 15, 10, 28, 19, 24, 23, 30, 26, 21, 27, 29, 31, 32] 
+[0, 0, 0, 2, 2, 0, 2, 1, 0, 0, 0, 0, 0, 0, 1, 0, 2, 1, 1, 0, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+28.96user 0.02system 0:26.79elapsed 108%CPU (0avgtext+0avgdata 27276maxresident)k
+0inputs+0outputs (0major+3920minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 97:
+
+Best Solution so far: 
+[1, 3, 4, 14, 12, 2, 5, 11, 7, 20, 22, 18, 13, 6, 9, 15, 8, 28, 17, 23, 24, 19, 30, 25, 10, 26, 16, 21, 27, 31, 29, 32] 
+[1, 0, 0, 2, 0, 0, 2, 0, 0, 0, 2, 2, 1, 0, 0, 0, 0, 2, 0, 2, 1, 1, 0, 1, 0, 0, 1, 2, 0, 1, 0, 0]
+Project Length: 35
+Non-renewable resources constrains met: True
+
+28.80user 0.04system 0:26.69elapsed 108%CPU (0avgtext+0avgdata 27220maxresident)k
+0inputs+0outputs (0major+3921minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 98:
+
+Best Solution so far: 
+[1, 4, 3, 2, 7, 5, 6, 12, 11, 14, 13, 9, 20, 17, 22, 16, 18, 8, 15, 19, 23, 10, 21, 26, 28, 25, 27, 24, 31, 29, 30, 32] 
+[1, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1, 1, 2, 0, 2, 2, 2, 1, 0, 1, 1, 0, 2, 0, 2, 1, 0, 2, 0, 0, 0, 2]
+Project Length: 32
+Non-renewable resources constrains met: True
+
+28.70user 0.02system 0:26.57elapsed 108%CPU (0avgtext+0avgdata 27120maxresident)k
+0inputs+0outputs (0major+3931minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 99:
+
+Best Solution so far: 
+[1, 3, 4, 12, 2, 7, 6, 14, 18, 11, 16, 20, 9, 13, 17, 22, 15, 8, 5, 23, 21, 25, 19, 24, 26, 28, 10, 27, 31, 30, 29, 32] 
+[2, 0, 0, 0, 0, 1, 1, 0, 2, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 2, 2, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0]
+Project Length: 31
+Non-renewable resources constrains met: True
+
+28.87user 0.02system 0:26.70elapsed 108%CPU (0avgtext+0avgdata 27272maxresident)k
+0inputs+0outputs (0major+3928minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 100:
+
+Best Solution so far: 
+[1, 4, 7, 2, 5, 3, 14, 6, 11, 20, 9, 12, 18, 16, 8, 13, 17, 15, 22, 10, 24, 23, 21, 28, 19, 25, 26, 31, 27, 29, 30, 32] 
+[0, 0, 1, 0, 0, 0, 2, 0, 2, 2, 0, 0, 0, 2, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 1]
+Project Length: 34
+Non-renewable resources constrains met: True
+
+28.76user 0.02system 0:26.64elapsed 108%CPU (0avgtext+0avgdata 27044maxresident)k
+0inputs+0outputs (0major+3935minor)pagefaults 0swaps
+
+
+==================================================
+

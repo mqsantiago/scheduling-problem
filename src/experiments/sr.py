@@ -110,7 +110,7 @@ file_path = (
 )
 
 # Terminal command to be run after modifying the file
-terminal_command = "time ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param"
+terminal_command = "time ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/J100108_5.param"
 
 
 def modify_file(horizon_value):
@@ -127,7 +127,11 @@ def modify_file(horizon_value):
 
 def run_command():
     result = subprocess.run(
-        terminal_command, shell=True, capture_output=True, text=True
+        terminal_command,
+        shell=True,
+        capture_output=True,
+        text=True,
+        check=False,
     )
     return result.stdout, result.stderr
 

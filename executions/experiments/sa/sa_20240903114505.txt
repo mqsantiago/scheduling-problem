@@ -1,0 +1,1884 @@
+Chains: 2
+Steps: 5
+Neighbours Initial N: 1000
+Neighbours Increase Coefficient: 1
+Temperature Max: 100
+Temperature Increase Coefficient: 0.25
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J3011_9
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3011_9'
+Command exited with non-zero status 1
+2.20user 0.02system 0:00.16elapsed 1345%CPU (0avgtext+0avgdata 38176maxresident)k
+0inputs+0outputs (0major+5260minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3011_9'
+Command exited with non-zero status 1
+2.11user 0.02system 0:00.15elapsed 1381%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5266minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3011_9'
+Command exited with non-zero status 1
+2.12user 0.02system 0:00.15elapsed 1355%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3011_9'
+Command exited with non-zero status 1
+2.15user 0.02system 0:00.15elapsed 1371%CPU (0avgtext+0avgdata 38180maxresident)k
+0inputs+0outputs (0major+5260minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3011_9'
+Command exited with non-zero status 1
+2.12user 0.04system 0:00.19elapsed 1098%CPU (0avgtext+0avgdata 38332maxresident)k
+0inputs+0outputs (0major+5246minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3011_9'
+Command exited with non-zero status 1
+2.12user 0.02system 0:00.15elapsed 1366%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5266minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3011_9'
+Command exited with non-zero status 1
+2.16user 0.03system 0:00.16elapsed 1338%CPU (0avgtext+0avgdata 38180maxresident)k
+0inputs+0outputs (0major+5265minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3011_9'
+Command exited with non-zero status 1
+2.16user 0.07system 0:00.17elapsed 1294%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3011_9'
+Command exited with non-zero status 1
+2.24user 0.09system 0:00.29elapsed 801%CPU (0avgtext+0avgdata 38108maxresident)k
+0inputs+0outputs (0major+5261minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3011_9'
+Command exited with non-zero status 1
+2.15user 0.07system 0:00.22elapsed 1000%CPU (0avgtext+0avgdata 38244maxresident)k
+0inputs+0outputs (0major+5254minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J3012_4
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3012_4'
+Command exited with non-zero status 1
+2.22user 0.06system 0:00.23elapsed 964%CPU (0avgtext+0avgdata 38184maxresident)k
+0inputs+0outputs (0major+5254minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3012_4'
+Command exited with non-zero status 1
+2.21user 0.03system 0:00.19elapsed 1172%CPU (0avgtext+0avgdata 38176maxresident)k
+0inputs+0outputs (0major+5255minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3012_4'
+Command exited with non-zero status 1
+2.19user 0.05system 0:00.22elapsed 1010%CPU (0avgtext+0avgdata 38188maxresident)k
+0inputs+0outputs (0major+5248minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3012_4'
+Command exited with non-zero status 1
+2.11user 0.02system 0:00.15elapsed 1369%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3012_4'
+Command exited with non-zero status 1
+2.03user 0.04system 0:00.16elapsed 1294%CPU (0avgtext+0avgdata 38184maxresident)k
+0inputs+0outputs (0major+5266minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3012_4'
+Command exited with non-zero status 1
+2.13user 0.04system 0:00.15elapsed 1369%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5261minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3012_4'
+Command exited with non-zero status 1
+2.07user 0.04system 0:00.16elapsed 1308%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3012_4'
+Command exited with non-zero status 1
+2.05user 0.05system 0:00.15elapsed 1331%CPU (0avgtext+0avgdata 38056maxresident)k
+0inputs+0outputs (0major+5260minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3012_4'
+Command exited with non-zero status 1
+2.16user 0.03system 0:00.16elapsed 1340%CPU (0avgtext+0avgdata 38184maxresident)k
+0inputs+0outputs (0major+5261minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3012_4'
+Command exited with non-zero status 1
+2.19user 0.02system 0:00.16elapsed 1356%CPU (0avgtext+0avgdata 38180maxresident)k
+0inputs+0outputs (0major+5268minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J3022_4
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3022_4'
+Command exited with non-zero status 1
+2.28user 0.03system 0:00.17elapsed 1364%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5267minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3022_4'
+Command exited with non-zero status 1
+2.25user 0.03system 0:00.16elapsed 1354%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5255minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3022_4'
+Command exited with non-zero status 1
+2.32user 0.02system 0:00.22elapsed 1027%CPU (0avgtext+0avgdata 38260maxresident)k
+0inputs+0outputs (0major+5243minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3022_4'
+Command exited with non-zero status 1
+2.11user 0.02system 0:00.15elapsed 1358%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5271minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3022_4'
+Command exited with non-zero status 1
+2.17user 0.03system 0:00.27elapsed 809%CPU (0avgtext+0avgdata 38228maxresident)k
+0inputs+0outputs (0major+5253minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3022_4'
+Command exited with non-zero status 1
+2.15user 0.03system 0:00.18elapsed 1186%CPU (0avgtext+0avgdata 38436maxresident)k
+0inputs+0outputs (0major+5249minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3022_4'
+Command exited with non-zero status 1
+2.27user 0.04system 0:00.20elapsed 1138%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3022_4'
+Command exited with non-zero status 1
+2.22user 0.03system 0:00.17elapsed 1325%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5255minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3022_4'
+Command exited with non-zero status 1
+2.17user 0.03system 0:00.16elapsed 1375%CPU (0avgtext+0avgdata 38432maxresident)k
+0inputs+0outputs (0major+5261minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3022_4'
+Command exited with non-zero status 1
+2.14user 0.03system 0:00.18elapsed 1178%CPU (0avgtext+0avgdata 38436maxresident)k
+0inputs+0outputs (0major+5251minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J3025_10
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3025_10'
+Command exited with non-zero status 1
+2.19user 0.03system 0:00.16elapsed 1316%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3025_10'
+Command exited with non-zero status 1
+2.32user 0.03system 0:00.18elapsed 1247%CPU (0avgtext+0avgdata 38436maxresident)k
+0inputs+0outputs (0major+5249minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3025_10'
+Command exited with non-zero status 1
+2.30user 0.04system 0:00.21elapsed 1082%CPU (0avgtext+0avgdata 38568maxresident)k
+0inputs+0outputs (0major+5252minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3025_10'
+Command exited with non-zero status 1
+2.17user 0.03system 0:00.16elapsed 1381%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3025_10'
+Command exited with non-zero status 1
+2.21user 0.02system 0:00.20elapsed 1105%CPU (0avgtext+0avgdata 38296maxresident)k
+0inputs+0outputs (0major+5253minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3025_10'
+Command exited with non-zero status 1
+2.16user 0.03system 0:00.19elapsed 1144%CPU (0avgtext+0avgdata 38340maxresident)k
+0inputs+0outputs (0major+5253minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3025_10'
+Command exited with non-zero status 1
+2.22user 0.03system 0:00.24elapsed 928%CPU (0avgtext+0avgdata 38212maxresident)k
+0inputs+0outputs (0major+5259minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3025_10'
+Command exited with non-zero status 1
+2.25user 0.03system 0:00.17elapsed 1330%CPU (0avgtext+0avgdata 38312maxresident)k
+0inputs+0outputs (0major+5253minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3025_10'
+Command exited with non-zero status 1
+2.20user 0.03system 0:00.16elapsed 1327%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3025_10'
+Command exited with non-zero status 1
+2.21user 0.02system 0:00.16elapsed 1325%CPU (0avgtext+0avgdata 38080maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J3031_8
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3031_8'
+Command exited with non-zero status 1
+2.29user 0.02system 0:00.23elapsed 993%CPU (0avgtext+0avgdata 38288maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3031_8'
+Command exited with non-zero status 1
+2.18user 0.04system 0:00.16elapsed 1374%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5275minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3031_8'
+Command exited with non-zero status 1
+2.35user 0.03system 0:00.18elapsed 1278%CPU (0avgtext+0avgdata 38072maxresident)k
+0inputs+0outputs (0major+5254minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3031_8'
+Command exited with non-zero status 1
+2.22user 0.04system 0:00.18elapsed 1257%CPU (0avgtext+0avgdata 38324maxresident)k
+0inputs+0outputs (0major+5252minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3031_8'
+Command exited with non-zero status 1
+2.12user 0.03system 0:00.16elapsed 1344%CPU (0avgtext+0avgdata 38176maxresident)k
+0inputs+0outputs (0major+5257minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3031_8'
+Command exited with non-zero status 1
+2.17user 0.02system 0:00.16elapsed 1371%CPU (0avgtext+0avgdata 38180maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3031_8'
+Command exited with non-zero status 1
+2.35user 0.02system 0:00.18elapsed 1265%CPU (0avgtext+0avgdata 38312maxresident)k
+0inputs+0outputs (0major+5245minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3031_8'
+Command exited with non-zero status 1
+2.29user 0.03system 0:00.17elapsed 1320%CPU (0avgtext+0avgdata 38216maxresident)k
+0inputs+0outputs (0major+5247minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3031_8'
+Command exited with non-zero status 1
+2.27user 0.03system 0:00.16elapsed 1370%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3031_8'
+Command exited with non-zero status 1
+2.21user 0.02system 0:00.16elapsed 1333%CPU (0avgtext+0avgdata 38312maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J3055_8
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3055_8'
+Command exited with non-zero status 1
+2.20user 0.03system 0:00.16elapsed 1359%CPU (0avgtext+0avgdata 38176maxresident)k
+0inputs+0outputs (0major+5257minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3055_8'
+Command exited with non-zero status 1
+2.22user 0.02system 0:00.23elapsed 946%CPU (0avgtext+0avgdata 38300maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3055_8'
+Command exited with non-zero status 1
+2.21user 0.02system 0:00.17elapsed 1287%CPU (0avgtext+0avgdata 38180maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3055_8'
+Command exited with non-zero status 1
+2.30user 0.02system 0:00.20elapsed 1112%CPU (0avgtext+0avgdata 38564maxresident)k
+0inputs+0outputs (0major+5249minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3055_8'
+Command exited with non-zero status 1
+2.16user 0.03system 0:00.15elapsed 1385%CPU (0avgtext+0avgdata 38184maxresident)k
+0inputs+0outputs (0major+5270minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3055_8'
+Command exited with non-zero status 1
+2.20user 0.03system 0:00.16elapsed 1375%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5268minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3055_8'
+Command exited with non-zero status 1
+2.23user 0.02system 0:00.16elapsed 1381%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3055_8'
+Command exited with non-zero status 1
+2.23user 0.03system 0:00.16elapsed 1356%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5265minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3055_8'
+Command exited with non-zero status 1
+2.20user 0.02system 0:00.16elapsed 1375%CPU (0avgtext+0avgdata 38180maxresident)k
+0inputs+0outputs (0major+5264minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3055_8'
+Command exited with non-zero status 1
+2.21user 0.03system 0:00.16elapsed 1380%CPU (0avgtext+0avgdata 38432maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J3058_7
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3058_7'
+Command exited with non-zero status 1
+2.20user 0.03system 0:00.16elapsed 1386%CPU (0avgtext+0avgdata 38436maxresident)k
+0inputs+0outputs (0major+5265minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3058_7'
+Command exited with non-zero status 1
+2.27user 0.03system 0:00.17elapsed 1314%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5247minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3058_7'
+Command exited with non-zero status 1
+2.34user 0.04system 0:00.18elapsed 1261%CPU (0avgtext+0avgdata 38020maxresident)k
+0inputs+0outputs (0major+5257minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3058_7'
+Command exited with non-zero status 1
+2.20user 0.02system 0:00.16elapsed 1383%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3058_7'
+Command exited with non-zero status 1
+2.28user 0.03system 0:00.17elapsed 1355%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5261minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3058_7'
+Command exited with non-zero status 1
+2.32user 0.03system 0:00.18elapsed 1268%CPU (0avgtext+0avgdata 38436maxresident)k
+0inputs+0outputs (0major+5247minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3058_7'
+Command exited with non-zero status 1
+2.20user 0.02system 0:00.17elapsed 1314%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3058_7'
+Command exited with non-zero status 1
+2.21user 0.03system 0:00.17elapsed 1313%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5256minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3058_7'
+Command exited with non-zero status 1
+2.17user 0.04system 0:00.22elapsed 1008%CPU (0avgtext+0avgdata 38444maxresident)k
+0inputs+0outputs (0major+5255minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3058_7'
+Command exited with non-zero status 1
+2.33user 0.03system 0:00.18elapsed 1267%CPU (0avgtext+0avgdata 38056maxresident)k
+0inputs+0outputs (0major+5247minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J3059_5
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3059_5'
+Command exited with non-zero status 1
+2.28user 0.03system 0:00.17elapsed 1331%CPU (0avgtext+0avgdata 38436maxresident)k
+0inputs+0outputs (0major+5254minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3059_5'
+Command exited with non-zero status 1
+2.25user 0.03system 0:00.17elapsed 1306%CPU (0avgtext+0avgdata 38044maxresident)k
+0inputs+0outputs (0major+5261minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3059_5'
+Command exited with non-zero status 1
+2.31user 0.03system 0:00.20elapsed 1150%CPU (0avgtext+0avgdata 38292maxresident)k
+0inputs+0outputs (0major+5293minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3059_5'
+Command exited with non-zero status 1
+2.32user 0.03system 0:00.17elapsed 1332%CPU (0avgtext+0avgdata 38356maxresident)k
+0inputs+0outputs (0major+5257minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3059_5'
+Command exited with non-zero status 1
+2.26user 0.03system 0:00.17elapsed 1287%CPU (0avgtext+0avgdata 38364maxresident)k
+0inputs+0outputs (0major+5261minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3059_5'
+Command exited with non-zero status 1
+2.30user 0.03system 0:00.19elapsed 1209%CPU (0avgtext+0avgdata 38428maxresident)k
+0inputs+0outputs (0major+5261minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3059_5'
+Command exited with non-zero status 1
+2.23user 0.03system 0:00.16elapsed 1340%CPU (0avgtext+0avgdata 38172maxresident)k
+0inputs+0outputs (0major+5256minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3059_5'
+Command exited with non-zero status 1
+2.21user 0.03system 0:00.16elapsed 1366%CPU (0avgtext+0avgdata 38180maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3059_5'
+Command exited with non-zero status 1
+2.29user 0.03system 0:00.18elapsed 1248%CPU (0avgtext+0avgdata 38256maxresident)k
+0inputs+0outputs (0major+5255minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3059_5'
+Command exited with non-zero status 1
+2.05user 0.03system 0:00.18elapsed 1126%CPU (0avgtext+0avgdata 38432maxresident)k
+0inputs+0outputs (0major+5254minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J3060_1
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3060_1'
+Command exited with non-zero status 1
+2.20user 0.04system 0:00.23elapsed 972%CPU (0avgtext+0avgdata 38436maxresident)k
+0inputs+0outputs (0major+5252minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3060_1'
+Command exited with non-zero status 1
+2.09user 0.03system 0:00.26elapsed 794%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5259minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3060_1'
+Command exited with non-zero status 1
+2.15user 0.02system 0:00.16elapsed 1309%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5267minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3060_1'
+Command exited with non-zero status 1
+2.33user 0.03system 0:00.17elapsed 1328%CPU (0avgtext+0avgdata 38312maxresident)k
+0inputs+0outputs (0major+5250minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3060_1'
+Command exited with non-zero status 1
+2.27user 0.03system 0:00.17elapsed 1348%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5259minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3060_1'
+Command exited with non-zero status 1
+2.31user 0.02system 0:00.17elapsed 1317%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5265minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3060_1'
+Command exited with non-zero status 1
+2.35user 0.03system 0:00.17elapsed 1363%CPU (0avgtext+0avgdata 38292maxresident)k
+0inputs+0outputs (0major+5268minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3060_1'
+Command exited with non-zero status 1
+2.22user 0.03system 0:00.21elapsed 1066%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5252minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3060_1'
+Command exited with non-zero status 1
+2.29user 0.03system 0:00.27elapsed 850%CPU (0avgtext+0avgdata 38260maxresident)k
+0inputs+0outputs (0major+5249minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3060_1'
+Command exited with non-zero status 1
+2.25user 0.03system 0:00.21elapsed 1047%CPU (0avgtext+0avgdata 38204maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J3063_7
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3063_7'
+Command exited with non-zero status 1
+2.33user 0.02system 0:00.27elapsed 866%CPU (0avgtext+0avgdata 37960maxresident)k
+0inputs+0outputs (0major+5254minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3063_7'
+Command exited with non-zero status 1
+2.23user 0.03system 0:00.26elapsed 843%CPU (0avgtext+0avgdata 38060maxresident)k
+0inputs+0outputs (0major+5251minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3063_7'
+Command exited with non-zero status 1
+2.24user 0.03system 0:00.19elapsed 1142%CPU (0avgtext+0avgdata 38428maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3063_7'
+Command exited with non-zero status 1
+2.33user 0.03system 0:00.26elapsed 895%CPU (0avgtext+0avgdata 38240maxresident)k
+0inputs+0outputs (0major+5252minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3063_7'
+Command exited with non-zero status 1
+2.24user 0.03system 0:00.18elapsed 1207%CPU (0avgtext+0avgdata 38172maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3063_7'
+Command exited with non-zero status 1
+2.22user 0.04system 0:00.21elapsed 1067%CPU (0avgtext+0avgdata 38212maxresident)k
+0inputs+0outputs (0major+5249minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3063_7'
+Command exited with non-zero status 1
+2.25user 0.04system 0:00.18elapsed 1230%CPU (0avgtext+0avgdata 38296maxresident)k
+0inputs+0outputs (0major+5248minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3063_7'
+Command exited with non-zero status 1
+2.19user 0.03system 0:00.16elapsed 1359%CPU (0avgtext+0avgdata 38176maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3063_7'
+Command exited with non-zero status 1
+2.22user 0.03system 0:00.16elapsed 1347%CPU (0avgtext+0avgdata 38176maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 26, in <module>
+    current_instance = importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+ModuleNotFoundError: No module named 'helpers.sam.30.J3063_7'
+Command exited with non-zero status 1
+2.25user 0.03system 0:00.16elapsed 1360%CPU (0avgtext+0avgdata 38176maxresident)k
+0inputs+0outputs (0major+5261minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J50107_4

@@ -1,0 +1,142 @@
+Chains: 2
+Steps: 5
+Neighbours Initial N: 1000
+Neighbours Increase Coefficient: 1
+Temperature Max: 100
+Temperature Increase Coefficient: 0.25
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3011_9
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 20, in <module>
+    TEMPERATURE_DECREASE_COEFFICIENT = int(sys.argv[8])
+ValueError: invalid literal for int() with base 10: '0.25'
+Command exited with non-zero status 1
+2.19user 0.02system 0:00.23elapsed 963%CPU (0avgtext+0avgdata 38224maxresident)k
+0inputs+0outputs (0major+5243minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 20, in <module>
+    TEMPERATURE_DECREASE_COEFFICIENT = int(sys.argv[8])
+ValueError: invalid literal for int() with base 10: '0.25'
+Command exited with non-zero status 1
+2.16user 0.02system 0:00.16elapsed 1351%CPU (0avgtext+0avgdata 38196maxresident)k
+0inputs+0outputs (0major+5243minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 20, in <module>
+    TEMPERATURE_DECREASE_COEFFICIENT = int(sys.argv[8])
+ValueError: invalid literal for int() with base 10: '0.25'
+Command exited with non-zero status 1
+2.06user 0.02system 0:00.15elapsed 1347%CPU (0avgtext+0avgdata 38096maxresident)k
+0inputs+0outputs (0major+5240minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 20, in <module>
+    TEMPERATURE_DECREASE_COEFFICIENT = int(sys.argv[8])
+ValueError: invalid literal for int() with base 10: '0.25'
+Command exited with non-zero status 1
+2.19user 0.04system 0:00.18elapsed 1204%CPU (0avgtext+0avgdata 38232maxresident)k
+0inputs+0outputs (0major+5240minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 20, in <module>
+    TEMPERATURE_DECREASE_COEFFICIENT = int(sys.argv[8])
+ValueError: invalid literal for int() with base 10: '0.25'
+Command exited with non-zero status 1
+2.19user 0.03system 0:00.22elapsed 990%CPU (0avgtext+0avgdata 38244maxresident)k
+0inputs+0outputs (0major+5246minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 20, in <module>
+    TEMPERATURE_DECREASE_COEFFICIENT = int(sys.argv[8])
+ValueError: invalid literal for int() with base 10: '0.25'
+Command exited with non-zero status 1
+2.16user 0.04system 0:00.27elapsed 798%CPU (0avgtext+0avgdata 38352maxresident)k
+0inputs+0outputs (0major+5228minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 20, in <module>
+    TEMPERATURE_DECREASE_COEFFICIENT = int(sys.argv[8])
+ValueError: invalid literal for int() with base 10: '0.25'
+Command exited with non-zero status 1
+2.14user 0.03system 0:00.21elapsed 996%CPU (0avgtext+0avgdata 38096maxresident)k
+0inputs+0outputs (0major+5229minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/main.py", line 1, in <module>
+    import sam
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/sam.py", line 20, in <module>
+    TEMPERATURE_DECREASE_COEFFICIENT = int(sys.argv[8])
+ValueError: invalid literal for int() with base 10: '0.25'
+Command exited with non-zero status 1
+2.18user 0.04system 0:00.28elapsed 794%CPU (0avgtext+0avgdata 38068maxresident)k
+0inputs+0outputs (0major+5230minor)pagefaults 0swaps
+
+
+==================================================
+
