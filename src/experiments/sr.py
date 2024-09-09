@@ -1,150 +1,71 @@
 import subprocess
 
-# List of HORIZON values to be used in the loop
-horizon_values = [
-    28,
-    26,
-    26,
-    28,
-    27,
-    30,
-    31,
-    31,
-    32,
-    30,
-    29,
-    28,
-    31,
-    29,
-    31,
-    26,
-    30,
-    29,
-    29,
-    31,
-    26,
-    30,
-    23,
-    32,
-    28,
-    28,
-    30,
-    30,
-    27,
-    29,
-    32,
-    30,
-    28,
-    27,
-    28,
-    34,
-    30,
-    31,
-    27,
-    29,
-    29,
-    29,
-    28,
-    28,
-    27,
-    33,
-    28,
-    29,
-    32,
-    25,
-    29,
-    31,
-    31,
-    28,
-    31,
-    34,
-    33,
-    28,
-    27,
-    28,
-    25,
-    28,
-    26,
-    26,
-    31,
-    28,
-    29,
-    27,
-    30,
-    31,
-    28,
-    29,
-    32,
-    30,
-    25,
-    27,
-    30,
-    29,
-    31,
-    30,
-    34,
-    31,
-    31,
-    28,
-    30,
-    27,
-    30,
-    29,
-    25,
-    30,
-    27,
-    26,
-    32,
-    28,
-    31,
-    29,
-    28,
-    27,
-    34,
-    27,
+INSTANCES = [
+    # ("j3011_9", "30"),
+    # ("j3012_4", "30"),
+    # ("j3022_4", "30"),
+    # ("j3025_10", "30"),
+    # ("j3031_8", "30"),
+    # ("j3055_8", "30"),
+    # ("j3058_7", "30"),
+    # ("j3059_5", "30"),
+    # ("j3060_1", "30"),
+    # ("j3063_7", "30"),
+    ("J50107_4", "50"),
+    ("J50103_2", "50"),
+    ("J5023_1", "50"),
+    ("J5028_1", "50"),
+    ("J5036_2", "50"),
+    ("J5039_3", "50"),
+    ("J5059_2", "50"),
+    ("J5076_1", "50"),
+    ("J5089_4", "50"),
+    ("J5090_1", "50"),
+    ("J10010_1", "100"),
+    ("J100107_2", "100"),
+    ("J10021_5", "100"),
+    ("J10023_4", "100"),
+    ("J10028_3", "100"),
+    ("J10032_5", "100"),
+    ("J10039_1", "100"),
+    ("J10052_1", "100"),
+    ("J10063_3", "100"),
+    ("J10078_4", "100"),
 ]
 
-# Path to the file that needs to be modified
-file_path = (
-    "../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/j3060_1.param"
-)
+FILE_PATH = "src/helpers/sr"
 
-# Terminal command to be run after modifying the file
-terminal_command = "time ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/J100108_5.param"
+BASE = "../../../../Downloads/savilerow-1.10.0-linux"
 
+MODIFIERS = "-sat -amo-detect -sat-family kissat -run-solver"
 
-def modify_file(horizon_value):
-    with open(file_path, "r") as file:
-        lines = file.readlines()
-
-    with open(file_path, "w") as file:
-        for line in lines:
-            if line.startswith("letting horizon = "):
-                file.write(f"letting horizon = {horizon_value}\n")
-            else:
-                file.write(line)
+TERMINAL_COMMAND = f"timeout 5h time {BASE}/savilerow {MODIFIERS} {BASE}/examples/mrcpsp-pb/mrcpsp-pb.eprime {FILE_PATH}"
 
 
-def run_command():
-    result = subprocess.run(
-        terminal_command,
-        shell=True,
-        capture_output=True,
-        text=True,
-        check=False,
-    )
-    return result.stdout, result.stderr
+for instance in INSTANCES:
+    print("\n" + "=" * 50 + "\n")
+    print("\n" + "=" * 50 + "\n")
 
+    print(f"NEW INSTANCE: {instance[0]}")
 
-with open("output.txt", "w") as output_file:
-    for i, value in enumerate(horizon_values):
-        print(f"Updating HORIZON to {value}")
-        modify_file(value)
-        print(f"Running command: {terminal_command}")
-        stdout, stderr = run_command()
+    N = 1
 
-        # Write the output to the file
-        output_file.write(f"Run {i + 1} with value {value}:\n")
-        output_file.write(stdout)
-        output_file.write(stderr)
-        output_file.write("\n" + "=" * 50 + "\n")
+    if instance[0] == "NAN":
+        N = 1
+
+    for i in range(N):
+        command = f"{TERMINAL_COMMAND}/{instance[1]}/{instance[0]}.param"
+        print(command)
+
+        result = subprocess.run(
+            command,
+            shell=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            check=False,
+        )
+
+        print(f"Run {i+1}:\n")
+        print(result.stdout.decode("utf-8"))
+        print(result.stderr.decode("utf-8"))
+        print("\n" + "=" * 50 + "\n")

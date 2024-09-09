@@ -1,7 +1,7 @@
 language ESSENCE' 1.0
 
 letting jobs = 32
-letting horizon = 22
+letting horizon = 246
 letting resourcesRenew = 2
 letting resourcesNonrenew = 2
 letting resourceLimits = [30, 55, 203, 171]

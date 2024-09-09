@@ -1,0 +1,8 @@
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3060_1
+timeout 30m time ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param

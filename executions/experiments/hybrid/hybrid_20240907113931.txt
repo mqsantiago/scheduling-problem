@@ -1,0 +1,2349 @@
+Chains: 2
+Steps: 5
+Neighbours Initial N: 1000
+Neighbours Increase Coefficient: 1
+Temperature Max: 100
+Temperature Increase Coefficient: 0.25
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3011_9
+Run 1:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3011_9.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3011_9.param.minion
+Found 29990 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3011_9.param.dimacs
+Created information file src/helpers/sr/30/j3011_9.param.info
+Created solution file src/helpers/sr/30/j3011_9.param.solution
+
+38.88user 0.41system 0:26.25elapsed 149%CPU (0avgtext+0avgdata 306332maxresident)k
+0inputs+2304outputs (0major+92289minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3011_9.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3011_9.param.minion
+Found 29990 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3011_9.param.dimacs
+Created information file src/helpers/sr/30/j3011_9.param.info
+Created solution file src/helpers/sr/30/j3011_9.param.solution
+
+37.55user 0.46system 0:25.59elapsed 148%CPU (0avgtext+0avgdata 294780maxresident)k
+0inputs+2304outputs (0major+89157minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3011_9.param
+Created output file for domain filtering src/helpers/sr/30/j3011_9.param.minion
+Found 57683 mutexes
+In dichotomic search, lower: 26 upper: 28
+While optimising, found value: 28
+In dichotomic search, lower: 26 upper: 27 midpoint: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created output SAT file src/helpers/sr/30/j3011_9.param.dimacs
+Created information file src/helpers/sr/30/j3011_9.param.info
+Created solution file src/helpers/sr/30/j3011_9.param.solution
+
+38.70user 0.53system 0:26.73elapsed 146%CPU (0avgtext+0avgdata 362496maxresident)k
+0inputs+3400outputs (0major+113870minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 29
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3011_9.param
+Created output file for domain filtering src/helpers/sr/30/j3011_9.param.minion
+Found 72842 mutexes
+Created output SAT file src/helpers/sr/30/j3011_9.param.dimacs
+In dichotomic search, lower: 26 upper: 29
+While optimising, found value: 29
+In dichotomic search, lower: 26 upper: 28 midpoint: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3011_9.param.solution
+Created information file src/helpers/sr/30/j3011_9.param.info
+
+38.73user 0.56system 0:26.14elapsed 150%CPU (0avgtext+0avgdata 427236maxresident)k
+0inputs+3728outputs (0major+129508minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3011_9.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3011_9.param.minion
+Found 29990 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3011_9.param.dimacs
+Created information file src/helpers/sr/30/j3011_9.param.info
+Created solution file src/helpers/sr/30/j3011_9.param.solution
+
+37.69user 0.45system 0:25.91elapsed 147%CPU (0avgtext+0avgdata 285080maxresident)k
+0inputs+2256outputs (0major+88275minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3011_9.param
+Created output file for domain filtering src/helpers/sr/30/j3011_9.param.minion
+Found 57683 mutexes
+Created output SAT file src/helpers/sr/30/j3011_9.param.dimacs
+In dichotomic search, lower: 26 upper: 28
+While optimising, found value: 28
+In dichotomic search, lower: 26 upper: 27 midpoint: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3011_9.param.solution
+Created information file src/helpers/sr/30/j3011_9.param.info
+
+38.78user 0.50system 0:25.93elapsed 151%CPU (0avgtext+0avgdata 377164maxresident)k
+0inputs+3400outputs (0major+114231minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3011_9.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3011_9.param.minion
+Found 29990 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3011_9.param.dimacs
+Created information file src/helpers/sr/30/j3011_9.param.info
+Created solution file src/helpers/sr/30/j3011_9.param.solution
+
+37.48user 0.43system 0:25.54elapsed 148%CPU (0avgtext+0avgdata 294148maxresident)k
+0inputs+2256outputs (0major+88083minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3011_9.param
+Created output file for domain filtering src/helpers/sr/30/j3011_9.param.minion
+Found 46455 mutexes
+Created output SAT file src/helpers/sr/30/j3011_9.param.dimacs
+In dichotomic search, lower: 26 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3011_9.param.solution
+Created information file src/helpers/sr/30/j3011_9.param.info
+
+37.96user 0.45system 0:25.81elapsed 148%CPU (0avgtext+0avgdata 318096maxresident)k
+0inputs+2808outputs (0major+102951minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3011_9.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3011_9.param.minion
+Found 29990 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3011_9.param.dimacs
+Created information file src/helpers/sr/30/j3011_9.param.info
+Created solution file src/helpers/sr/30/j3011_9.param.solution
+
+37.90user 0.46system 0:25.64elapsed 149%CPU (0avgtext+0avgdata 285736maxresident)k
+0inputs+2256outputs (0major+92212minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3011_9.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3011_9.param.minion
+Found 29990 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3011_9.param.dimacs
+Created information file src/helpers/sr/30/j3011_9.param.info
+Created solution file src/helpers/sr/30/j3011_9.param.solution
+
+37.93user 0.42system 0:25.58elapsed 149%CPU (0avgtext+0avgdata 290336maxresident)k
+0inputs+2256outputs (0major+88926minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3012_4
+Run 1:
+
+Updating HORIZON to 29
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3012_4.param
+Dropping objective: minimising 29
+
+Created output file for domain filtering src/helpers/sr/30/j3012_4.param.minion
+Found 51244 mutexes
+Dropping objective: minimising 29
+
+Created output SAT file src/helpers/sr/30/j3012_4.param.dimacs
+Created information file src/helpers/sr/30/j3012_4.param.info
+Created solution file src/helpers/sr/30/j3012_4.param.solution
+
+38.88user 0.51system 0:25.88elapsed 152%CPU (0avgtext+0avgdata 375572maxresident)k
+16inputs+3016outputs (0major+116551minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 29
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3012_4.param
+Dropping objective: minimising 29
+
+Created output file for domain filtering src/helpers/sr/30/j3012_4.param.minion
+Found 51244 mutexes
+Dropping objective: minimising 29
+
+Created output SAT file src/helpers/sr/30/j3012_4.param.dimacs
+Created information file src/helpers/sr/30/j3012_4.param.info
+Created solution file src/helpers/sr/30/j3012_4.param.solution
+
+38.64user 0.47system 0:25.74elapsed 151%CPU (0avgtext+0avgdata 385364maxresident)k
+0inputs+3000outputs (0major+114172minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 30
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3012_4.param
+Created output file for domain filtering src/helpers/sr/30/j3012_4.param.minion
+Found 72002 mutexes
+Created output SAT file src/helpers/sr/30/j3012_4.param.dimacs
+In dichotomic search, lower: 29 upper: 30
+While optimising, found value: 30
+In dichotomic search, lower: 29 upper: 29 midpoint: 29
+While optimising, found value: 29
+Created solution file src/helpers/sr/30/j3012_4.param.solution
+Created information file src/helpers/sr/30/j3012_4.param.info
+
+39.35user 0.55system 0:26.02elapsed 153%CPU (0avgtext+0avgdata 424872maxresident)k
+0inputs+3720outputs (0major+128540minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 30
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3012_4.param
+Created output file for domain filtering src/helpers/sr/30/j3012_4.param.minion
+Found 72002 mutexes
+Created output SAT file src/helpers/sr/30/j3012_4.param.dimacs
+In dichotomic search, lower: 29 upper: 30
+While optimising, found value: 30
+In dichotomic search, lower: 29 upper: 29 midpoint: 29
+While optimising, found value: 29
+Created solution file src/helpers/sr/30/j3012_4.param.solution
+Created information file src/helpers/sr/30/j3012_4.param.info
+
+38.12user 0.57system 0:26.01elapsed 148%CPU (0avgtext+0avgdata 417424maxresident)k
+0inputs+3672outputs (0major+132598minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 30
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3012_4.param
+Created output file for domain filtering src/helpers/sr/30/j3012_4.param.minion
+Found 72002 mutexes
+Created output SAT file src/helpers/sr/30/j3012_4.param.dimacs
+In dichotomic search, lower: 29 upper: 30
+While optimising, found value: 30
+In dichotomic search, lower: 29 upper: 29 midpoint: 29
+While optimising, found value: 29
+Created solution file src/helpers/sr/30/j3012_4.param.solution
+Created information file src/helpers/sr/30/j3012_4.param.info
+
+38.81user 0.52system 0:26.00elapsed 151%CPU (0avgtext+0avgdata 433472maxresident)k
+0inputs+3672outputs (0major+126292minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 29
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3012_4.param
+Dropping objective: minimising 29
+
+Created output file for domain filtering src/helpers/sr/30/j3012_4.param.minion
+Found 51244 mutexes
+Dropping objective: minimising 29
+
+Created output SAT file src/helpers/sr/30/j3012_4.param.dimacs
+Created information file src/helpers/sr/30/j3012_4.param.info
+Created solution file src/helpers/sr/30/j3012_4.param.solution
+
+38.38user 0.50system 0:25.64elapsed 151%CPU (0avgtext+0avgdata 376408maxresident)k
+0inputs+3000outputs (0major+113286minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 30
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3012_4.param
+Created output file for domain filtering src/helpers/sr/30/j3012_4.param.minion
+Found 72002 mutexes
+Created output SAT file src/helpers/sr/30/j3012_4.param.dimacs
+In dichotomic search, lower: 29 upper: 30
+While optimising, found value: 30
+In dichotomic search, lower: 29 upper: 29 midpoint: 29
+While optimising, found value: 29
+Created solution file src/helpers/sr/30/j3012_4.param.solution
+Created information file src/helpers/sr/30/j3012_4.param.info
+
+38.98user 0.54system 0:26.06elapsed 151%CPU (0avgtext+0avgdata 433504maxresident)k
+0inputs+3672outputs (0major+128656minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 29
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3012_4.param
+Dropping objective: minimising 29
+
+Created output file for domain filtering src/helpers/sr/30/j3012_4.param.minion
+Found 51244 mutexes
+Dropping objective: minimising 29
+
+Created output SAT file src/helpers/sr/30/j3012_4.param.dimacs
+Created information file src/helpers/sr/30/j3012_4.param.info
+Created solution file src/helpers/sr/30/j3012_4.param.solution
+
+38.02user 0.48system 0:25.80elapsed 149%CPU (0avgtext+0avgdata 379592maxresident)k
+0inputs+3000outputs (0major+113369minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 29
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3012_4.param
+Dropping objective: minimising 29
+
+Created output file for domain filtering src/helpers/sr/30/j3012_4.param.minion
+Found 51244 mutexes
+Dropping objective: minimising 29
+
+Created output SAT file src/helpers/sr/30/j3012_4.param.dimacs
+Created information file src/helpers/sr/30/j3012_4.param.info
+Created solution file src/helpers/sr/30/j3012_4.param.solution
+
+38.70user 0.48system 0:26.48elapsed 147%CPU (0avgtext+0avgdata 373432maxresident)k
+0inputs+3000outputs (0major+111635minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+Updating HORIZON to 29
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3012_4.param
+Dropping objective: minimising 29
+
+Created output file for domain filtering src/helpers/sr/30/j3012_4.param.minion
+Found 51244 mutexes
+Dropping objective: minimising 29
+
+Created output SAT file src/helpers/sr/30/j3012_4.param.dimacs
+Created information file src/helpers/sr/30/j3012_4.param.info
+Created solution file src/helpers/sr/30/j3012_4.param.solution
+
+37.97user 0.48system 0:25.43elapsed 151%CPU (0avgtext+0avgdata 388048maxresident)k
+0inputs+3000outputs (0major+113069minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3022_4
+Run 1:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3022_4.param
+Created output file for domain filtering src/helpers/sr/30/j3022_4.param.minion
+Found 36032 mutexes
+Created output SAT file src/helpers/sr/30/j3022_4.param.dimacs
+In dichotomic search, lower: 25 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 25 upper: 26 midpoint: 26
+While optimising, found value: 26
+In dichotomic search, lower: 25 upper: 25 midpoint: 25
+Created solution file src/helpers/sr/30/j3022_4.param.solution
+Created information file src/helpers/sr/30/j3022_4.param.info
+
+39.55user 0.52system 0:27.07elapsed 148%CPU (0avgtext+0avgdata 417288maxresident)k
+200inputs+3776outputs (1major+125626minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3022_4.param
+Created output file for domain filtering src/helpers/sr/30/j3022_4.param.minion
+Found 51590 mutexes
+Created output SAT file src/helpers/sr/30/j3022_4.param.dimacs
+In dichotomic search, lower: 25 upper: 28
+While optimising, found value: 28
+In dichotomic search, lower: 25 upper: 27 midpoint: 26
+While optimising, found value: 26
+In dichotomic search, lower: 25 upper: 25 midpoint: 25
+Created solution file src/helpers/sr/30/j3022_4.param.solution
+Created information file src/helpers/sr/30/j3022_4.param.info
+
+39.92user 0.54system 0:27.09elapsed 149%CPU (0avgtext+0avgdata 428272maxresident)k
+0inputs+4600outputs (0major+131293minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3022_4.param
+Created output file for domain filtering src/helpers/sr/30/j3022_4.param.minion
+Found 36032 mutexes
+Created output SAT file src/helpers/sr/30/j3022_4.param.dimacs
+In dichotomic search, lower: 25 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 25 upper: 26 midpoint: 26
+While optimising, found value: 26
+In dichotomic search, lower: 25 upper: 25 midpoint: 25
+Created solution file src/helpers/sr/30/j3022_4.param.solution
+Created information file src/helpers/sr/30/j3022_4.param.info
+
+39.29user 0.54system 0:26.99elapsed 147%CPU (0avgtext+0avgdata 410752maxresident)k
+0inputs+3760outputs (0major+134087minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3022_4.param
+Created output file for domain filtering src/helpers/sr/30/j3022_4.param.minion
+Found 36032 mutexes
+Created output SAT file src/helpers/sr/30/j3022_4.param.dimacs
+In dichotomic search, lower: 25 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 25 upper: 26 midpoint: 26
+While optimising, found value: 26
+In dichotomic search, lower: 25 upper: 25 midpoint: 25
+Created solution file src/helpers/sr/30/j3022_4.param.solution
+Created information file src/helpers/sr/30/j3022_4.param.info
+
+39.76user 0.54system 0:27.02elapsed 149%CPU (0avgtext+0avgdata 410648maxresident)k
+0inputs+3760outputs (0major+125941minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3022_4.param
+Created output file for domain filtering src/helpers/sr/30/j3022_4.param.minion
+Found 36032 mutexes
+Created output SAT file src/helpers/sr/30/j3022_4.param.dimacs
+In dichotomic search, lower: 25 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 25 upper: 26 midpoint: 26
+While optimising, found value: 26
+In dichotomic search, lower: 25 upper: 25 midpoint: 25
+Created solution file src/helpers/sr/30/j3022_4.param.solution
+Created information file src/helpers/sr/30/j3022_4.param.info
+
+40.03user 0.54system 0:27.81elapsed 145%CPU (0avgtext+0avgdata 411328maxresident)k
+0inputs+3760outputs (0major+128711minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3022_4.param
+Created output file for domain filtering src/helpers/sr/30/j3022_4.param.minion
+Found 36032 mutexes
+Created output SAT file src/helpers/sr/30/j3022_4.param.dimacs
+In dichotomic search, lower: 25 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 25 upper: 26 midpoint: 26
+While optimising, found value: 26
+In dichotomic search, lower: 25 upper: 25 midpoint: 25
+Created solution file src/helpers/sr/30/j3022_4.param.solution
+Created information file src/helpers/sr/30/j3022_4.param.info
+
+39.30user 0.50system 0:26.83elapsed 148%CPU (0avgtext+0avgdata 414028maxresident)k
+0inputs+3760outputs (0major+124077minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3022_4.param
+Created output file for domain filtering src/helpers/sr/30/j3022_4.param.minion
+Found 36032 mutexes
+Created output SAT file src/helpers/sr/30/j3022_4.param.dimacs
+In dichotomic search, lower: 25 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 25 upper: 26 midpoint: 26
+While optimising, found value: 26
+In dichotomic search, lower: 25 upper: 25 midpoint: 25
+Created solution file src/helpers/sr/30/j3022_4.param.solution
+Created information file src/helpers/sr/30/j3022_4.param.info
+
+39.30user 0.54system 0:26.89elapsed 148%CPU (0avgtext+0avgdata 406736maxresident)k
+0inputs+3760outputs (0major+128166minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3022_4.param
+Created output file for domain filtering src/helpers/sr/30/j3022_4.param.minion
+Found 51590 mutexes
+Created output SAT file src/helpers/sr/30/j3022_4.param.dimacs
+In dichotomic search, lower: 25 upper: 28
+While optimising, found value: 28
+In dichotomic search, lower: 25 upper: 27 midpoint: 26
+While optimising, found value: 26
+In dichotomic search, lower: 25 upper: 25 midpoint: 25
+Created solution file src/helpers/sr/30/j3022_4.param.solution
+Created information file src/helpers/sr/30/j3022_4.param.info
+
+39.90user 0.58system 0:27.41elapsed 147%CPU (0avgtext+0avgdata 426032maxresident)k
+0inputs+4600outputs (0major+131332minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3022_4.param
+Created output file for domain filtering src/helpers/sr/30/j3022_4.param.minion
+Found 51590 mutexes
+Created output SAT file src/helpers/sr/30/j3022_4.param.dimacs
+In dichotomic search, lower: 25 upper: 28
+While optimising, found value: 28
+In dichotomic search, lower: 25 upper: 27 midpoint: 26
+While optimising, found value: 26
+In dichotomic search, lower: 25 upper: 25 midpoint: 25
+Created solution file src/helpers/sr/30/j3022_4.param.solution
+Created information file src/helpers/sr/30/j3022_4.param.info
+
+39.89user 0.51system 0:27.05elapsed 149%CPU (0avgtext+0avgdata 429388maxresident)k
+0inputs+4600outputs (0major+127223minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3022_4.param
+Created output file for domain filtering src/helpers/sr/30/j3022_4.param.minion
+Found 36032 mutexes
+Created output SAT file src/helpers/sr/30/j3022_4.param.dimacs
+In dichotomic search, lower: 25 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 25 upper: 26 midpoint: 26
+While optimising, found value: 26
+In dichotomic search, lower: 25 upper: 25 midpoint: 25
+Created solution file src/helpers/sr/30/j3022_4.param.solution
+Created information file src/helpers/sr/30/j3022_4.param.info
+
+39.58user 0.58system 0:26.89elapsed 149%CPU (0avgtext+0avgdata 413728maxresident)k
+0inputs+3760outputs (0major+134418minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3025_10
+Run 1:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3025_10.param
+Dropping objective: minimising 27
+
+Created output file for domain filtering src/helpers/sr/30/j3025_10.param.minion
+Found 24510 mutexes
+Dropping objective: minimising 27
+
+Created output SAT file src/helpers/sr/30/j3025_10.param.dimacs
+Created information file src/helpers/sr/30/j3025_10.param.info
+Created solution file src/helpers/sr/30/j3025_10.param.solution
+
+39.40user 0.44system 0:27.13elapsed 146%CPU (0avgtext+0avgdata 298988maxresident)k
+16inputs+2016outputs (0major+93685minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3025_10.param
+Dropping objective: minimising 27
+
+Created output file for domain filtering src/helpers/sr/30/j3025_10.param.minion
+Found 24510 mutexes
+Dropping objective: minimising 27
+
+Created output SAT file src/helpers/sr/30/j3025_10.param.dimacs
+Created information file src/helpers/sr/30/j3025_10.param.info
+Created solution file src/helpers/sr/30/j3025_10.param.solution
+
+38.16user 0.43system 0:27.08elapsed 142%CPU (0avgtext+0avgdata 287164maxresident)k
+0inputs+2000outputs (0major+87821minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3025_10.param
+Dropping objective: minimising 27
+
+Created output file for domain filtering src/helpers/sr/30/j3025_10.param.minion
+Found 24510 mutexes
+Dropping objective: minimising 27
+
+Created output SAT file src/helpers/sr/30/j3025_10.param.dimacs
+Created information file src/helpers/sr/30/j3025_10.param.info
+Created solution file src/helpers/sr/30/j3025_10.param.solution
+
+42.36user 0.53system 0:27.58elapsed 155%CPU (0avgtext+0avgdata 291340maxresident)k
+0inputs+2000outputs (0major+89813minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3025_10.param
+Dropping objective: minimising 27
+
+Created output file for domain filtering src/helpers/sr/30/j3025_10.param.minion
+Found 24510 mutexes
+Dropping objective: minimising 27
+
+Created output SAT file src/helpers/sr/30/j3025_10.param.dimacs
+Created information file src/helpers/sr/30/j3025_10.param.info
+Created solution file src/helpers/sr/30/j3025_10.param.solution
+
+42.47user 0.47system 0:28.82elapsed 148%CPU (0avgtext+0avgdata 299064maxresident)k
+0inputs+2000outputs (0major+90432minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3025_10.param
+Dropping objective: minimising 27
+
+Created output file for domain filtering src/helpers/sr/30/j3025_10.param.minion
+Found 24510 mutexes
+Dropping objective: minimising 27
+
+Created output SAT file src/helpers/sr/30/j3025_10.param.dimacs
+Created information file src/helpers/sr/30/j3025_10.param.info
+Created solution file src/helpers/sr/30/j3025_10.param.solution
+
+41.89user 0.45system 0:28.76elapsed 147%CPU (0avgtext+0avgdata 300904maxresident)k
+0inputs+2000outputs (0major+92110minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3025_10.param
+Dropping objective: minimising 27
+
+Created output file for domain filtering src/helpers/sr/30/j3025_10.param.minion
+Found 24510 mutexes
+Dropping objective: minimising 27
+
+Created output SAT file src/helpers/sr/30/j3025_10.param.dimacs
+Created information file src/helpers/sr/30/j3025_10.param.info
+Created solution file src/helpers/sr/30/j3025_10.param.solution
+
+42.41user 0.44system 0:29.31elapsed 146%CPU (0avgtext+0avgdata 294628maxresident)k
+0inputs+2000outputs (0major+89173minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3025_10.param
+Dropping objective: minimising 27
+
+Created output file for domain filtering src/helpers/sr/30/j3025_10.param.minion
+Found 24510 mutexes
+Dropping objective: minimising 27
+
+Created output SAT file src/helpers/sr/30/j3025_10.param.dimacs
+Created information file src/helpers/sr/30/j3025_10.param.info
+Created solution file src/helpers/sr/30/j3025_10.param.solution
+
+40.46user 0.45system 0:28.14elapsed 145%CPU (0avgtext+0avgdata 291388maxresident)k
+0inputs+2000outputs (0major+94319minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3025_10.param
+Dropping objective: minimising 27
+
+Created output file for domain filtering src/helpers/sr/30/j3025_10.param.minion
+Found 24510 mutexes
+Dropping objective: minimising 27
+
+Created output SAT file src/helpers/sr/30/j3025_10.param.dimacs
+Created information file src/helpers/sr/30/j3025_10.param.info
+Created solution file src/helpers/sr/30/j3025_10.param.solution
+
+39.60user 0.38system 0:27.79elapsed 143%CPU (0avgtext+0avgdata 291756maxresident)k
+0inputs+2000outputs (0major+88099minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3025_10.param
+Dropping objective: minimising 27
+
+Created output file for domain filtering src/helpers/sr/30/j3025_10.param.minion
+Found 24510 mutexes
+Dropping objective: minimising 27
+
+Created output SAT file src/helpers/sr/30/j3025_10.param.dimacs
+Created information file src/helpers/sr/30/j3025_10.param.info
+Created solution file src/helpers/sr/30/j3025_10.param.solution
+
+38.98user 0.41system 0:27.34elapsed 144%CPU (0avgtext+0avgdata 290212maxresident)k
+0inputs+2000outputs (0major+88964minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3025_10.param
+Dropping objective: minimising 27
+
+Created output file for domain filtering src/helpers/sr/30/j3025_10.param.minion
+Found 24510 mutexes
+Dropping objective: minimising 27
+
+Created output SAT file src/helpers/sr/30/j3025_10.param.dimacs
+Created information file src/helpers/sr/30/j3025_10.param.info
+Created solution file src/helpers/sr/30/j3025_10.param.solution
+
+40.16user 0.43system 0:27.65elapsed 146%CPU (0avgtext+0avgdata 297308maxresident)k
+0inputs+2000outputs (0major+92256minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3031_8
+Run 1:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3031_8.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3031_8.param.minion
+Found 26958 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3031_8.param.dimacs
+Created information file src/helpers/sr/30/j3031_8.param.info
+Created solution file src/helpers/sr/30/j3031_8.param.solution
+
+40.52user 0.50system 0:26.98elapsed 152%CPU (0avgtext+0avgdata 335828maxresident)k
+16inputs+2832outputs (0major+101369minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3031_8.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3031_8.param.minion
+Found 26958 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3031_8.param.dimacs
+Created information file src/helpers/sr/30/j3031_8.param.info
+Created solution file src/helpers/sr/30/j3031_8.param.solution
+
+40.55user 0.47system 0:26.37elapsed 155%CPU (0avgtext+0avgdata 345472maxresident)k
+0inputs+2816outputs (0major+103835minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3031_8.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3031_8.param.minion
+Found 26958 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3031_8.param.dimacs
+Created information file src/helpers/sr/30/j3031_8.param.info
+Created solution file src/helpers/sr/30/j3031_8.param.solution
+
+39.72user 0.51system 0:26.31elapsed 152%CPU (0avgtext+0avgdata 341436maxresident)k
+0inputs+2816outputs (0major+99801minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3031_8.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3031_8.param.minion
+Found 26958 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3031_8.param.dimacs
+Created information file src/helpers/sr/30/j3031_8.param.info
+Created solution file src/helpers/sr/30/j3031_8.param.solution
+
+38.80user 0.52system 0:26.17elapsed 150%CPU (0avgtext+0avgdata 325328maxresident)k
+0inputs+2816outputs (0major+104170minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3031_8.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3031_8.param.minion
+Found 26958 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3031_8.param.dimacs
+Created information file src/helpers/sr/30/j3031_8.param.info
+Created solution file src/helpers/sr/30/j3031_8.param.solution
+
+39.56user 0.48system 0:26.21elapsed 152%CPU (0avgtext+0avgdata 330908maxresident)k
+0inputs+2816outputs (0major+103217minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3031_8.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3031_8.param.minion
+Found 26958 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3031_8.param.dimacs
+Created information file src/helpers/sr/30/j3031_8.param.info
+Created solution file src/helpers/sr/30/j3031_8.param.solution
+39.04user 0.51system 0:26.22elapsed 150%CPU (0avgtext+0avgdata 334604maxresident)k
+0inputs+2816outputs (0major+106223minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3031_8.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3031_8.param.minion
+Found 26958 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3031_8.param.dimacs
+Created information file src/helpers/sr/30/j3031_8.param.info
+Created solution file src/helpers/sr/30/j3031_8.param.solution
+
+39.10user 0.46system 0:26.21elapsed 150%CPU (0avgtext+0avgdata 330552maxresident)k
+0inputs+2816outputs (0major+102491minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3031_8.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3031_8.param.minion
+Found 26958 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3031_8.param.dimacs
+Created information file src/helpers/sr/30/j3031_8.param.info
+Created solution file src/helpers/sr/30/j3031_8.param.solution
+
+39.15user 0.52system 0:26.28elapsed 150%CPU (0avgtext+0avgdata 340920maxresident)k
+0inputs+2816outputs (0major+100278minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3031_8.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3031_8.param.minion
+Found 26958 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3031_8.param.dimacs
+Created information file src/helpers/sr/30/j3031_8.param.info
+Created solution file src/helpers/sr/30/j3031_8.param.solution
+
+38.94user 0.47system 0:26.00elapsed 151%CPU (0avgtext+0avgdata 335120maxresident)k
+0inputs+2816outputs (0major+105495minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3031_8.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3031_8.param.minion
+Found 26958 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3031_8.param.dimacs
+Created information file src/helpers/sr/30/j3031_8.param.info
+Created solution file src/helpers/sr/30/j3031_8.param.solution
+
+38.94user 0.48system 0:26.06elapsed 151%CPU (0avgtext+0avgdata 329220maxresident)k
+0inputs+2816outputs (0major+102341minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3055_8
+Run 1:
+
+Updating HORIZON to 44
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3055_8.param
+Dropping objective: minimising 44
+
+Created output file for domain filtering src/helpers/sr/30/j3055_8.param.minion
+Found 125015 mutexes
+Dropping objective: minimising 44
+
+Created output SAT file src/helpers/sr/30/j3055_8.param.dimacs
+Created information file src/helpers/sr/30/j3055_8.param.info
+Created solution file src/helpers/sr/30/j3055_8.param.solution
+
+44.15user 0.61system 0:27.63elapsed 161%CPU (0avgtext+0avgdata 446016maxresident)k
+16inputs+8752outputs (0major+145193minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 44
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3055_8.param
+Dropping objective: minimising 44
+
+Created output file for domain filtering src/helpers/sr/30/j3055_8.param.minion
+Found 125015 mutexes
+Dropping objective: minimising 44
+
+Created output SAT file src/helpers/sr/30/j3055_8.param.dimacs
+Created information file src/helpers/sr/30/j3055_8.param.info
+Created solution file src/helpers/sr/30/j3055_8.param.solution
+
+44.99user 0.61system 0:28.02elapsed 162%CPU (0avgtext+0avgdata 442132maxresident)k
+0inputs+8736outputs (0major+139630minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 44
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3055_8.param
+Dropping objective: minimising 44
+
+Created output file for domain filtering src/helpers/sr/30/j3055_8.param.minion
+Found 125015 mutexes
+Dropping objective: minimising 44
+
+Created output SAT file src/helpers/sr/30/j3055_8.param.dimacs
+Created information file src/helpers/sr/30/j3055_8.param.info
+Created solution file src/helpers/sr/30/j3055_8.param.solution
+
+44.19user 0.63system 0:27.40elapsed 163%CPU (0avgtext+0avgdata 445460maxresident)k
+0inputs+8736outputs (0major+139793minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 44
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3055_8.param
+Dropping objective: minimising 44
+
+Created output file for domain filtering src/helpers/sr/30/j3055_8.param.minion
+Found 125015 mutexes
+Dropping objective: minimising 44
+
+Created output SAT file src/helpers/sr/30/j3055_8.param.dimacs
+Created information file src/helpers/sr/30/j3055_8.param.info
+Created solution file src/helpers/sr/30/j3055_8.param.solution
+
+43.47user 0.61system 0:27.20elapsed 162%CPU (0avgtext+0avgdata 453100maxresident)k
+0inputs+8736outputs (0major+144126minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 44
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3055_8.param
+Dropping objective: minimising 44
+
+Created output file for domain filtering src/helpers/sr/30/j3055_8.param.minion
+Found 125015 mutexes
+Dropping objective: minimising 44
+
+Created output SAT file src/helpers/sr/30/j3055_8.param.dimacs
+Created information file src/helpers/sr/30/j3055_8.param.info
+Created solution file src/helpers/sr/30/j3055_8.param.solution
+
+45.42user 0.61system 0:27.64elapsed 166%CPU (0avgtext+0avgdata 456520maxresident)k
+0inputs+8736outputs (0major+137381minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 44
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3055_8.param
+Dropping objective: minimising 44
+
+Created output file for domain filtering src/helpers/sr/30/j3055_8.param.minion
+Found 125015 mutexes
+Dropping objective: minimising 44
+
+Created output SAT file src/helpers/sr/30/j3055_8.param.dimacs
+Created information file src/helpers/sr/30/j3055_8.param.info
+Created solution file src/helpers/sr/30/j3055_8.param.solution
+
+46.50user 0.64system 0:28.06elapsed 167%CPU (0avgtext+0avgdata 448068maxresident)k
+0inputs+8736outputs (0major+137342minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 44
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3055_8.param
+Dropping objective: minimising 44
+
+Created output file for domain filtering src/helpers/sr/30/j3055_8.param.minion
+Found 125015 mutexes
+Dropping objective: minimising 44
+
+Created output SAT file src/helpers/sr/30/j3055_8.param.dimacs
+Created information file src/helpers/sr/30/j3055_8.param.info
+Created solution file src/helpers/sr/30/j3055_8.param.solution
+
+44.77user 0.59system 0:27.41elapsed 165%CPU (0avgtext+0avgdata 453380maxresident)k
+0inputs+8736outputs (0major+142397minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 44
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3055_8.param
+Dropping objective: minimising 44
+
+Created output file for domain filtering src/helpers/sr/30/j3055_8.param.minion
+Found 125015 mutexes
+Dropping objective: minimising 44
+
+Created output SAT file src/helpers/sr/30/j3055_8.param.dimacs
+Created information file src/helpers/sr/30/j3055_8.param.info
+Created solution file src/helpers/sr/30/j3055_8.param.solution
+
+44.37user 0.56system 0:27.52elapsed 163%CPU (0avgtext+0avgdata 439288maxresident)k
+0inputs+8736outputs (0major+140761minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 44
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3055_8.param
+Dropping objective: minimising 44
+
+Created output file for domain filtering src/helpers/sr/30/j3055_8.param.minion
+Found 125015 mutexes
+Dropping objective: minimising 44
+
+Created output SAT file src/helpers/sr/30/j3055_8.param.dimacs
+Created information file src/helpers/sr/30/j3055_8.param.info
+Created solution file src/helpers/sr/30/j3055_8.param.solution
+
+43.07user 0.60system 0:27.09elapsed 161%CPU (0avgtext+0avgdata 455696maxresident)k
+0inputs+8736outputs (0major+145948minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+Updating HORIZON to 44
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3055_8.param
+Dropping objective: minimising 44
+
+Created output file for domain filtering src/helpers/sr/30/j3055_8.param.minion
+Found 125015 mutexes
+Dropping objective: minimising 44
+
+Created output SAT file src/helpers/sr/30/j3055_8.param.dimacs
+Created information file src/helpers/sr/30/j3055_8.param.info
+Created solution file src/helpers/sr/30/j3055_8.param.solution
+
+47.52user 0.62system 0:28.28elapsed 170%CPU (0avgtext+0avgdata 448500maxresident)k
+0inputs+8736outputs (0major+139400minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3058_7
+Run 1:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3058_7.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3058_7.param.minion
+Found 10474 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3058_7.param.dimacs
+Created information file src/helpers/sr/30/j3058_7.param.info
+Created solution file src/helpers/sr/30/j3058_7.param.solution
+
+38.16user 0.46system 0:26.32elapsed 146%CPU (0avgtext+0avgdata 302332maxresident)k
+16inputs+1736outputs (0major+88623minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3058_7.param
+Created output file for domain filtering src/helpers/sr/30/j3058_7.param.minion
+Found 22749 mutexes
+Created output SAT file src/helpers/sr/30/j3058_7.param.dimacs
+In dichotomic search, lower: 26 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3058_7.param.solution
+Created information file src/helpers/sr/30/j3058_7.param.info
+
+39.96user 0.47system 0:26.85elapsed 150%CPU (0avgtext+0avgdata 289224maxresident)k
+0inputs+2520outputs (0major+92377minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3058_7.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3058_7.param.minion
+Found 10474 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3058_7.param.dimacs
+Created information file src/helpers/sr/30/j3058_7.param.info
+Created solution file src/helpers/sr/30/j3058_7.param.solution
+
+39.44user 0.46system 0:26.94elapsed 148%CPU (0avgtext+0avgdata 288740maxresident)k
+0inputs+1720outputs (0major+88773minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3058_7.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3058_7.param.minion
+Found 10474 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3058_7.param.dimacs
+Created information file src/helpers/sr/30/j3058_7.param.info
+Created solution file src/helpers/sr/30/j3058_7.param.solution
+
+40.63user 0.47system 0:27.14elapsed 151%CPU (0avgtext+0avgdata 294744maxresident)k
+0inputs+1720outputs (0major+89431minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3058_7.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3058_7.param.minion
+Found 10474 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3058_7.param.dimacs
+Created information file src/helpers/sr/30/j3058_7.param.info
+Created solution file src/helpers/sr/30/j3058_7.param.solution
+
+38.59user 0.45system 0:26.30elapsed 148%CPU (0avgtext+0avgdata 294304maxresident)k
+0inputs+1720outputs (0major+86853minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3058_7.param
+Created output file for domain filtering src/helpers/sr/30/j3058_7.param.minion
+Found 22749 mutexes
+Created output SAT file src/helpers/sr/30/j3058_7.param.dimacs
+In dichotomic search, lower: 26 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3058_7.param.solution
+Created information file src/helpers/sr/30/j3058_7.param.info
+
+39.15user 0.48system 0:26.61elapsed 148%CPU (0avgtext+0avgdata 289000maxresident)k
+0inputs+2520outputs (0major+91179minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3058_7.param
+Created output file for domain filtering src/helpers/sr/30/j3058_7.param.minion
+Found 22749 mutexes
+Created output SAT file src/helpers/sr/30/j3058_7.param.dimacs
+In dichotomic search, lower: 26 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3058_7.param.solution
+Created information file src/helpers/sr/30/j3058_7.param.info
+
+40.05user 0.46system 0:26.33elapsed 153%CPU (0avgtext+0avgdata 287852maxresident)k
+0inputs+2520outputs (0major+92117minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3058_7.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3058_7.param.minion
+Found 10474 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3058_7.param.dimacs
+Created information file src/helpers/sr/30/j3058_7.param.info
+Created solution file src/helpers/sr/30/j3058_7.param.solution
+
+38.89user 0.45system 0:26.48elapsed 148%CPU (0avgtext+0avgdata 288172maxresident)k
+0inputs+1720outputs (0major+88582minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3058_7.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3058_7.param.minion
+Found 10474 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3058_7.param.dimacs
+Created information file src/helpers/sr/30/j3058_7.param.info
+Created solution file src/helpers/sr/30/j3058_7.param.solution
+
+38.89user 0.43system 0:26.58elapsed 147%CPU (0avgtext+0avgdata 285840maxresident)k
+0inputs+1720outputs (0major+92007minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+Updating HORIZON to 26
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3058_7.param
+Dropping objective: minimising 26
+
+Created output file for domain filtering src/helpers/sr/30/j3058_7.param.minion
+Found 10474 mutexes
+Dropping objective: minimising 26
+
+Created output SAT file src/helpers/sr/30/j3058_7.param.dimacs
+Created information file src/helpers/sr/30/j3058_7.param.info
+Created solution file src/helpers/sr/30/j3058_7.param.solution
+
+37.98user 0.64system 0:26.54elapsed 145%CPU (0avgtext+0avgdata 290444maxresident)k
+0inputs+1720outputs (0major+86889minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3059_5
+Run 1:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3059_5.param
+Dropping objective: minimising 28
+
+Created output file for domain filtering src/helpers/sr/30/j3059_5.param.minion
+Found 36729 mutexes
+Dropping objective: minimising 28
+
+Created output SAT file src/helpers/sr/30/j3059_5.param.dimacs
+Created information file src/helpers/sr/30/j3059_5.param.info
+Created solution file src/helpers/sr/30/j3059_5.param.solution
+
+38.51user 0.53system 0:25.80elapsed 151%CPU (0avgtext+0avgdata 368172maxresident)k
+16inputs+3512outputs (0major+112394minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3059_5.param
+Dropping objective: minimising 28
+
+Created output file for domain filtering src/helpers/sr/30/j3059_5.param.minion
+Found 36729 mutexes
+Dropping objective: minimising 28
+
+Created output SAT file src/helpers/sr/30/j3059_5.param.dimacs
+Created information file src/helpers/sr/30/j3059_5.param.info
+Created solution file src/helpers/sr/30/j3059_5.param.solution
+
+38.63user 0.51system 0:25.84elapsed 151%CPU (0avgtext+0avgdata 371144maxresident)k
+0inputs+3448outputs (0major+110973minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3059_5.param
+Dropping objective: minimising 28
+
+Created output file for domain filtering src/helpers/sr/30/j3059_5.param.minion
+Found 36729 mutexes
+Dropping objective: minimising 28
+
+Created output SAT file src/helpers/sr/30/j3059_5.param.dimacs
+Created information file src/helpers/sr/30/j3059_5.param.info
+Created solution file src/helpers/sr/30/j3059_5.param.solution
+
+39.11user 0.51system 0:26.21elapsed 151%CPU (0avgtext+0avgdata 366380maxresident)k
+0inputs+3448outputs (0major+114051minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3059_5.param
+Dropping objective: minimising 28
+
+Created output file for domain filtering src/helpers/sr/30/j3059_5.param.minion
+Found 36729 mutexes
+Dropping objective: minimising 28
+
+Created output SAT file src/helpers/sr/30/j3059_5.param.dimacs
+Created information file src/helpers/sr/30/j3059_5.param.info
+Created solution file src/helpers/sr/30/j3059_5.param.solution
+
+37.89user 0.51system 0:25.62elapsed 149%CPU (0avgtext+0avgdata 371952maxresident)k
+0inputs+3448outputs (0major+114049minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3059_5.param
+Dropping objective: minimising 28
+
+Created output file for domain filtering src/helpers/sr/30/j3059_5.param.minion
+Found 36729 mutexes
+Dropping objective: minimising 28
+
+Created output SAT file src/helpers/sr/30/j3059_5.param.dimacs
+Created information file src/helpers/sr/30/j3059_5.param.info
+Created solution file src/helpers/sr/30/j3059_5.param.solution
+
+38.22user 0.50system 0:25.77elapsed 150%CPU (0avgtext+0avgdata 379712maxresident)k
+0inputs+3448outputs (0major+112550minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3059_5.param
+Dropping objective: minimising 28
+
+Created output file for domain filtering src/helpers/sr/30/j3059_5.param.minion
+Found 36729 mutexes
+Dropping objective: minimising 28
+
+Created output SAT file src/helpers/sr/30/j3059_5.param.dimacs
+Created information file src/helpers/sr/30/j3059_5.param.info
+Created solution file src/helpers/sr/30/j3059_5.param.solution
+
+37.94user 0.50system 0:25.75elapsed 149%CPU (0avgtext+0avgdata 375380maxresident)k
+0inputs+3448outputs (0major+116508minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3059_5.param
+Dropping objective: minimising 28
+
+Created output file for domain filtering src/helpers/sr/30/j3059_5.param.minion
+Found 36729 mutexes
+Dropping objective: minimising 28
+
+Created output SAT file src/helpers/sr/30/j3059_5.param.dimacs
+Created information file src/helpers/sr/30/j3059_5.param.info
+Created solution file src/helpers/sr/30/j3059_5.param.solution
+
+38.79user 0.51system 0:25.85elapsed 152%CPU (0avgtext+0avgdata 381788maxresident)k
+0inputs+3448outputs (0major+118697minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3059_5.param
+Dropping objective: minimising 28
+
+Created output file for domain filtering src/helpers/sr/30/j3059_5.param.minion
+Found 36729 mutexes
+Dropping objective: minimising 28
+
+Created output SAT file src/helpers/sr/30/j3059_5.param.dimacs
+Created information file src/helpers/sr/30/j3059_5.param.info
+Created solution file src/helpers/sr/30/j3059_5.param.solution
+
+38.57user 0.49system 0:26.09elapsed 149%CPU (0avgtext+0avgdata 374752maxresident)k
+0inputs+3448outputs (0major+109341minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3059_5.param
+Dropping objective: minimising 28
+
+Created output file for domain filtering src/helpers/sr/30/j3059_5.param.minion
+Found 36729 mutexes
+Dropping objective: minimising 28
+
+Created output SAT file src/helpers/sr/30/j3059_5.param.dimacs
+Created information file src/helpers/sr/30/j3059_5.param.info
+Created solution file src/helpers/sr/30/j3059_5.param.solution
+
+38.07user 0.48system 0:25.76elapsed 149%CPU (0avgtext+0avgdata 366820maxresident)k
+0inputs+3448outputs (0major+116776minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3059_5.param
+Dropping objective: minimising 28
+
+Created output file for domain filtering src/helpers/sr/30/j3059_5.param.minion
+Found 36729 mutexes
+Dropping objective: minimising 28
+
+Created output SAT file src/helpers/sr/30/j3059_5.param.dimacs
+Created information file src/helpers/sr/30/j3059_5.param.info
+Created solution file src/helpers/sr/30/j3059_5.param.solution
+
+38.59user 0.50system 0:25.60elapsed 152%CPU (0avgtext+0avgdata 380128maxresident)k
+0inputs+3448outputs (0major+113969minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3060_1
+Run 1:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+37.24user 0.44system 0:25.48elapsed 147%CPU (0avgtext+0avgdata 287180maxresident)k
+16inputs+3424outputs (0major+92728minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+37.05user 0.46system 0:25.13elapsed 149%CPU (0avgtext+0avgdata 297684maxresident)k
+0inputs+3408outputs (0major+93977minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+37.20user 0.42system 0:25.50elapsed 147%CPU (0avgtext+0avgdata 290204maxresident)k
+0inputs+3456outputs (0major+91487minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+37.46user 0.46system 0:25.40elapsed 149%CPU (0avgtext+0avgdata 301752maxresident)k
+0inputs+3408outputs (0major+93400minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+38.09user 0.43system 0:25.93elapsed 148%CPU (0avgtext+0avgdata 295640maxresident)k
+0inputs+3456outputs (0major+92540minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+36.83user 0.45system 0:25.40elapsed 146%CPU (0avgtext+0avgdata 285020maxresident)k
+0inputs+3408outputs (0major+91312minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+36.71user 0.44system 0:25.25elapsed 147%CPU (0avgtext+0avgdata 289988maxresident)k
+0inputs+3456outputs (0major+94657minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+37.02user 0.44system 0:25.37elapsed 147%CPU (0avgtext+0avgdata 291020maxresident)k
+0inputs+3408outputs (0major+88778minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+37.38user 0.45system 0:25.31elapsed 149%CPU (0avgtext+0avgdata 290924maxresident)k
+0inputs+3504outputs (0major+89521minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+37.17user 0.45system 0:25.28elapsed 148%CPU (0avgtext+0avgdata 287464maxresident)k
+0inputs+3408outputs (0major+93816minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3063_7
+Run 1:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3063_7.param
+Created output file for domain filtering src/helpers/sr/30/j3063_7.param.minion
+Found 34854 mutexes
+Created output SAT file src/helpers/sr/30/j3063_7.param.dimacs
+In dichotomic search, lower: 26 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3063_7.param.solution
+Created information file src/helpers/sr/30/j3063_7.param.info
+
+40.75user 0.54system 0:26.32elapsed 156%CPU (0avgtext+0avgdata 408812maxresident)k
+16inputs+4376outputs (0major+124437minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3063_7.param
+Created output file for domain filtering src/helpers/sr/30/j3063_7.param.minion
+Found 48680 mutexes
+Created output SAT file src/helpers/sr/30/j3063_7.param.dimacs
+In dichotomic search, lower: 26 upper: 28
+While optimising, found value: 28
+In dichotomic search, lower: 26 upper: 27 midpoint: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3063_7.param.solution
+Created information file src/helpers/sr/30/j3063_7.param.info
+
+40.69user 0.56system 0:26.49elapsed 155%CPU (0avgtext+0avgdata 427812maxresident)k
+0inputs+6240outputs (0major+139232minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3063_7.param
+Created output file for domain filtering src/helpers/sr/30/j3063_7.param.minion
+Found 34854 mutexes
+Created output SAT file src/helpers/sr/30/j3063_7.param.dimacs
+In dichotomic search, lower: 26 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3063_7.param.solution
+Created information file src/helpers/sr/30/j3063_7.param.info
+
+39.29user 0.50system 0:26.13elapsed 152%CPU (0avgtext+0avgdata 398008maxresident)k
+0inputs+4360outputs (0major+121759minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3063_7.param
+Created output file for domain filtering src/helpers/sr/30/j3063_7.param.minion
+Found 34854 mutexes
+Created output SAT file src/helpers/sr/30/j3063_7.param.dimacs
+In dichotomic search, lower: 26 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3063_7.param.solution
+Created information file src/helpers/sr/30/j3063_7.param.info
+
+39.36user 0.55system 0:26.18elapsed 152%CPU (0avgtext+0avgdata 393544maxresident)k
+0inputs+4360outputs (0major+121325minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3063_7.param
+Created output file for domain filtering src/helpers/sr/30/j3063_7.param.minion
+Found 34854 mutexes
+Created output SAT file src/helpers/sr/30/j3063_7.param.dimacs
+In dichotomic search, lower: 26 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3063_7.param.solution
+Created information file src/helpers/sr/30/j3063_7.param.info
+
+38.99user 0.56system 0:26.17elapsed 151%CPU (0avgtext+0avgdata 390792maxresident)k
+0inputs+4360outputs (0major+127254minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3063_7.param
+Created output file for domain filtering src/helpers/sr/30/j3063_7.param.minion
+Found 34854 mutexes
+Created output SAT file src/helpers/sr/30/j3063_7.param.dimacs
+In dichotomic search, lower: 26 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3063_7.param.solution
+Created information file src/helpers/sr/30/j3063_7.param.info
+
+39.22user 0.56system 0:26.25elapsed 151%CPU (0avgtext+0avgdata 396924maxresident)k
+0inputs+4360outputs (0major+124594minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3063_7.param
+Created output file for domain filtering src/helpers/sr/30/j3063_7.param.minion
+Found 48680 mutexes
+Created output SAT file src/helpers/sr/30/j3063_7.param.dimacs
+In dichotomic search, lower: 26 upper: 28
+While optimising, found value: 28
+In dichotomic search, lower: 26 upper: 27 midpoint: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3063_7.param.solution
+Created information file src/helpers/sr/30/j3063_7.param.info
+
+39.51user 0.51system 0:26.58elapsed 150%CPU (0avgtext+0avgdata 417276maxresident)k
+0inputs+6240outputs (0major+130823minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3063_7.param
+Created output file for domain filtering src/helpers/sr/30/j3063_7.param.minion
+Found 48680 mutexes
+Created output SAT file src/helpers/sr/30/j3063_7.param.dimacs
+In dichotomic search, lower: 26 upper: 28
+While optimising, found value: 28
+In dichotomic search, lower: 26 upper: 27 midpoint: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3063_7.param.solution
+Created information file src/helpers/sr/30/j3063_7.param.info
+
+40.13user 0.53system 0:26.40elapsed 154%CPU (0avgtext+0avgdata 428536maxresident)k
+0inputs+6240outputs (0major+135738minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 28
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3063_7.param
+Created output file for domain filtering src/helpers/sr/30/j3063_7.param.minion
+Found 48680 mutexes
+Created output SAT file src/helpers/sr/30/j3063_7.param.dimacs
+In dichotomic search, lower: 26 upper: 28
+While optimising, found value: 28
+In dichotomic search, lower: 26 upper: 27 midpoint: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3063_7.param.solution
+Created information file src/helpers/sr/30/j3063_7.param.info
+
+39.22user 0.57system 0:26.36elapsed 150%CPU (0avgtext+0avgdata 422652maxresident)k
+0inputs+6240outputs (0major+140489minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+Updating HORIZON to 27
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3063_7.param
+Created output file for domain filtering src/helpers/sr/30/j3063_7.param.minion
+Found 34854 mutexes
+Created output SAT file src/helpers/sr/30/j3063_7.param.dimacs
+In dichotomic search, lower: 26 upper: 27
+While optimising, found value: 27
+In dichotomic search, lower: 26 upper: 26 midpoint: 26
+While optimising, found value: 26
+Created solution file src/helpers/sr/30/j3063_7.param.solution
+Created information file src/helpers/sr/30/j3063_7.param.info
+
+41.12user 0.49system 0:26.44elapsed 157%CPU (0avgtext+0avgdata 413464maxresident)k
+0inputs+4360outputs (0major+127900minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J50107_4
+Run 1:
+
+Updating HORIZON to 50
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J50107_4.param
+Dropping objective: minimising 50
+
+Created output file for domain filtering src/helpers/sr/50/J50107_4.param.minion
+Found 57219 mutexes
+Dropping objective: minimising 50
+
+Created output SAT file src/helpers/sr/50/J50107_4.param.dimacs
+Created information file src/helpers/sr/50/J50107_4.param.info
+Created solution file src/helpers/sr/50/J50107_4.param.solution
+
+
+
+
+79.88user 0.73system 1:00.26elapsed 133%CPU (0avgtext+0avgdata 718824maxresident)k
+32inputs+9808outputs (0major+217917minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 50
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J50107_4.param
+Dropping objective: minimising 50
+
+Created output file for domain filtering src/helpers/sr/50/J50107_4.param.minion
+Found 57219 mutexes
+Dropping objective: minimising 50
+
+Created output SAT file src/helpers/sr/50/J50107_4.param.dimacs
+Created information file src/helpers/sr/50/J50107_4.param.info
+Created solution file src/helpers/sr/50/J50107_4.param.solution
+
+
+
+
+79.17user 0.80system 1:00.37elapsed 132%CPU (0avgtext+0avgdata 707728maxresident)k
+0inputs+9776outputs (0major+227197minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 50
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J50107_4.param
+Dropping objective: minimising 50
+
+Created output file for domain filtering src/helpers/sr/50/J50107_4.param.minion
+Found 57219 mutexes
+Dropping objective: minimising 50
+
+Created output SAT file src/helpers/sr/50/J50107_4.param.dimacs
+Created information file src/helpers/sr/50/J50107_4.param.info
+Created solution file src/helpers/sr/50/J50107_4.param.solution
+
+
+
+
+78.15user 0.81system 1:00.25elapsed 131%CPU (0avgtext+0avgdata 693356maxresident)k
+0inputs+9776outputs (0major+229923minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 51
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J50107_4.param
+Created output file for domain filtering src/helpers/sr/50/J50107_4.param.minion
+Found 114121 mutexes
+Created output SAT file src/helpers/sr/50/J50107_4.param.dimacs
+In dichotomic search, lower: 50 upper: 51
+While optimising, found value: 51
+In dichotomic search, lower: 50 upper: 50 midpoint: 50
+While optimising, found value: 50
+Created solution file src/helpers/sr/50/J50107_4.param.solution
+Created information file src/helpers/sr/50/J50107_4.param.info
+
+
+
+
+79.72user 0.76system 1:01.24elapsed 131%CPU (0avgtext+0avgdata 714320maxresident)k
+0inputs+13248outputs (0major+225544minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 50
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J50107_4.param
+Dropping objective: minimising 50
+
+Created output file for domain filtering src/helpers/sr/50/J50107_4.param.minion
+Found 57219 mutexes
+Dropping objective: minimising 50
+
+Created output SAT file src/helpers/sr/50/J50107_4.param.dimacs
+Created information file src/helpers/sr/50/J50107_4.param.info
+Created solution file src/helpers/sr/50/J50107_4.param.solution
+
+
+
+
+79.55user 0.79system 1:00.38elapsed 133%CPU (0avgtext+0avgdata 700340maxresident)k
+0inputs+9776outputs (0major+223531minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 50
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J50107_4.param
+Dropping objective: minimising 50
+
+Created output file for domain filtering src/helpers/sr/50/J50107_4.param.minion
+Found 57219 mutexes
+Dropping objective: minimising 50
+
+Created output SAT file src/helpers/sr/50/J50107_4.param.dimacs
+Created information file src/helpers/sr/50/J50107_4.param.info
+Created solution file src/helpers/sr/50/J50107_4.param.solution
+
+
+
+
+79.04user 0.79system 1:00.10elapsed 132%CPU (0avgtext+0avgdata 711560maxresident)k
+0inputs+9776outputs (0major+226911minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 50
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J50107_4.param
+Dropping objective: minimising 50
+
+Created output file for domain filtering src/helpers/sr/50/J50107_4.param.minion
+Found 57219 mutexes
+Dropping objective: minimising 50
+
+Created output SAT file src/helpers/sr/50/J50107_4.param.dimacs
+Created information file src/helpers/sr/50/J50107_4.param.info
+Created solution file src/helpers/sr/50/J50107_4.param.solution
+
+
+
+
+79.41user 0.77system 1:00.09elapsed 133%CPU (0avgtext+0avgdata 706788maxresident)k
+0inputs+9776outputs (0major+222281minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 50
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J50107_4.param
+Dropping objective: minimising 50
+
+Created output file for domain filtering src/helpers/sr/50/J50107_4.param.minion
+Found 57219 mutexes
+Dropping objective: minimising 50
+
+Created output SAT file src/helpers/sr/50/J50107_4.param.dimacs
+Created information file src/helpers/sr/50/J50107_4.param.info
+Created solution file src/helpers/sr/50/J50107_4.param.solution
+
+
+79.36user 0.74system 1:00.20elapsed 133%CPU (0avgtext+0avgdata 702264maxresident)k
+0inputs+9776outputs (0major+224439minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 50
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J50107_4.param
+Dropping objective: minimising 50
+
+Created output file for domain filtering src/helpers/sr/50/J50107_4.param.minion
+Found 57219 mutexes
+Dropping objective: minimising 50
+
+Created output SAT file src/helpers/sr/50/J50107_4.param.dimacs
+Created information file src/helpers/sr/50/J50107_4.param.info
+Created solution file src/helpers/sr/50/J50107_4.param.solution
+
+
+
+
+78.83user 0.81system 1:00.31elapsed 132%CPU (0avgtext+0avgdata 711936maxresident)k
+0inputs+9776outputs (0major+230776minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 10:
+
+Updating HORIZON to 50
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J50107_4.param
+Dropping objective: minimising 50
+
+Created output file for domain filtering src/helpers/sr/50/J50107_4.param.minion
+Found 57219 mutexes
+Dropping objective: minimising 50
+
+Created output SAT file src/helpers/sr/50/J50107_4.param.dimacs
+Created information file src/helpers/sr/50/J50107_4.param.info
+Created solution file src/helpers/sr/50/J50107_4.param.solution
+
+
+
+
+79.04user 0.78system 1:00.01elapsed 133%CPU (0avgtext+0avgdata 707696maxresident)k
+0inputs+9776outputs (0major+225821minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J50103_2
+Run 1:
+
+
+
+
+==================================================
+

@@ -4,8 +4,11 @@ run:
 experiment_sa:
 	python3 src/experiments/sa.py > executions/experiments/sa/sa_$$(date +%Y%m%d%H%M%S).txt
 
+experiment_sr:
+	python3 src/experiments/sr.py > executions/experiments/sr/sr_$$(date +%Y%m%d%H%M%S).txt
+
 experiment_hybrid:
-	python3 src/experiments/hybrid.py j3060_1 30 > executions/experiments/hybrid/hybrid_$$(date +%Y%m%d%H%M%S).txt
+	python3 src/experiments/hybrid.py > executions/experiments/hybrid/hybrid_$$(date +%Y%m%d%H%M%S).txt
 
 test:
 	python3 src/test.py

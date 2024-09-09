@@ -7,7 +7,10 @@ sys.path.append("../src")
 
 from src.sam import sa_procedure
 
-FILE_PATH = "src/helpers/sr/30/j3060_1.param"
+INSTANCE_NAME = sys.argv[1]
+INSTANCE_SIZE = sys.argv[2]
+
+FILE_PATH = f"src/helpers/sr/{INSTANCE_SIZE}/{INSTANCE_NAME}.param"
 
 BASE = "../../../../Downloads/savilerow-1.10.0-linux"
 
