@@ -1,0 +1,134 @@
+Chains: 2
+Steps: 5
+Neighbours Initial N: 1000
+Neighbours Increase Coefficient: 1
+Temperature Max: 100
+Temperature Increase Coefficient: 0.25
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3060_1
+Run 1:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family -sat-pb-mdd -sat-sum-mdd kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+
+ERROR: SAT family -sat-pb-mdd not supported.
+For command line help, use the -help flag.
+
+
+25.75user 0.06system 0:23.69elapsed 108%CPU (0avgtext+0avgdata 28672maxresident)k
+57104inputs+88outputs (166major+7689minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family -sat-pb-mdd -sat-sum-mdd kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+
+ERROR: SAT family -sat-pb-mdd not supported.
+For command line help, use the -help flag.
+
+
+25.55user 0.05system 0:23.34elapsed 109%CPU (0avgtext+0avgdata 29184maxresident)k
+0inputs+72outputs (0major+7503minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family -sat-pb-mdd -sat-sum-mdd kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+
+ERROR: SAT family -sat-pb-mdd not supported.
+For command line help, use the -help flag.
+
+
+25.55user 0.05system 0:23.34elapsed 109%CPU (0avgtext+0avgdata 29184maxresident)k
+0inputs+72outputs (0major+7494minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family -sat-pb-mdd -sat-sum-mdd kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+
+ERROR: SAT family -sat-pb-mdd not supported.
+For command line help, use the -help flag.
+
+
+25.61user 0.05system 0:23.40elapsed 109%CPU (0avgtext+0avgdata 29184maxresident)k
+0inputs+72outputs (0major+7497minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family -sat-pb-mdd -sat-sum-mdd kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+
+ERROR: SAT family -sat-pb-mdd not supported.
+For command line help, use the -help flag.
+
+
+25.22user 0.04system 0:23.01elapsed 109%CPU (0avgtext+0avgdata 29184maxresident)k
+0inputs+72outputs (0major+7487minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family -sat-pb-mdd -sat-sum-mdd kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+
+ERROR: SAT family -sat-pb-mdd not supported.
+For command line help, use the -help flag.
+
+
+25.47user 0.04system 0:23.25elapsed 109%CPU (0avgtext+0avgdata 29056maxresident)k
+0inputs+72outputs (0major+7505minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family -sat-pb-mdd -sat-sum-mdd kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+
+ERROR: SAT family -sat-pb-mdd not supported.
+For command line help, use the -help flag.
+
+
+25.74user 0.06system 0:23.61elapsed 109%CPU (0avgtext+0avgdata 28928maxresident)k
+0inputs+72outputs (0major+7491minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family -sat-pb-mdd -sat-sum-mdd kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+
+ERROR: SAT family -sat-pb-mdd not supported.
+For command line help, use the -help flag.
+
+
+25.59user 0.04system 0:23.39elapsed 109%CPU (0avgtext+0avgdata 29312maxresident)k
+0inputs+72outputs (0major+7500minor)pagefaults 0swaps
+
+
+==================================================
+

@@ -1,0 +1,432 @@
+Chains: 2
+Steps: 5
+Neighbours Initial N: 1000
+Neighbours Increase Coefficient: 1
+Temperature Max: 100
+Temperature Increase Coefficient: 0.25
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3060_1
+Run 1:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+37.87user 0.41system 0:25.50elapsed 150%CPU (0avgtext+0avgdata 301124maxresident)k
+0inputs+3408outputs (0major+92271minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+37.51user 0.47system 0:25.47elapsed 149%CPU (0avgtext+0avgdata 288564maxresident)k
+0inputs+3408outputs (0major+91324minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+36.86user 0.48system 0:25.17elapsed 148%CPU (0avgtext+0avgdata 291096maxresident)k
+0inputs+3408outputs (0major+93790minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+37.76user 0.43system 0:25.52elapsed 149%CPU (0avgtext+0avgdata 297992maxresident)k
+0inputs+3408outputs (0major+90212minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+37.52user 0.45system 0:25.52elapsed 148%CPU (0avgtext+0avgdata 287960maxresident)k
+0inputs+3408outputs (0major+94374minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+37.24user 0.45system 0:25.28elapsed 149%CPU (0avgtext+0avgdata 289460maxresident)k
+0inputs+3408outputs (0major+95334minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+37.31user 0.43system 0:25.47elapsed 148%CPU (0avgtext+0avgdata 296200maxresident)k
+0inputs+3408outputs (0major+88714minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+Dropping objective: minimising 22
+
+Created output file for domain filtering src/helpers/sr/30/j3060_1.param.minion
+Found 34612 mutexes
+Dropping objective: minimising 22
+
+Created output SAT file src/helpers/sr/30/j3060_1.param.dimacs
+Created information file src/helpers/sr/30/j3060_1.param.info
+Created solution file src/helpers/sr/30/j3060_1.param.solution
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+36.79user 0.49system 0:25.20elapsed 147%CPU (0avgtext+0avgdata 286256maxresident)k
+0inputs+3408outputs (0major+95051minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+

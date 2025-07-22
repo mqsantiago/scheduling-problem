@@ -4,37 +4,11 @@
 
 ==================================================
 
-NEW INSTANCE: J50107_4
-timeout 5h time ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J50107_4.param
+NEW INSTANCE: J5036_2
+timeout 1h time ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J5036_2.param
 Run 1:
 
-Created output file for domain filtering src/helpers/sr/50/J50107_4.param.minion
-Sub-process exited with error code:137 and error message:
-[]
-Found 0 mutexes
-Created output SAT file src/helpers/sr/50/J50107_4.param.dimacs
-In dichotomic search, lower: 50 upper: 411
-While optimising, found value: 411
-In dichotomic search, lower: 50 upper: 410 midpoint: 230
-While optimising, found value: 230
-In dichotomic search, lower: 50 upper: 229 midpoint: 140
-While optimising, found value: 140
-In dichotomic search, lower: 50 upper: 139 midpoint: 95
-While optimising, found value: 95
-In dichotomic search, lower: 50 upper: 94 midpoint: 72
-While optimising, found value: 72
-In dichotomic search, lower: 50 upper: 71 midpoint: 61
-While optimising, found value: 61
-In dichotomic search, lower: 50 upper: 60 midpoint: 55
-While optimising, found value: 55
-In dichotomic search, lower: 50 upper: 54 midpoint: 52
-While optimising, found value: 52
-In dichotomic search, lower: 50 upper: 51 midpoint: 51
-While optimising, found value: 51
-In dichotomic search, lower: 50 upper: 50 midpoint: 50
-While optimising, found value: 50
-Created solution file src/helpers/sr/50/J50107_4.param.solution
-Created information file src/helpers/sr/50/J50107_4.param.info
+Created output file for domain filtering src/helpers/sr/50/J5036_2.param.minion
 
 WARNING: interval 4..3 is out of order. Rewriting to empty interval.
 WARNING: interval 4..3 is out of order. Rewriting to empty interval.
@@ -86,8 +60,6 @@ WARNING: interval 4..3 is out of order. Rewriting to empty interval.
 WARNING: interval 4..3 is out of order. Rewriting to empty interval.
 WARNING: interval 4..3 is out of order. Rewriting to empty interval.
 WARNING: interval 4..3 is out of order. Rewriting to empty interval.
-8297.76user 23.08system 2:18:13elapsed 100%CPU (0avgtext+0avgdata 9415028maxresident)k
-1437024inputs+1014048outputs (29458major+6861767minor)pagefaults 0swaps
 
 
 ==================================================
@@ -98,34 +70,11 @@ WARNING: interval 4..3 is out of order. Rewriting to empty interval.
 
 ==================================================
 
-NEW INSTANCE: J50103_2
-timeout 5h time ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J50103_2.param
+NEW INSTANCE: J5039_3
+timeout 1h time ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J5039_3.param
 Run 1:
 
-Created output file for domain filtering src/helpers/sr/50/J50103_2.param.minion
-Sub-process exited with error code:137 and error message:
-[]
-Found 50744083 mutexes
-Created output SAT file src/helpers/sr/50/J50103_2.param.dimacs
-In dichotomic search, lower: 58 upper: 394
-While optimising, found value: 394
-In dichotomic search, lower: 58 upper: 393 midpoint: 226
-While optimising, found value: 226
-In dichotomic search, lower: 58 upper: 225 midpoint: 142
-While optimising, found value: 142
-In dichotomic search, lower: 58 upper: 141 midpoint: 100
-While optimising, found value: 100
-In dichotomic search, lower: 58 upper: 99 midpoint: 79
-In dichotomic search, lower: 80 upper: 99 midpoint: 90
-While optimising, found value: 90
-In dichotomic search, lower: 80 upper: 89 midpoint: 85
-Sub-process exited with error code:139 and error message:
-[]
-SAT solver exited with error code:139 and message:
-[]
-In dichotomic search, lower: 86 upper: 89 midpoint: 88
-While optimising, found value: 88
-In dichotomic search, lower: 86 upper: 87 midpoint: 87
+Created output file for domain filtering src/helpers/sr/50/J5039_3.param.minion
 
 WARNING: interval 4..3 is out of order. Rewriting to empty interval.
 WARNING: interval 4..3 is out of order. Rewriting to empty interval.
@@ -187,5 +136,71 @@ WARNING: interval 4..3 is out of order. Rewriting to empty interval.
 
 ==================================================
 
-NEW INSTANCE: J5023_1
-timeout 5h time ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J5023_1.param
+NEW INSTANCE: J5059_2
+timeout 1h time ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J5059_2.param
+Run 1:
+
+Created output file for domain filtering src/helpers/sr/50/J5059_2.param.minion
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J5089_4
+timeout 1h time ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/50/J5089_4.param

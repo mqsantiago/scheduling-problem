@@ -1,0 +1,570 @@
+Chains: 2
+Steps: 5
+Neighbours Initial N: 1000
+Neighbours Increase Coefficient: 1
+Temperature Max: 100
+Temperature Increase Coefficient: 0.25
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J10039_1
+Run 1:
+
+Updating HORIZON to 49
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+Created output file for domain filtering src/helpers/sr/100/J10039_1.param.minion
+Found 6408111 mutexes
+Created output SAT file src/helpers/sr/100/J10039_1.param.dimacs
+In dichotomic search, lower: 33 upper: 49
+While optimising, found value: 49
+In dichotomic search, lower: 33 upper: 48 midpoint: 41
+While optimising, found value: 41
+In dichotomic search, lower: 33 upper: 40 midpoint: 37
+While optimising, found value: 37
+In dichotomic search, lower: 33 upper: 36 midpoint: 35
+While optimising, found value: 35
+In dichotomic search, lower: 33 upper: 34 midpoint: 34
+While optimising, found value: 34
+In dichotomic search, lower: 33 upper: 33 midpoint: 33
+While optimising, found value: 33
+Created solution file src/helpers/sr/100/J10039_1.param.solution
+Created information file src/helpers/sr/100/J10039_1.param.info
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+441.97user 2.50system 6:54.86elapsed 107%CPU (0avgtext+0avgdata 2038536maxresident)k
+92360inputs+36960outputs (273major+715843minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+
+
+==================================================
+
+Run 3:
+
+
+
+
+
+==================================================
+
+Run 4:
+
+
+
+
+==================================================
+
+Run 5:
+
+
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 51
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+Created output file for domain filtering src/helpers/sr/100/J10039_1.param.minion
+Found 7878195 mutexes
+Created output SAT file src/helpers/sr/100/J10039_1.param.dimacs
+In dichotomic search, lower: 33 upper: 51
+While optimising, found value: 51
+In dichotomic search, lower: 33 upper: 50 midpoint: 42
+While optimising, found value: 42
+In dichotomic search, lower: 33 upper: 41 midpoint: 37
+While optimising, found value: 37
+In dichotomic search, lower: 33 upper: 36 midpoint: 35
+While optimising, found value: 35
+In dichotomic search, lower: 33 upper: 34 midpoint: 34
+While optimising, found value: 34
+In dichotomic search, lower: 33 upper: 33 midpoint: 33
+While optimising, found value: 33
+Created solution file src/helpers/sr/100/J10039_1.param.solution
+Created information file src/helpers/sr/100/J10039_1.param.info
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+385.15user 2.48system 6:02.94elapsed 106%CPU (0avgtext+0avgdata 2294392maxresident)k
+0inputs+38656outputs (0major+788100minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 49
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+Created output file for domain filtering src/helpers/sr/100/J10039_1.param.minion
+Found 6408111 mutexes
+Created output SAT file src/helpers/sr/100/J10039_1.param.dimacs
+In dichotomic search, lower: 33 upper: 49
+While optimising, found value: 49
+In dichotomic search, lower: 33 upper: 48 midpoint: 41
+While optimising, found value: 41
+In dichotomic search, lower: 33 upper: 40 midpoint: 37
+While optimising, found value: 37
+In dichotomic search, lower: 33 upper: 36 midpoint: 35
+While optimising, found value: 35
+In dichotomic search, lower: 33 upper: 34 midpoint: 34
+While optimising, found value: 34
+In dichotomic search, lower: 33 upper: 33 midpoint: 33
+While optimising, found value: 33
+Created solution file src/helpers/sr/100/J10039_1.param.solution
+Created information file src/helpers/sr/100/J10039_1.param.info
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+416.90user 2.30system 6:33.70elapsed 106%CPU (0avgtext+0avgdata 2037124maxresident)k
+0inputs+36936outputs (0major+735086minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 49
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+Created output file for domain filtering src/helpers/sr/100/J10039_1.param.minion
+Found 6408111 mutexes
+Created output SAT file src/helpers/sr/100/J10039_1.param.dimacs
+In dichotomic search, lower: 33 upper: 49
+While optimising, found value: 49
+In dichotomic search, lower: 33 upper: 48 midpoint: 41
+While optimising, found value: 41
+In dichotomic search, lower: 33 upper: 40 midpoint: 37
+While optimising, found value: 37
+In dichotomic search, lower: 33 upper: 36 midpoint: 35
+While optimising, found value: 35
+In dichotomic search, lower: 33 upper: 34 midpoint: 34
+While optimising, found value: 34
+In dichotomic search, lower: 33 upper: 33 midpoint: 33
+While optimising, found value: 33
+Created solution file src/helpers/sr/100/J10039_1.param.solution
+Created information file src/helpers/sr/100/J10039_1.param.info
+
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+WARNING: interval 4..3 is out of order. Rewriting to empty interval.
+
+
+422.20user 2.23system 6:40.37elapsed 106%CPU (0avgtext+0avgdata 1904932maxresident)k
+0inputs+36584outputs (0major+683067minor)pagefaults 0swaps
+
+
+==================================================
+

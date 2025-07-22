@@ -1,0 +1,28 @@
+Chains: 2
+Steps: 5
+Neighbours Initial N: 1000
+Neighbours Increase Coefficient: 1
+Temperature Max: 100
+Temperature Increase Coefficient: 0.25
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: c15
+Run 1:
+
+Best Solution so far: 
+[1, 2, 4, 3, 8, 5, 6, 9, 7, 12, 10, 11, 15, 14, 13, 17, 16, 18] 
+[2, 0, 1, 0, 0, 0, 0, 2, 0, 1, 0, 1, 1, 0, 0, 0, 2, 2]
+Project Length: 21
+Non-renewable resources constrains met: True
+
+11.70user 0.04system 0:09.73elapsed 120%CPU (0avgtext+0avgdata 26740maxresident)k
+20344inputs+8outputs (60major+3852minor)pagefaults 0swaps
+
+
+==================================================
+

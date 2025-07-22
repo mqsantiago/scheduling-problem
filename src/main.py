@@ -1,8 +1,14 @@
+import sys
 import sam
+
+try:
+    TIMEOUT = int(sys.argv[9])
+except IndexError:
+    TIMEOUT = None
 
 
 def main():
-    sa_solution, sa_modes, sa_cost = sam.sa_procedure()
+    sa_solution, sa_modes, sa_cost = sam.sa_procedure(TIMEOUT)
 
     print(f"Best Solution so far: \n{sa_solution} \n{sa_modes}")
     print(f"Project Length: {sa_cost}")

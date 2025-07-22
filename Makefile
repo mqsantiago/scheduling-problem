@@ -1,5 +1,8 @@
 run:
-	python3 src/main.py > executions/runs/run_$$(date +%Y%m%d%H%M%S).txt
+	python3 src/main.py j3060_1 30 2 5 1000 1 100 0.25
+
+run_output:
+	python3 src/main.py j3060_1 30 2 5 1000 1 100 0.25 > executions/runs/run_$$(date +%Y%m%d%H%M%S).txt
 
 experiment_sa:
 	python3 src/experiments/sa.py > executions/experiments/sa/sa_$$(date +%Y%m%d%H%M%S).txt

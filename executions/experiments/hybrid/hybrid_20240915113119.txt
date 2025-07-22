@@ -1,0 +1,158 @@
+Chains: 2
+Steps: 5
+Neighbours Initial N: 1000
+Neighbours Increase Coefficient: 1
+Temperature Max: 100
+Temperature Increase Coefficient: 0.25
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: J10039_1
+Run 1:
+
+Updating HORIZON to 47
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+ERROR: In quantifier: (forall mode : int((length(durations[job,int(..)]) + 1)..3) . (forall time : int(0..47) . (!jobActive[job, mode, time])))
+ERROR: Identifier `mode' is already defined.
+
+ERROR: Failed type checking after substituting in lettings.
+
+
+246.63user 0.09system 4:04.29elapsed 100%CPU (0avgtext+0avgdata 63232maxresident)k
+0inputs+88outputs (0major+16864minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+Updating HORIZON to 50
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+ERROR: In quantifier: (forall mode : int((length(durations[job,int(..)]) + 1)..3) . (forall time : int(0..50) . (!jobActive[job, mode, time])))
+ERROR: Identifier `mode' is already defined.
+
+ERROR: Failed type checking after substituting in lettings.
+
+
+234.04user 0.08system 3:51.54elapsed 101%CPU (0avgtext+0avgdata 63804maxresident)k
+0inputs+88outputs (0major+17158minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+Updating HORIZON to 47
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+ERROR: In quantifier: (forall mode : int((length(durations[job,int(..)]) + 1)..3) . (forall time : int(0..47) . (!jobActive[job, mode, time])))
+ERROR: Identifier `mode' is already defined.
+
+ERROR: Failed type checking after substituting in lettings.
+
+
+233.21user 0.08system 3:50.71elapsed 101%CPU (0avgtext+0avgdata 64692maxresident)k
+0inputs+88outputs (0major+17374minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+Updating HORIZON to 49
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+ERROR: In quantifier: (forall mode : int((length(durations[job,int(..)]) + 1)..3) . (forall time : int(0..49) . (!jobActive[job, mode, time])))
+ERROR: Identifier `mode' is already defined.
+
+ERROR: Failed type checking after substituting in lettings.
+
+
+238.74user 0.11system 3:56.36elapsed 101%CPU (0avgtext+0avgdata 65080maxresident)k
+0inputs+88outputs (0major+17459minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+Updating HORIZON to 48
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+ERROR: In quantifier: (forall mode : int((length(durations[job,int(..)]) + 1)..3) . (forall time : int(0..48) . (!jobActive[job, mode, time])))
+ERROR: Identifier `mode' is already defined.
+
+ERROR: Failed type checking after substituting in lettings.
+
+
+236.13user 0.12system 3:53.76elapsed 101%CPU (0avgtext+0avgdata 62832maxresident)k
+0inputs+88outputs (0major+16962minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+Updating HORIZON to 48
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+ERROR: In quantifier: (forall mode : int((length(durations[job,int(..)]) + 1)..3) . (forall time : int(0..48) . (!jobActive[job, mode, time])))
+ERROR: Identifier `mode' is already defined.
+
+ERROR: Failed type checking after substituting in lettings.
+
+
+240.72user 0.11system 3:58.33elapsed 101%CPU (0avgtext+0avgdata 64420maxresident)k
+0inputs+88outputs (0major+17312minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+Updating HORIZON to 48
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+ERROR: In quantifier: (forall mode : int((length(durations[job,int(..)]) + 1)..3) . (forall time : int(0..48) . (!jobActive[job, mode, time])))
+ERROR: Identifier `mode' is already defined.
+
+ERROR: Failed type checking after substituting in lettings.
+
+
+233.55user 0.11system 3:50.98elapsed 101%CPU (0avgtext+0avgdata 65448maxresident)k
+0inputs+88outputs (0major+17533minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+Updating HORIZON to 45
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+ERROR: In quantifier: (forall mode : int((length(durations[job,int(..)]) + 1)..3) . (forall time : int(0..45) . (!jobActive[job, mode, time])))
+ERROR: Identifier `mode' is already defined.
+
+ERROR: Failed type checking after substituting in lettings.
+
+
+238.66user 0.10system 3:56.33elapsed 101%CPU (0avgtext+0avgdata 63912maxresident)k
+0inputs+88outputs (0major+17186minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+Updating HORIZON to 50
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/100/J10039_1.param
+ERROR: In quantifier: (forall mode : int((length(durations[job,int(..)]) + 1)..3) . (forall time : int(0..50) . (!jobActive[job, mode, time])))
+ERROR: Identifier `mode' is already defined.
+
+ERROR: Failed type checking after substituting in lettings.
+
+
+242.15user 0.10system 3:59.74elapsed 101%CPU (0avgtext+0avgdata 64020maxresident)k
+0inputs+88outputs (0major+17172minor)pagefaults 0swaps
+
+
+==================================================
+

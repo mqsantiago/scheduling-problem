@@ -10,6 +10,11 @@ from src.sam import sa_procedure
 INSTANCE_NAME = sys.argv[1]
 INSTANCE_SIZE = sys.argv[2]
 
+try:
+    TIMEOUT = float(sys.argv[9])
+except IndexError:
+    TIMEOUT = None
+
 FILE_PATH = f"src/helpers/sr/{INSTANCE_SIZE}/{INSTANCE_NAME}.param"
 
 BASE = "../../../../Downloads/savilerow-1.10.0-linux"
@@ -32,7 +37,7 @@ def modify_file(horizon_value):
                 file.write(line)
 
 
-_, _, cost = sa_procedure()
+_, _, cost = sa_procedure(TIMEOUT)
 
 print(f"Updating HORIZON to {cost}")
 modify_file(cost)

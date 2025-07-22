@@ -1,0 +1,1001 @@
+Chains: 2
+Steps: 5
+Neighbours Initial N: 1000
+Neighbours Increase Coefficient: 1
+Temperature Max: 100
+Temperature Increase Coefficient: 0.25
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3011_9
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.29user 0.04system 0:00.26elapsed 881%CPU (0avgtext+0avgdata 38508maxresident)k
+8inputs+0outputs (0major+5274minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.26user 0.05system 0:00.23elapsed 987%CPU (0avgtext+0avgdata 38484maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.19user 0.05system 0:00.24elapsed 908%CPU (0avgtext+0avgdata 38480maxresident)k
+0inputs+0outputs (0major+5259minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.22user 0.03system 0:00.24elapsed 914%CPU (0avgtext+0avgdata 38116maxresident)k
+0inputs+0outputs (0major+5267minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.18user 0.04system 0:00.30elapsed 721%CPU (0avgtext+0avgdata 38296maxresident)k
+0inputs+0outputs (0major+5269minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.08user 0.04system 0:00.26elapsed 797%CPU (0avgtext+0avgdata 38220maxresident)k
+0inputs+0outputs (0major+5271minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.04user 0.04system 0:00.24elapsed 853%CPU (0avgtext+0avgdata 38224maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.14user 0.03system 0:00.25elapsed 856%CPU (0avgtext+0avgdata 38168maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.22user 0.04system 0:00.24elapsed 912%CPU (0avgtext+0avgdata 38484maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3012_4
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.26user 0.03system 0:00.24elapsed 956%CPU (0avgtext+0avgdata 38356maxresident)k
+0inputs+0outputs (0major+5257minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.16user 0.02system 0:00.25elapsed 872%CPU (0avgtext+0avgdata 38100maxresident)k
+0inputs+0outputs (0major+5275minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.29user 0.03system 0:00.24elapsed 955%CPU (0avgtext+0avgdata 38356maxresident)k
+0inputs+0outputs (0major+5273minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.20user 0.05system 0:00.21elapsed 1031%CPU (0avgtext+0avgdata 38348maxresident)k
+0inputs+0outputs (0major+5275minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.29user 0.03system 0:00.24elapsed 953%CPU (0avgtext+0avgdata 38272maxresident)k
+0inputs+0outputs (0major+5267minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.22user 0.04system 0:00.24elapsed 924%CPU (0avgtext+0avgdata 38312maxresident)k
+0inputs+0outputs (0major+5264minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.27user 0.03system 0:00.24elapsed 940%CPU (0avgtext+0avgdata 38068maxresident)k
+0inputs+0outputs (0major+5256minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.28user 0.02system 0:00.24elapsed 949%CPU (0avgtext+0avgdata 38480maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.29user 0.03system 0:00.24elapsed 951%CPU (0avgtext+0avgdata 38420maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3022_4
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.24user 0.03system 0:00.23elapsed 979%CPU (0avgtext+0avgdata 38480maxresident)k
+0inputs+0outputs (0major+5257minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.19user 0.03system 0:00.21elapsed 1020%CPU (0avgtext+0avgdata 38348maxresident)k
+0inputs+0outputs (0major+5273minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.30user 0.02system 0:00.24elapsed 954%CPU (0avgtext+0avgdata 38480maxresident)k
+0inputs+0outputs (0major+5260minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.29user 0.02system 0:00.24elapsed 945%CPU (0avgtext+0avgdata 38324maxresident)k
+0inputs+0outputs (0major+5271minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.22user 0.02system 0:00.24elapsed 935%CPU (0avgtext+0avgdata 38356maxresident)k
+0inputs+0outputs (0major+5259minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.24user 0.02system 0:00.25elapsed 885%CPU (0avgtext+0avgdata 38276maxresident)k
+0inputs+0outputs (0major+5265minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.11user 0.10system 0:00.27elapsed 806%CPU (0avgtext+0avgdata 38356maxresident)k
+0inputs+0outputs (0major+5268minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.03user 0.08system 0:00.29elapsed 709%CPU (0avgtext+0avgdata 38336maxresident)k
+0inputs+0outputs (0major+5273minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.02user 0.06system 0:00.27elapsed 776%CPU (0avgtext+0avgdata 38068maxresident)k
+0inputs+0outputs (0major+5267minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3025_10
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.05user 0.06system 0:00.30elapsed 690%CPU (0avgtext+0avgdata 38112maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+1.76user 0.05system 0:00.30elapsed 590%CPU (0avgtext+0avgdata 38384maxresident)k
+0inputs+0outputs (0major+5269minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.10user 0.02system 0:00.25elapsed 822%CPU (0avgtext+0avgdata 38472maxresident)k
+0inputs+0outputs (0major+5269minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.09user 0.05system 0:00.29elapsed 727%CPU (0avgtext+0avgdata 38248maxresident)k
+0inputs+0outputs (0major+5270minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+1.86user 0.05system 0:00.30elapsed 624%CPU (0avgtext+0avgdata 38108maxresident)k
+0inputs+0outputs (0major+5269minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.12user 0.04system 0:00.27elapsed 791%CPU (0avgtext+0avgdata 38228maxresident)k
+0inputs+0outputs (0major+5270minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.00user 0.03system 0:00.31elapsed 658%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+1.88user 0.04system 0:00.27elapsed 691%CPU (0avgtext+0avgdata 38072maxresident)k
+0inputs+0outputs (0major+5269minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.25user 0.06system 0:00.35elapsed 645%CPU (0avgtext+0avgdata 38352maxresident)k
+0inputs+0outputs (0major+5272minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3031_8
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.27user 0.03system 0:00.24elapsed 931%CPU (0avgtext+0avgdata 38104maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.18user 0.03system 0:00.25elapsed 857%CPU (0avgtext+0avgdata 38484maxresident)k
+0inputs+0outputs (0major+5264minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.10user 0.04system 0:00.22elapsed 968%CPU (0avgtext+0avgdata 38476maxresident)k
+0inputs+0outputs (0major+5254minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.20user 0.03system 0:00.26elapsed 843%CPU (0avgtext+0avgdata 38276maxresident)k
+0inputs+0outputs (0major+5266minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.12user 0.03system 0:00.24elapsed 892%CPU (0avgtext+0avgdata 38292maxresident)k
+0inputs+0outputs (0major+5259minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.19user 0.03system 0:00.24elapsed 899%CPU (0avgtext+0avgdata 38360maxresident)k
+0inputs+0outputs (0major+5256minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.14user 0.03system 0:00.24elapsed 880%CPU (0avgtext+0avgdata 38240maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.27user 0.04system 0:00.24elapsed 945%CPU (0avgtext+0avgdata 38352maxresident)k
+0inputs+0outputs (0major+5261minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.21user 0.04system 0:00.21elapsed 1033%CPU (0avgtext+0avgdata 38356maxresident)k
+0inputs+0outputs (0major+5273minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3055_8
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.15user 0.04system 0:00.24elapsed 888%CPU (0avgtext+0avgdata 38016maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.29user 0.03system 0:00.27elapsed 850%CPU (0avgtext+0avgdata 38196maxresident)k
+0inputs+0outputs (0major+5269minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.02user 0.07system 0:00.26elapsed 804%CPU (0avgtext+0avgdata 38208maxresident)k
+0inputs+0outputs (0major+5268minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.25user 0.03system 0:00.24elapsed 929%CPU (0avgtext+0avgdata 38468maxresident)k
+0inputs+0outputs (0major+5261minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.17user 0.04system 0:00.25elapsed 872%CPU (0avgtext+0avgdata 38124maxresident)k
+0inputs+0outputs (0major+5257minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.12user 0.05system 0:00.27elapsed 806%CPU (0avgtext+0avgdata 38352maxresident)k
+0inputs+0outputs (0major+5264minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.01user 0.02system 0:00.23elapsed 865%CPU (0avgtext+0avgdata 38168maxresident)k
+0inputs+0outputs (0major+5271minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.26user 0.02system 0:00.24elapsed 933%CPU (0avgtext+0avgdata 38376maxresident)k
+0inputs+0outputs (0major+5272minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.22user 0.04system 0:00.21elapsed 1038%CPU (0avgtext+0avgdata 38340maxresident)k
+0inputs+0outputs (0major+5267minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3058_7
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.11user 0.04system 0:00.26elapsed 820%CPU (0avgtext+0avgdata 38128maxresident)k
+0inputs+0outputs (0major+5271minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+1.70user 0.03system 0:00.24elapsed 713%CPU (0avgtext+0avgdata 38416maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.07user 0.03system 0:00.28elapsed 733%CPU (0avgtext+0avgdata 38052maxresident)k
+0inputs+0outputs (0major+5270minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.12user 0.05system 0:00.24elapsed 883%CPU (0avgtext+0avgdata 38348maxresident)k
+0inputs+0outputs (0major+5257minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 5:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.13user 0.03system 0:00.26elapsed 811%CPU (0avgtext+0avgdata 38252maxresident)k
+0inputs+0outputs (0major+5260minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 6:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.21user 0.03system 0:00.27elapsed 832%CPU (0avgtext+0avgdata 38356maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 7:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.22user 0.05system 0:00.22elapsed 1021%CPU (0avgtext+0avgdata 38480maxresident)k
+0inputs+0outputs (0major+5258minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 8:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.24user 0.04system 0:00.24elapsed 931%CPU (0avgtext+0avgdata 38304maxresident)k
+0inputs+0outputs (0major+5275minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 9:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.20user 0.03system 0:00.26elapsed 850%CPU (0avgtext+0avgdata 38316maxresident)k
+0inputs+0outputs (0major+5259minor)pagefaults 0swaps
+
+
+==================================================
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3059_5
+Run 1:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.08user 0.04system 0:00.25elapsed 850%CPU (0avgtext+0avgdata 38288maxresident)k
+0inputs+0outputs (0major+5263minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 2:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.23user 0.04system 0:00.25elapsed 877%CPU (0avgtext+0avgdata 38252maxresident)k
+0inputs+0outputs (0major+5262minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 3:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.05user 0.03system 0:00.26elapsed 801%CPU (0avgtext+0avgdata 38356maxresident)k
+0inputs+0outputs (0major+5265minor)pagefaults 0swaps
+
+
+==================================================
+
+Run 4:
+
+
+Traceback (most recent call last):
+  File "/home/matheus/Repos/Uni/Dissertation/src/src/hybrid.py", line 14, in <module>
+    TIMEOUT = int(sys.argv[9])
+ValueError: invalid literal for int() with base 10: '4.0'
+Command exited with non-zero status 1
+2.05user 0.03system 0:00.26elapsed 798%CPU (0avgtext+0avgdata 38356maxresident)k
+0inputs+0outputs (0major+5275minor)pagefaults 0swaps
+
+
+==================================================
+

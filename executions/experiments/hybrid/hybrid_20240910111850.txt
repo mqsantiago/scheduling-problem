@@ -1,0 +1,29 @@
+Chains: 2
+Steps: 5
+Neighbours Initial N: 1000
+Neighbours Increase Coefficient: 1
+Temperature Max: 100
+Temperature Increase Coefficient: 0.25
+
+
+==================================================
+
+
+==================================================
+
+NEW INSTANCE: j3060_1
+Run 1:
+
+Updating HORIZON to 22
+Running command: ../../../../Downloads/savilerow-1.10.0-linux/savilerow -sat -amo-detect -sat-family -sat-sum-mdd kissat -run-solver ../../../../Downloads/savilerow-1.10.0-linux/examples/mrcpsp-pb/mrcpsp-pb.eprime src/helpers/sr/30/j3060_1.param
+
+ERROR: SAT family -sat-sum-mdd not supported.
+For command line help, use the -help flag.
+
+
+25.83user 0.04system 0:23.63elapsed 109%CPU (0avgtext+0avgdata 29056maxresident)k
+0inputs+72outputs (0major+7486minor)pagefaults 0swaps
+
+
+==================================================
+

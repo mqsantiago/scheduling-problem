@@ -1,13 +1,13 @@
 import subprocess
 
 CHAINS = 2
-STEPS = 5
+STEPS = 3
 
 NEIGHBOURS_INITIAL_N = 1000
 NEIGHBOURS_INCREASE_COEFFICIENT = 1
 
 TEMPERATURE_MAX = 100
-TEMPERATURE_DECREASE_COEFFICIENT = 0.25
+TEMPERATURE_DECREASE_COEFFICIENT = 0.5
 
 INSTANCES = [
     # ("j3011_9", "30"),
@@ -18,7 +18,7 @@ INSTANCES = [
     # ("j3055_8", "30"),
     # ("j3058_7", "30"),
     # ("j3059_5", "30"),
-    # ("j3060_1", "30"),
+    ("j3060_1", "30"),
     # ("j3063_7", "30"),
     # ("J50107_4", "50"),
     # ("J50103_2", "50"),
@@ -29,18 +29,22 @@ INSTANCES = [
     # ("J5059_2", "50"),
     # ("J5076_1", "50"),
     # ("J5089_4", "50"),
-    # ("J5090_1", "50"),
+    ("J5090_1", "50"),
     # ("J10010_1", "100"),
     # ("J100107_2", "100"),
     # ("J10021_5", "100"),
     # ("J10023_4", "100"),
     # ("J10028_3", "100"),
-    ("J10032_5", "100"),
+    # ("J10032_5", "100"),
     # ("J10039_1", "100"),
     # ("J10052_1", "100"),
     # ("J10063_3", "100"),
-    # ("J10078_4", "100"),
+    ("J10078_4", "100"),
+    # ("c15", "a"),
 ]
+
+# TIMES = list(range(5, 150, 15))
+# TIMES = [30, 35, 40]
 
 
 def print_env():
@@ -54,6 +58,9 @@ def print_env():
 
 print_env()
 
+# for t in TIMES:
+# print(f"TIME: {t}")
+
 for instance in INSTANCES:
     print("\n" + "=" * 50 + "\n")
     print("\n" + "=" * 50 + "\n")
@@ -62,11 +69,11 @@ for instance in INSTANCES:
 
     N = 10
 
-    if instance[0] == "J10028_3":
-        N = 7
+    if instance[0] == "NAN":
+        N = 1
 
     for i in range(N):
-        command = f"timeout 10m time python3 src/main.py {instance[0]} {instance[1]} {CHAINS} {STEPS} {NEIGHBOURS_INITIAL_N} {NEIGHBOURS_INCREASE_COEFFICIENT} {TEMPERATURE_MAX} {TEMPERATURE_DECREASE_COEFFICIENT}"
+        command = f"time python3 src/main.py {instance[0]} {instance[1]} {CHAINS} {STEPS} {NEIGHBOURS_INITIAL_N} {NEIGHBOURS_INCREASE_COEFFICIENT} {TEMPERATURE_MAX} {TEMPERATURE_DECREASE_COEFFICIENT}"
 
         result = subprocess.run(
             command,

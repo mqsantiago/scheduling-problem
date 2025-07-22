@@ -4,6 +4,7 @@ import importlib
 import os
 import sys
 import numpy as np
+import time
 
 from dotenv import load_dotenv
 
@@ -101,8 +102,8 @@ def generate_activity_initial_solution():
                 if len(tasks[i]) == 0:
                     options.append(i + 1)
 
-    while not nonrenewable_resources_constraints_met(activities, modes):
-        modes = generate_mode_neighbour(activities, modes)
+    if not nonrenewable_resources_constraints_met(activities, modes):
+        sys.exit(1)
 
     return activities, modes
 
@@ -350,7 +351,7 @@ def acceptance_threshold(temperature, delta):
     return np.exp(-delta / temperature) > random.uniform(0.0, 1.0)
 
 
-def sa_procedure():
+def sa_procedure(timeout=None):
     initial_activities, initial_modes = generate_activity_initial_solution()
 
     initial_cost = cost(initial_activities, initial_modes)
@@ -363,11 +364,17 @@ def sa_procedure():
     current_modes = list(initial_modes)
     current_cost = initial_cost
 
-    for _ in range(CHAINS):
+    total_time = 0
+
+    c = 0
+
+    while c < CHAINS or (timeout is not None and timeout > total_time):
         current_temperature = TEMPERATURE_MAX
         for step in range(1, STEPS + 1):
+
             n = NEIGHBOURS_INITIAL_N * (1 + NEIGHBOURS_INCREASE_COEFFICIENT * step)
             for _ in range(n):
+                start_time = time.time()
                 neighbour_activities = list(current_activities)
                 neighbour_modes = list(current_modes)
 
@@ -396,8 +403,15 @@ def sa_procedure():
                     current_activities = list(neighbour_activities)
                     current_modes = list(neighbour_modes)
                     current_cost = neighbour_cost
+
+                total_time += time.time() - start_time
+
+                if timeout is not None and timeout <= total_time:
+                    return best_activities, best_modes, best_cost
+
             current_temperature = (
                 TEMPERATURE_DECREASE_COEFFICIENT**step
             ) * TEMPERATURE_MAX
+        c += 1
 
     return best_activities, best_modes, best_cost
